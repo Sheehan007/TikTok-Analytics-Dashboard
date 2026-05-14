@@ -81,7 +81,3 @@ Then open `http://localhost:4317`.
 - Funnel analysis from impressions to clicks to conversions to revenue.
 - Advertiser segment diagnostics with prioritized recommendations.
 - Campaign objective and ad product efficiency views for weekly business reviews.
-
-## Why This Fits TikTok
-
-The project mirrors product data work for an ads platform: regional and country reporting, campaign objective analysis, advertiser segment diagnostics, dashboarding for weekly business reviews, and business impact sizing through ROAS, revenue growth, and funnel efficiency.
