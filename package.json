@@ -1,0 +1,20 @@
+{
+  "name": "tiktok-ads-product-performance-analytics",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SQL and Python powered TikTok Ads product performance analytics dashboard.",
+  "scripts": {
+    "build:data": "python3 scripts/generate_project_data.py",
+    "test": "python3 -m unittest discover -s tests",
+    "serve": "python3 -m http.server 4317"
+  },
+  "keywords": [
+    "product-analytics",
+    "advertising-metrics",
+    "sql",
+    "python",
+    "dashboard",
+    "tiktok-ads"
+  ],
+  "license": "MIT"
+}

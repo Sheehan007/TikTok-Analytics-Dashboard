@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>TikTok Ads Product Performance Analytics</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">TA</div>
+        <div>
+          <p class="eyebrow">Product analytics</p>
+          <h1>TikTok Ads Performance Dashboard</h1>
+        </div>
+      </div>
+      <div class="header-actions">
+        <button class="button secondary" id="resetFilters" type="button">Reset</button>
+        <button class="button primary" id="exportCsv" type="button">Export CSV</button>
+      </div>
+    </header>
+
+    <main class="dashboard">
+      <section class="toolbar" aria-label="Dashboard filters">
+        <label>
+          <span>Period</span>
+          <select id="periodFilter">
+            <option value="8">Last 8 weeks</option>
+            <option value="4">Last 4 weeks</option>
+            <option value="13">Last 13 weeks</option>
+            <option value="26">Last 26 weeks</option>
+            <option value="all">All weeks</option>
+          </select>
+        </label>
+        <label>
+          <span>Region</span>
+          <select id="regionFilter"></select>
+        </label>
+        <label>
+          <span>Country</span>
+          <select id="countryFilter"></select>
+        </label>
+        <label>
+          <span>Segment</span>
+          <select id="segmentFilter"></select>
+        </label>
+        <label>
+          <span>Objective</span>
+          <select id="objectiveFilter"></select>
+        </label>
+        <label>
+          <span>Ad product</span>
+          <select id="productFilter"></select>
+        </label>
+      </section>
+
+      <section class="kpi-grid" aria-label="Executive KPI scorecard">
+        <article class="metric-card">
+          <span>Revenue</span>
+          <strong id="kpiRevenue">$0</strong>
+          <small id="kpiGrowth">0%</small>
+        </article>
+        <article class="metric-card">
+          <span>Spend</span>
+          <strong id="kpiSpend">$0</strong>
+          <small id="kpiCpm">$0 CPM</small>
+        </article>
+        <article class="metric-card">
+          <span>ROAS</span>
+          <strong id="kpiRoas">0.0x</strong>
+          <small id="kpiCpa">$0 CPA</small>
+        </article>
+        <article class="metric-card">
+          <span>CTR</span>
+          <strong id="kpiCtr">0%</strong>
+          <small id="kpiCpc">$0 CPC</small>
+        </article>
+        <article class="metric-card">
+          <span>CVR</span>
+          <strong id="kpiCvr">0%</strong>
+          <small id="kpiConversions">0 conversions</small>
+        </article>
+        <article class="metric-card">
+          <span>D30 retention</span>
+          <strong id="kpiRetention">0%</strong>
+          <small id="kpiCohort">0 advertisers</small>
+        </article>
+      </section>
+
+      <section class="layout-grid">
+        <article class="panel panel-wide">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Trend monitoring</p>
+              <h2>Weekly revenue and spend</h2>
+            </div>
+            <span id="trendSummary" class="badge">0 weeks</span>
+          </div>
+          <div id="trendChart" class="chart chart-tall"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Market comparison</p>
+              <h2>Regional ROAS</h2>
+            </div>
+          </div>
+          <div id="regionChart" class="chart"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Funnel diagnostics</p>
+              <h2>Impressions to revenue</h2>
+            </div>
+          </div>
+          <div id="funnelChart" class="funnel"></div>
+        </article>
+
+        <article class="panel panel-wide">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Country scorecard</p>
+              <h2>ROAS vs CPA</h2>
+            </div>
+          </div>
+          <div id="countryScatter" class="chart chart-tall"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Weekly business review</p>
+              <h2>Country leaderboard</h2>
+            </div>
+          </div>
+          <div id="countryTable" class="table-wrap"></div>
+        </article>
+
+        <article class="panel panel-wide">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Product priorities</p>
+              <h2>Segment recommendations</h2>
+            </div>
+          </div>
+          <div id="recommendationTable" class="table-wrap"></div>
+        </article>
+      </section>
+    </main>
+
+    <script src="assets/data.js"></script>
+    <script src="assets/dashboard.js"></script>
+  </body>
+</html>

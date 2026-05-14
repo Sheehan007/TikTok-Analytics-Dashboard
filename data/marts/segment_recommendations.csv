@@ -1,0 +1,37 @@
+region,advertiser_segment,campaign_objective,ad_product,spend,revenue,roas,cvr,cpa,d30_retention,revenue_growth,priority,recommended_action,estimated_revenue_upside
+Asia Pacific,SMB,App Installs,Spark Ads,11241.87,22173.22,1.972,0.04248,16.61,0.325,0.014,High,Launch retention intervention for first-month advertiser success.,4807.27
+Asia Pacific,SMB,Traffic,App Promotion,3790.77,5749.87,1.517,0.02573,18.14,0.375,0.13,High,"Fix conversion setup, pixel readiness, and campaign objective guidance.",3347.98
+Asia Pacific,SMB,App Installs,App Promotion,5902.73,11774.67,1.995,0.04128,17.83,0.417,0.171,High,Launch retention intervention for first-month advertiser success.,2391.88
+Europe,SMB,Traffic,Spark Ads,3483.55,7388.05,2.121,0.0323,13.05,0.438,0.09,High,Launch retention intervention for first-month advertiser success.,972.47
+Middle East & Africa,SMB,App Installs,Spark Ads,1961.89,3826.36,1.95,0.04277,17.67,0.375,-0.02,High,Launch retention intervention for first-month advertiser success.,882.18
+North America,SMB,Traffic,App Promotion,5200.26,11841.36,2.277,0.03044,14.02,0.312,0.051,High,Launch retention intervention for first-month advertiser success.,639.26
+Europe,SMB,App Installs,App Promotion,907.68,1614.76,1.779,0.0382,20.17,0.5,-0.282,High,"Fix conversion setup, pixel readiness, and campaign objective guidance.",563.67
+North America,SMB,App Installs,App Promotion,3172.37,7099.16,2.238,0.04088,16.35,0.375,0.008,High,Launch retention intervention for first-month advertiser success.,514.53
+Asia Pacific,SMB,Traffic,Spark Ads,1504.35,3243.14,2.156,0.03408,12.97,0.25,0.063,High,Launch retention intervention for first-month advertiser success.,367.3
+North America,Enterprise,Conversions,Spark Ads,40915.22,513223.03,12.544,0.10859,6.58,0.469,-0.003,High,Launch retention intervention for first-month advertiser success.,0
+Asia Pacific,Agency,App Installs,App Promotion,20075.5,70521.17,3.513,0.05365,12.81,0.469,0.003,High,Launch retention intervention for first-month advertiser success.,0
+Asia Pacific,Mid-Market,Conversions,Catalog Ads,19913.44,134135.14,6.736,0.09388,9.19,0.4,0.004,High,Launch retention intervention for first-month advertiser success.,0
+Asia Pacific,Agency,App Installs,Spark Ads,17835.17,90515.54,5.075,0.06514,9.56,0.344,0.041,High,Launch retention intervention for first-month advertiser success.,0
+Asia Pacific,Mid-Market,Conversions,Spark Ads,16185.12,107752.2,6.657,0.08498,8.95,0.306,0.071,High,Launch retention intervention for first-month advertiser success.,0
+Middle East & Africa,Mid-Market,Conversions,Catalog Ads,15730.86,100860.88,6.412,0.08992,9.69,0.39,0.01,High,Launch retention intervention for first-month advertiser success.,0
+North America,SMB,Conversions,Smart Performance Campaign,14287.9,65650.78,4.595,0.08339,10.87,0.438,-0.026,High,Launch retention intervention for first-month advertiser success.,0
+Asia Pacific,Mid-Market,Catalog Sales,Catalog Ads,13197.56,88503.14,6.706,0.08443,8.72,0.423,0.043,High,Launch retention intervention for first-month advertiser success.,0
+Asia Pacific,Enterprise,Catalog Sales,Catalog Ads,12701.39,135036.99,10.632,0.10226,7.03,0.312,0.043,High,Launch retention intervention for first-month advertiser success.,0
+Middle East & Africa,Mid-Market,App Installs,App Promotion,10867.8,27861.51,2.564,0.04662,16.8,0.469,0.298,High,Launch retention intervention for first-month advertiser success.,0
+Asia Pacific,Agency,Lead Generation,Smart Performance Campaign,10541.42,71538.6,6.786,0.09581,7.46,0.438,0.075,High,Launch retention intervention for first-month advertiser success.,0
+Europe,Mid-Market,Lead Generation,Smart Performance Campaign,10277.79,55103.14,5.361,0.08447,8.4,0.458,-0.077,High,Launch retention intervention for first-month advertiser success.,0
+North America,SMB,Conversions,Catalog Ads,9976.24,43521.68,4.363,0.07521,10.94,0.296,-0.092,High,Launch retention intervention for first-month advertiser success.,0
+Europe,Agency,App Installs,App Promotion,8655.0,28890.11,3.338,0.05386,13.48,0.375,0.074,High,Launch retention intervention for first-month advertiser success.,0
+Asia Pacific,SMB,Catalog Sales,Spark Ads,8304.09,40538.57,4.882,0.0613,10.43,0.406,-0.021,High,Launch retention intervention for first-month advertiser success.,0
+Asia Pacific,SMB,Lead Generation,Spark Ads,8290.17,27697.66,3.341,0.05802,10.75,0.406,0.052,High,Launch retention intervention for first-month advertiser success.,0
+Asia Pacific,Agency,Traffic,App Promotion,8155.72,21549.13,2.642,0.03754,13.13,0.312,0.005,High,Launch retention intervention for first-month advertiser success.,0
+Europe,Mid-Market,Catalog Sales,Smart Performance Campaign,8060.83,67813.4,8.413,0.09446,7.8,0.312,0.061,High,Launch retention intervention for first-month advertiser success.,0
+Europe,Mid-Market,App Installs,Smart Performance Campaign,7766.44,30032.47,3.867,0.06801,11.49,0.438,0.077,High,Launch retention intervention for first-month advertiser success.,0
+Middle East & Africa,Mid-Market,Catalog Sales,Smart Performance Campaign,7541.85,63045.83,8.359,0.09224,8.17,0.421,0.013,High,Launch retention intervention for first-month advertiser success.,0
+North America,Agency,App Installs,App Promotion,7402.05,31827.47,4.3,0.05409,12.11,0.375,0.022,High,Launch retention intervention for first-month advertiser success.,0
+Asia Pacific,SMB,Conversions,Smart Performance Campaign,7366.49,24287.12,3.297,0.07397,13.47,0.458,0.033,High,Launch retention intervention for first-month advertiser success.,0
+Asia Pacific,SMB,Conversions,Catalog Ads,7342.34,26097.34,3.554,0.07056,12.36,0.458,-0.049,High,Launch retention intervention for first-month advertiser success.,0
+Europe,Mid-Market,Conversions,Spark Ads,7137.38,43715.93,6.125,0.08055,9.55,0.188,-0.062,High,Launch retention intervention for first-month advertiser success.,0
+Middle East & Africa,Mid-Market,Conversions,Spark Ads,6679.43,44431.84,6.652,0.08465,9.39,0.375,0.065,High,Launch retention intervention for first-month advertiser success.,0
+North America,SMB,App Installs,Spark Ads,6659.72,19553.91,2.936,0.04906,12.98,0.312,0.063,High,Launch retention intervention for first-month advertiser success.,0
+Europe,Enterprise,App Installs,Spark Ads,6258.69,37249.67,5.952,0.06916,9.38,0.375,-0.081,High,Launch retention intervention for first-month advertiser success.,0

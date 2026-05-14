@@ -1,0 +1,181 @@
+advertiser_id,advertiser_name,advertiser_segment,industry,region,country,signup_month
+ADV0001,Food&Beverage Signal 001,SMB,Food & Beverage,North America,Canada,2024-01-01
+ADV0002,Travel Signal 002,Agency,Travel,Europe,United Kingdom,2024-06-01
+ADV0003,Beauty Signal 003,Mid-Market,Beauty,Asia Pacific,Australia,2024-11-01
+ADV0004,Beauty Signal 004,Agency,Beauty,Middle East & Africa,South Africa,2024-06-01
+ADV0005,Retail Signal 005,Agency,Retail,North America,United States,2024-04-01
+ADV0006,Gaming Signal 006,SMB,Gaming,Middle East & Africa,United Arab Emirates,2024-08-01
+ADV0007,Gaming Signal 007,Mid-Market,Gaming,North America,United States,2024-10-01
+ADV0008,Education Signal 008,Enterprise,Education,Europe,France,2024-02-01
+ADV0009,Food&Beverage Signal 009,Mid-Market,Food & Beverage,Asia Pacific,Indonesia,2024-09-01
+ADV0010,Gaming Signal 010,SMB,Gaming,Asia Pacific,Japan,2024-02-01
+ADV0011,Travel Signal 011,Enterprise,Travel,Europe,France,2024-03-01
+ADV0012,Retail Signal 012,Mid-Market,Retail,Middle East & Africa,Saudi Arabia,2024-05-01
+ADV0013,Beauty Signal 013,SMB,Beauty,Asia Pacific,South Korea,2024-12-01
+ADV0014,Retail Signal 014,Mid-Market,Retail,Asia Pacific,Japan,2024-02-01
+ADV0015,Education Signal 015,Enterprise,Education,North America,United States,2024-07-01
+ADV0016,Gaming Signal 016,Mid-Market,Gaming,Middle East & Africa,Saudi Arabia,2024-10-01
+ADV0017,Travel Signal 017,SMB,Travel,Europe,Germany,2024-03-01
+ADV0018,Food&Beverage Signal 018,Enterprise,Food & Beverage,Europe,France,2024-04-01
+ADV0019,Food&Beverage Signal 019,SMB,Food & Beverage,Asia Pacific,Japan,2024-07-01
+ADV0020,Gaming Signal 020,SMB,Gaming,Europe,United Kingdom,2024-10-01
+ADV0021,Fintech Signal 021,SMB,Fintech,Middle East & Africa,United Arab Emirates,2024-01-01
+ADV0022,Food&Beverage Signal 022,Enterprise,Food & Beverage,Middle East & Africa,United Arab Emirates,2024-09-01
+ADV0023,Travel Signal 023,Agency,Travel,Asia Pacific,Indonesia,2024-02-01
+ADV0024,Gaming Signal 024,SMB,Gaming,Asia Pacific,Australia,2024-11-01
+ADV0025,Education Signal 025,SMB,Education,Asia Pacific,Australia,2024-11-01
+ADV0026,ConsumerApps Signal 026,Mid-Market,Consumer Apps,Asia Pacific,South Korea,2024-06-01
+ADV0027,ConsumerApps Signal 027,Enterprise,Consumer Apps,North America,United States,2024-05-01
+ADV0028,Food&Beverage Signal 028,Mid-Market,Food & Beverage,Asia Pacific,South Korea,2024-02-01
+ADV0029,Education Signal 029,SMB,Education,Europe,Germany,2024-06-01
+ADV0030,Fintech Signal 030,SMB,Fintech,Asia Pacific,Australia,2024-03-01
+ADV0031,ConsumerApps Signal 031,Mid-Market,Consumer Apps,Middle East & Africa,South Africa,2024-09-01
+ADV0032,Food&Beverage Signal 032,SMB,Food & Beverage,North America,United States,2024-04-01
+ADV0033,Fintech Signal 033,SMB,Fintech,North America,Canada,2024-11-01
+ADV0034,Gaming Signal 034,Agency,Gaming,North America,United States,2024-12-01
+ADV0035,Gaming Signal 035,Enterprise,Gaming,Europe,United Kingdom,2024-11-01
+ADV0036,Travel Signal 036,Agency,Travel,North America,United States,2024-03-01
+ADV0037,Retail Signal 037,SMB,Retail,Europe,France,2024-02-01
+ADV0038,Retail Signal 038,Mid-Market,Retail,Asia Pacific,South Korea,2024-04-01
+ADV0039,Fintech Signal 039,SMB,Fintech,Middle East & Africa,Saudi Arabia,2024-08-01
+ADV0040,ConsumerApps Signal 040,SMB,Consumer Apps,Middle East & Africa,Saudi Arabia,2024-05-01
+ADV0041,ConsumerApps Signal 041,Mid-Market,Consumer Apps,Middle East & Africa,Saudi Arabia,2024-01-01
+ADV0042,Education Signal 042,SMB,Education,Asia Pacific,South Korea,2024-01-01
+ADV0043,Fintech Signal 043,SMB,Fintech,Asia Pacific,South Korea,2024-10-01
+ADV0044,ConsumerApps Signal 044,Enterprise,Consumer Apps,North America,United States,2024-08-01
+ADV0045,Retail Signal 045,Mid-Market,Retail,Asia Pacific,Indonesia,2024-07-01
+ADV0046,ConsumerApps Signal 046,Agency,Consumer Apps,Europe,United Kingdom,2024-06-01
+ADV0047,Travel Signal 047,SMB,Travel,Asia Pacific,Australia,2024-05-01
+ADV0048,Travel Signal 048,SMB,Travel,Asia Pacific,Australia,2024-08-01
+ADV0049,Beauty Signal 049,Mid-Market,Beauty,Middle East & Africa,South Africa,2024-04-01
+ADV0050,ConsumerApps Signal 050,SMB,Consumer Apps,Middle East & Africa,Saudi Arabia,2024-04-01
+ADV0051,Retail Signal 051,SMB,Retail,Asia Pacific,Japan,2024-08-01
+ADV0052,Food&Beverage Signal 052,Mid-Market,Food & Beverage,Europe,France,2024-08-01
+ADV0053,Gaming Signal 053,SMB,Gaming,North America,United States,2024-05-01
+ADV0054,Fintech Signal 054,Enterprise,Fintech,Asia Pacific,Australia,2024-02-01
+ADV0055,Education Signal 055,Enterprise,Education,Asia Pacific,Japan,2024-12-01
+ADV0056,Food&Beverage Signal 056,Mid-Market,Food & Beverage,Asia Pacific,Australia,2024-02-01
+ADV0057,Travel Signal 057,Mid-Market,Travel,Asia Pacific,Indonesia,2024-02-01
+ADV0058,Food&Beverage Signal 058,SMB,Food & Beverage,Asia Pacific,South Korea,2024-07-01
+ADV0059,Travel Signal 059,SMB,Travel,North America,United States,2024-09-01
+ADV0060,Education Signal 060,Agency,Education,Asia Pacific,Indonesia,2024-06-01
+ADV0061,Beauty Signal 061,Agency,Beauty,Asia Pacific,South Korea,2024-03-01
+ADV0062,Beauty Signal 062,Agency,Beauty,Asia Pacific,Japan,2024-08-01
+ADV0063,Education Signal 063,SMB,Education,North America,United States,2024-12-01
+ADV0064,Education Signal 064,SMB,Education,Asia Pacific,Japan,2024-11-01
+ADV0065,Food&Beverage Signal 065,Mid-Market,Food & Beverage,Europe,France,2024-07-01
+ADV0066,Gaming Signal 066,SMB,Gaming,Middle East & Africa,Saudi Arabia,2024-07-01
+ADV0067,Gaming Signal 067,SMB,Gaming,Middle East & Africa,United Arab Emirates,2024-12-01
+ADV0068,Food&Beverage Signal 068,Enterprise,Food & Beverage,Asia Pacific,Indonesia,2024-04-01
+ADV0069,Gaming Signal 069,SMB,Gaming,North America,Canada,2024-02-01
+ADV0070,Education Signal 070,SMB,Education,North America,United States,2024-11-01
+ADV0071,Travel Signal 071,SMB,Travel,Europe,France,2024-11-01
+ADV0072,Food&Beverage Signal 072,Mid-Market,Food & Beverage,North America,United States,2024-10-01
+ADV0073,ConsumerApps Signal 073,Mid-Market,Consumer Apps,Asia Pacific,Indonesia,2024-06-01
+ADV0074,Education Signal 074,SMB,Education,Asia Pacific,Australia,2024-04-01
+ADV0075,Education Signal 075,Agency,Education,Europe,France,2024-09-01
+ADV0076,Food&Beverage Signal 076,SMB,Food & Beverage,Asia Pacific,Japan,2024-01-01
+ADV0077,Beauty Signal 077,Agency,Beauty,Europe,France,2024-10-01
+ADV0078,ConsumerApps Signal 078,Agency,Consumer Apps,North America,United States,2024-06-01
+ADV0079,Education Signal 079,Agency,Education,Asia Pacific,Japan,2024-11-01
+ADV0080,Fintech Signal 080,Agency,Fintech,Middle East & Africa,Saudi Arabia,2024-06-01
+ADV0081,Gaming Signal 081,SMB,Gaming,North America,United States,2024-01-01
+ADV0082,Fintech Signal 082,Agency,Fintech,North America,United States,2024-07-01
+ADV0083,Travel Signal 083,Mid-Market,Travel,North America,United States,2024-09-01
+ADV0084,Education Signal 084,SMB,Education,Europe,United Kingdom,2024-04-01
+ADV0085,Fintech Signal 085,Mid-Market,Fintech,Europe,Germany,2024-05-01
+ADV0086,Education Signal 086,Agency,Education,North America,United States,2024-02-01
+ADV0087,Education Signal 087,Agency,Education,Asia Pacific,Japan,2024-01-01
+ADV0088,Retail Signal 088,SMB,Retail,Asia Pacific,Australia,2024-08-01
+ADV0089,Food&Beverage Signal 089,Mid-Market,Food & Beverage,Middle East & Africa,South Africa,2024-05-01
+ADV0090,Beauty Signal 090,SMB,Beauty,North America,United States,2024-12-01
+ADV0091,Beauty Signal 091,Mid-Market,Beauty,Europe,France,2024-02-01
+ADV0092,Travel Signal 092,SMB,Travel,North America,United States,2024-08-01
+ADV0093,Travel Signal 093,Agency,Travel,Middle East & Africa,Saudi Arabia,2024-06-01
+ADV0094,Education Signal 094,SMB,Education,Asia Pacific,Australia,2024-04-01
+ADV0095,Beauty Signal 095,Mid-Market,Beauty,North America,United States,2024-09-01
+ADV0096,Gaming Signal 096,Agency,Gaming,Asia Pacific,Japan,2024-12-01
+ADV0097,Fintech Signal 097,SMB,Fintech,Asia Pacific,South Korea,2024-08-01
+ADV0098,ConsumerApps Signal 098,Mid-Market,Consumer Apps,Europe,United Kingdom,2024-04-01
+ADV0099,Education Signal 099,Agency,Education,Europe,France,2024-08-01
+ADV0100,Travel Signal 100,Enterprise,Travel,Europe,United Kingdom,2024-12-01
+ADV0101,Travel Signal 101,Mid-Market,Travel,Asia Pacific,Australia,2024-12-01
+ADV0102,Fintech Signal 102,Agency,Fintech,Middle East & Africa,Saudi Arabia,2024-05-01
+ADV0103,Education Signal 103,Mid-Market,Education,North America,United States,2024-09-01
+ADV0104,Travel Signal 104,Enterprise,Travel,Asia Pacific,Indonesia,2024-06-01
+ADV0105,Food&Beverage Signal 105,Mid-Market,Food & Beverage,Asia Pacific,Australia,2024-09-01
+ADV0106,Travel Signal 106,SMB,Travel,Europe,Germany,2024-03-01
+ADV0107,Fintech Signal 107,SMB,Fintech,Asia Pacific,Japan,2024-12-01
+ADV0108,Fintech Signal 108,Mid-Market,Fintech,Middle East & Africa,Saudi Arabia,2024-06-01
+ADV0109,Retail Signal 109,Mid-Market,Retail,Europe,United Kingdom,2024-09-01
+ADV0110,Education Signal 110,SMB,Education,Asia Pacific,South Korea,2024-03-01
+ADV0111,Fintech Signal 111,SMB,Fintech,Europe,France,2024-12-01
+ADV0112,Beauty Signal 112,Agency,Beauty,Asia Pacific,Indonesia,2024-10-01
+ADV0113,Education Signal 113,SMB,Education,Asia Pacific,Australia,2024-07-01
+ADV0114,Education Signal 114,Mid-Market,Education,Asia Pacific,Indonesia,2024-06-01
+ADV0115,Travel Signal 115,Mid-Market,Travel,Middle East & Africa,Saudi Arabia,2024-01-01
+ADV0116,Beauty Signal 116,SMB,Beauty,Asia Pacific,Indonesia,2024-11-01
+ADV0117,Gaming Signal 117,Mid-Market,Gaming,Europe,Germany,2024-08-01
+ADV0118,ConsumerApps Signal 118,SMB,Consumer Apps,Asia Pacific,Indonesia,2024-02-01
+ADV0119,Fintech Signal 119,SMB,Fintech,Asia Pacific,South Korea,2024-09-01
+ADV0120,Fintech Signal 120,SMB,Fintech,Middle East & Africa,Saudi Arabia,2024-06-01
+ADV0121,Food&Beverage Signal 121,Mid-Market,Food & Beverage,Asia Pacific,Indonesia,2024-04-01
+ADV0122,Retail Signal 122,Mid-Market,Retail,North America,United States,2024-07-01
+ADV0123,Fintech Signal 123,Enterprise,Fintech,North America,Canada,2024-06-01
+ADV0124,ConsumerApps Signal 124,SMB,Consumer Apps,Asia Pacific,Indonesia,2024-06-01
+ADV0125,Retail Signal 125,Mid-Market,Retail,Asia Pacific,South Korea,2024-10-01
+ADV0126,Food&Beverage Signal 126,Agency,Food & Beverage,North America,United States,2024-12-01
+ADV0127,Gaming Signal 127,SMB,Gaming,North America,United States,2024-12-01
+ADV0128,Beauty Signal 128,Enterprise,Beauty,Europe,Germany,2024-12-01
+ADV0129,Fintech Signal 129,SMB,Fintech,Europe,Germany,2024-01-01
+ADV0130,Travel Signal 130,Mid-Market,Travel,Europe,France,2024-11-01
+ADV0131,Retail Signal 131,Agency,Retail,Asia Pacific,South Korea,2024-07-01
+ADV0132,Fintech Signal 132,SMB,Fintech,North America,United States,2024-04-01
+ADV0133,ConsumerApps Signal 133,Enterprise,Consumer Apps,Asia Pacific,South Korea,2024-02-01
+ADV0134,Beauty Signal 134,Enterprise,Beauty,Europe,France,2024-08-01
+ADV0135,Travel Signal 135,Mid-Market,Travel,Asia Pacific,Australia,2024-11-01
+ADV0136,Travel Signal 136,SMB,Travel,North America,United States,2024-10-01
+ADV0137,Food&Beverage Signal 137,SMB,Food & Beverage,Asia Pacific,South Korea,2024-01-01
+ADV0138,Beauty Signal 138,SMB,Beauty,Asia Pacific,South Korea,2024-04-01
+ADV0139,Gaming Signal 139,Agency,Gaming,North America,United States,2024-11-01
+ADV0140,Food&Beverage Signal 140,SMB,Food & Beverage,Asia Pacific,Japan,2024-07-01
+ADV0141,Fintech Signal 141,Mid-Market,Fintech,Asia Pacific,Australia,2024-03-01
+ADV0142,Fintech Signal 142,Mid-Market,Fintech,Europe,Germany,2024-10-01
+ADV0143,Retail Signal 143,Mid-Market,Retail,Middle East & Africa,United Arab Emirates,2024-09-01
+ADV0144,Gaming Signal 144,SMB,Gaming,Europe,United Kingdom,2024-07-01
+ADV0145,Education Signal 145,Enterprise,Education,North America,United States,2024-05-01
+ADV0146,Fintech Signal 146,Mid-Market,Fintech,Middle East & Africa,South Africa,2024-11-01
+ADV0147,Food&Beverage Signal 147,Enterprise,Food & Beverage,Asia Pacific,South Korea,2024-07-01
+ADV0148,Gaming Signal 148,SMB,Gaming,Asia Pacific,Japan,2024-03-01
+ADV0149,ConsumerApps Signal 149,Mid-Market,Consumer Apps,Asia Pacific,Indonesia,2024-01-01
+ADV0150,Beauty Signal 150,Mid-Market,Beauty,Middle East & Africa,Saudi Arabia,2024-05-01
+ADV0151,Gaming Signal 151,Agency,Gaming,Asia Pacific,Indonesia,2024-06-01
+ADV0152,Beauty Signal 152,SMB,Beauty,Asia Pacific,Japan,2024-04-01
+ADV0153,Education Signal 153,Mid-Market,Education,Europe,France,2024-06-01
+ADV0154,Fintech Signal 154,SMB,Fintech,Asia Pacific,Japan,2024-09-01
+ADV0155,Education Signal 155,Mid-Market,Education,Europe,United Kingdom,2024-04-01
+ADV0156,Education Signal 156,SMB,Education,Europe,Germany,2024-08-01
+ADV0157,Retail Signal 157,SMB,Retail,Europe,France,2024-07-01
+ADV0158,Beauty Signal 158,SMB,Beauty,Asia Pacific,Australia,2024-07-01
+ADV0159,ConsumerApps Signal 159,Mid-Market,Consumer Apps,Europe,France,2024-10-01
+ADV0160,ConsumerApps Signal 160,Mid-Market,Consumer Apps,North America,Canada,2024-12-01
+ADV0161,Education Signal 161,SMB,Education,Middle East & Africa,United Arab Emirates,2024-09-01
+ADV0162,Education Signal 162,Mid-Market,Education,Middle East & Africa,Saudi Arabia,2024-04-01
+ADV0163,Education Signal 163,Mid-Market,Education,North America,United States,2024-04-01
+ADV0164,Retail Signal 164,SMB,Retail,Europe,United Kingdom,2024-05-01
+ADV0165,Retail Signal 165,Agency,Retail,Middle East & Africa,South Africa,2024-05-01
+ADV0166,Beauty Signal 166,SMB,Beauty,North America,United States,2024-11-01
+ADV0167,Food&Beverage Signal 167,Mid-Market,Food & Beverage,Middle East & Africa,Saudi Arabia,2024-09-01
+ADV0168,Food&Beverage Signal 168,Agency,Food & Beverage,Asia Pacific,Indonesia,2024-05-01
+ADV0169,Education Signal 169,Agency,Education,Asia Pacific,Japan,2024-10-01
+ADV0170,ConsumerApps Signal 170,SMB,Consumer Apps,Europe,United Kingdom,2024-09-01
+ADV0171,Retail Signal 171,SMB,Retail,Asia Pacific,Indonesia,2024-08-01
+ADV0172,ConsumerApps Signal 172,Agency,Consumer Apps,Middle East & Africa,United Arab Emirates,2024-09-01
+ADV0173,Gaming Signal 173,SMB,Gaming,Asia Pacific,Indonesia,2024-03-01
+ADV0174,Gaming Signal 174,SMB,Gaming,North America,Canada,2024-09-01
+ADV0175,Fintech Signal 175,SMB,Fintech,Asia Pacific,South Korea,2024-06-01
+ADV0176,Beauty Signal 176,Enterprise,Beauty,Middle East & Africa,Saudi Arabia,2024-09-01
+ADV0177,Beauty Signal 177,SMB,Beauty,Asia Pacific,Indonesia,2024-12-01
+ADV0178,Education Signal 178,Agency,Education,Asia Pacific,Japan,2024-07-01
+ADV0179,Retail Signal 179,Mid-Market,Retail,Middle East & Africa,United Arab Emirates,2024-03-01
+ADV0180,Education Signal 180,SMB,Education,Asia Pacific,South Korea,2024-08-01

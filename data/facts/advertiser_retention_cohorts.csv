@@ -1,0 +1,2881 @@
+cohort_month,region,country,advertiser_segment,campaign_objective,cohort_size,retained_day_7,retained_day_30,retained_day_90
+2025-01-01,North America,United States,SMB,Conversions,15,8,7,4
+2025-01-01,North America,United States,SMB,Traffic,22,12,6,3
+2025-01-01,North America,United States,SMB,Lead Generation,14,7,6,3
+2025-01-01,North America,United States,SMB,App Installs,15,9,6,3
+2025-01-01,North America,United States,SMB,Catalog Sales,15,8,6,3
+2025-01-01,North America,United States,Mid-Market,Conversions,33,24,24,14
+2025-01-01,North America,United States,Mid-Market,Traffic,31,22,10,6
+2025-01-01,North America,United States,Mid-Market,Lead Generation,25,18,15,9
+2025-01-01,North America,United States,Mid-Market,App Installs,34,24,16,10
+2025-01-01,North America,United States,Mid-Market,Catalog Sales,33,23,19,11
+2025-01-01,North America,United States,Enterprise,Conversions,65,52,47,30
+2025-01-01,North America,United States,Enterprise,Traffic,58,45,21,13
+2025-01-01,North America,United States,Enterprise,Lead Generation,57,46,41,27
+2025-01-01,North America,United States,Enterprise,App Installs,41,36,24,15
+2025-01-01,North America,United States,Enterprise,Catalog Sales,65,54,50,31
+2025-01-01,North America,United States,Agency,Conversions,40,28,27,17
+2025-01-01,North America,United States,Agency,Traffic,53,38,17,10
+2025-01-01,North America,United States,Agency,Lead Generation,41,33,29,17
+2025-01-01,North America,United States,Agency,App Installs,50,37,23,15
+2025-01-01,North America,United States,Agency,Catalog Sales,45,33,30,18
+2025-01-01,North America,Canada,SMB,Conversions,12,6,6,4
+2025-01-01,North America,Canada,SMB,Traffic,12,6,2,1
+2025-01-01,North America,Canada,SMB,Lead Generation,12,6,4,2
+2025-01-01,North America,Canada,SMB,App Installs,12,6,4,2
+2025-01-01,North America,Canada,SMB,Catalog Sales,12,6,5,3
+2025-01-01,North America,Canada,Mid-Market,Conversions,14,8,8,5
+2025-01-01,North America,Canada,Mid-Market,Traffic,14,8,3,2
+2025-01-01,North America,Canada,Mid-Market,Lead Generation,18,11,9,5
+2025-01-01,North America,Canada,Mid-Market,App Installs,17,10,6,3
+2025-01-01,North America,Canada,Mid-Market,Catalog Sales,19,12,10,6
+2025-01-01,North America,Canada,Enterprise,Conversions,31,25,24,15
+2025-01-01,North America,Canada,Enterprise,Traffic,22,16,7,4
+2025-01-01,North America,Canada,Enterprise,Lead Generation,27,20,18,10
+2025-01-01,North America,Canada,Enterprise,App Installs,34,26,16,10
+2025-01-01,North America,Canada,Enterprise,Catalog Sales,28,23,19,12
+2025-01-01,North America,Canada,Agency,Conversions,26,20,18,11
+2025-01-01,North America,Canada,Agency,Traffic,21,15,7,4
+2025-01-01,North America,Canada,Agency,Lead Generation,17,12,10,6
+2025-01-01,North America,Canada,Agency,App Installs,25,16,10,6
+2025-01-01,North America,Canada,Agency,Catalog Sales,28,21,17,10
+2025-01-01,Europe,United Kingdom,SMB,Conversions,14,7,6,3
+2025-01-01,Europe,United Kingdom,SMB,Traffic,15,7,3,2
+2025-01-01,Europe,United Kingdom,SMB,Lead Generation,12,6,5,3
+2025-01-01,Europe,United Kingdom,SMB,App Installs,12,6,4,2
+2025-01-01,Europe,United Kingdom,SMB,Catalog Sales,12,6,6,4
+2025-01-01,Europe,United Kingdom,Mid-Market,Conversions,23,16,14,8
+2025-01-01,Europe,United Kingdom,Mid-Market,Traffic,16,10,5,3
+2025-01-01,Europe,United Kingdom,Mid-Market,Lead Generation,19,12,9,6
+2025-01-01,Europe,United Kingdom,Mid-Market,App Installs,21,14,9,6
+2025-01-01,Europe,United Kingdom,Mid-Market,Catalog Sales,25,16,15,8
+2025-01-01,Europe,United Kingdom,Enterprise,Conversions,32,26,24,15
+2025-01-01,Europe,United Kingdom,Enterprise,Traffic,38,28,14,9
+2025-01-01,Europe,United Kingdom,Enterprise,Lead Generation,46,36,29,18
+2025-01-01,Europe,United Kingdom,Enterprise,App Installs,46,35,24,14
+2025-01-01,Europe,United Kingdom,Enterprise,Catalog Sales,28,21,17,10
+2025-01-01,Europe,United Kingdom,Agency,Conversions,32,24,24,16
+2025-01-01,Europe,United Kingdom,Agency,Traffic,34,25,11,7
+2025-01-01,Europe,United Kingdom,Agency,Lead Generation,23,18,15,9
+2025-01-01,Europe,United Kingdom,Agency,App Installs,28,20,12,7
+2025-01-01,Europe,United Kingdom,Agency,Catalog Sales,28,20,16,9
+2025-01-01,Europe,Germany,SMB,Conversions,14,7,6,4
+2025-01-01,Europe,Germany,SMB,Traffic,15,8,3,2
+2025-01-01,Europe,Germany,SMB,Lead Generation,12,6,5,3
+2025-01-01,Europe,Germany,SMB,App Installs,14,7,4,3
+2025-01-01,Europe,Germany,SMB,Catalog Sales,12,6,5,3
+2025-01-01,Europe,Germany,Mid-Market,Conversions,22,13,13,8
+2025-01-01,Europe,Germany,Mid-Market,Traffic,16,10,5,3
+2025-01-01,Europe,Germany,Mid-Market,Lead Generation,18,12,10,6
+2025-01-01,Europe,Germany,Mid-Market,App Installs,16,10,6,3
+2025-01-01,Europe,Germany,Mid-Market,Catalog Sales,16,10,9,5
+2025-01-01,Europe,Germany,Enterprise,Conversions,28,21,20,13
+2025-01-01,Europe,Germany,Enterprise,Traffic,31,22,10,6
+2025-01-01,Europe,Germany,Enterprise,Lead Generation,28,22,17,11
+2025-01-01,Europe,Germany,Enterprise,App Installs,26,20,12,8
+2025-01-01,Europe,Germany,Enterprise,Catalog Sales,33,26,24,14
+2025-01-01,Europe,Germany,Agency,Conversions,28,20,18,11
+2025-01-01,Europe,Germany,Agency,Traffic,28,20,9,6
+2025-01-01,Europe,Germany,Agency,Lead Generation,25,16,14,9
+2025-01-01,Europe,Germany,Agency,App Installs,33,22,15,9
+2025-01-01,Europe,Germany,Agency,Catalog Sales,29,20,17,11
+2025-01-01,Europe,France,SMB,Conversions,12,6,6,3
+2025-01-01,Europe,France,SMB,Traffic,12,6,3,1
+2025-01-01,Europe,France,SMB,Lead Generation,12,5,4,3
+2025-01-01,Europe,France,SMB,App Installs,12,6,4,2
+2025-01-01,Europe,France,SMB,Catalog Sales,13,7,5,3
+2025-01-01,Europe,France,Mid-Market,Conversions,19,12,11,7
+2025-01-01,Europe,France,Mid-Market,Traffic,14,9,4,2
+2025-01-01,Europe,France,Mid-Market,Lead Generation,18,11,9,5
+2025-01-01,Europe,France,Mid-Market,App Installs,20,12,8,5
+2025-01-01,Europe,France,Mid-Market,Catalog Sales,20,11,10,6
+2025-01-01,Europe,France,Enterprise,Conversions,24,18,16,10
+2025-01-01,Europe,France,Enterprise,Traffic,24,18,9,5
+2025-01-01,Europe,France,Enterprise,Lead Generation,33,24,18,11
+2025-01-01,Europe,France,Enterprise,App Installs,28,21,14,8
+2025-01-01,Europe,France,Enterprise,Catalog Sales,37,26,23,14
+2025-01-01,Europe,France,Agency,Conversions,20,13,12,8
+2025-01-01,Europe,France,Agency,Traffic,22,14,7,4
+2025-01-01,Europe,France,Agency,Lead Generation,24,17,13,8
+2025-01-01,Europe,France,Agency,App Installs,19,12,8,5
+2025-01-01,Europe,France,Agency,Catalog Sales,18,12,11,7
+2025-01-01,Middle East & Africa,United Arab Emirates,SMB,Conversions,12,7,6,3
+2025-01-01,Middle East & Africa,United Arab Emirates,SMB,Traffic,12,6,3,2
+2025-01-01,Middle East & Africa,United Arab Emirates,SMB,Lead Generation,12,6,4,2
+2025-01-01,Middle East & Africa,United Arab Emirates,SMB,App Installs,12,6,3,2
+2025-01-01,Middle East & Africa,United Arab Emirates,SMB,Catalog Sales,12,6,5,3
+2025-01-01,Middle East & Africa,United Arab Emirates,Mid-Market,Conversions,17,12,11,7
+2025-01-01,Middle East & Africa,United Arab Emirates,Mid-Market,Traffic,18,11,5,3
+2025-01-01,Middle East & Africa,United Arab Emirates,Mid-Market,Lead Generation,19,13,11,7
+2025-01-01,Middle East & Africa,United Arab Emirates,Mid-Market,App Installs,12,7,5,3
+2025-01-01,Middle East & Africa,United Arab Emirates,Mid-Market,Catalog Sales,14,9,8,5
+2025-01-01,Middle East & Africa,United Arab Emirates,Enterprise,Conversions,30,24,23,13
+2025-01-01,Middle East & Africa,United Arab Emirates,Enterprise,Traffic,26,19,9,6
+2025-01-01,Middle East & Africa,United Arab Emirates,Enterprise,Lead Generation,28,20,18,11
+2025-01-01,Middle East & Africa,United Arab Emirates,Enterprise,App Installs,31,25,16,10
+2025-01-01,Middle East & Africa,United Arab Emirates,Enterprise,Catalog Sales,22,17,14,8
+2025-01-01,Middle East & Africa,United Arab Emirates,Agency,Conversions,17,12,12,8
+2025-01-01,Middle East & Africa,United Arab Emirates,Agency,Traffic,21,15,8,4
+2025-01-01,Middle East & Africa,United Arab Emirates,Agency,Lead Generation,16,12,9,5
+2025-01-01,Middle East & Africa,United Arab Emirates,Agency,App Installs,16,11,6,4
+2025-01-01,Middle East & Africa,United Arab Emirates,Agency,Catalog Sales,18,13,12,7
+2025-01-01,Middle East & Africa,Saudi Arabia,SMB,Conversions,12,6,6,3
+2025-01-01,Middle East & Africa,Saudi Arabia,SMB,Traffic,13,6,3,1
+2025-01-01,Middle East & Africa,Saudi Arabia,SMB,Lead Generation,12,6,5,3
+2025-01-01,Middle East & Africa,Saudi Arabia,SMB,App Installs,12,5,3,2
+2025-01-01,Middle East & Africa,Saudi Arabia,SMB,Catalog Sales,12,6,5,3
+2025-01-01,Middle East & Africa,Saudi Arabia,Mid-Market,Conversions,20,12,11,7
+2025-01-01,Middle East & Africa,Saudi Arabia,Mid-Market,Traffic,15,8,4,2
+2025-01-01,Middle East & Africa,Saudi Arabia,Mid-Market,Lead Generation,16,10,9,5
+2025-01-01,Middle East & Africa,Saudi Arabia,Mid-Market,App Installs,13,8,5,3
+2025-01-01,Middle East & Africa,Saudi Arabia,Mid-Market,Catalog Sales,13,7,6,3
+2025-01-01,Middle East & Africa,Saudi Arabia,Enterprise,Conversions,32,22,22,13
+2025-01-01,Middle East & Africa,Saudi Arabia,Enterprise,Traffic,23,17,7,4
+2025-01-01,Middle East & Africa,Saudi Arabia,Enterprise,Lead Generation,31,22,19,12
+2025-01-01,Middle East & Africa,Saudi Arabia,Enterprise,App Installs,29,21,13,8
+2025-01-01,Middle East & Africa,Saudi Arabia,Enterprise,Catalog Sales,26,20,16,9
+2025-01-01,Middle East & Africa,Saudi Arabia,Agency,Conversions,19,12,11,7
+2025-01-01,Middle East & Africa,Saudi Arabia,Agency,Traffic,20,14,6,4
+2025-01-01,Middle East & Africa,Saudi Arabia,Agency,Lead Generation,22,14,11,7
+2025-01-01,Middle East & Africa,Saudi Arabia,Agency,App Installs,18,11,7,5
+2025-01-01,Middle East & Africa,Saudi Arabia,Agency,Catalog Sales,27,17,15,9
+2025-01-01,Middle East & Africa,South Africa,SMB,Conversions,12,6,5,3
+2025-01-01,Middle East & Africa,South Africa,SMB,Traffic,12,5,2,1
+2025-01-01,Middle East & Africa,South Africa,SMB,Lead Generation,12,5,4,2
+2025-01-01,Middle East & Africa,South Africa,SMB,App Installs,12,5,3,2
+2025-01-01,Middle East & Africa,South Africa,SMB,Catalog Sales,12,5,5,3
+2025-01-01,Middle East & Africa,South Africa,Mid-Market,Conversions,12,7,6,4
+2025-01-01,Middle East & Africa,South Africa,Mid-Market,Traffic,12,6,3,2
+2025-01-01,Middle East & Africa,South Africa,Mid-Market,Lead Generation,13,6,5,3
+2025-01-01,Middle East & Africa,South Africa,Mid-Market,App Installs,13,7,4,2
+2025-01-01,Middle East & Africa,South Africa,Mid-Market,Catalog Sales,13,7,6,4
+2025-01-01,Middle East & Africa,South Africa,Enterprise,Conversions,25,17,16,10
+2025-01-01,Middle East & Africa,South Africa,Enterprise,Traffic,27,18,9,5
+2025-01-01,Middle East & Africa,South Africa,Enterprise,Lead Generation,20,13,11,7
+2025-01-01,Middle East & Africa,South Africa,Enterprise,App Installs,20,13,8,5
+2025-01-01,Middle East & Africa,South Africa,Enterprise,Catalog Sales,18,12,10,6
+2025-01-01,Middle East & Africa,South Africa,Agency,Conversions,21,14,12,7
+2025-01-01,Middle East & Africa,South Africa,Agency,Traffic,23,14,7,4
+2025-01-01,Middle East & Africa,South Africa,Agency,Lead Generation,16,9,7,4
+2025-01-01,Middle East & Africa,South Africa,Agency,App Installs,16,10,6,4
+2025-01-01,Middle East & Africa,South Africa,Agency,Catalog Sales,16,10,9,6
+2025-01-01,Asia Pacific,Japan,SMB,Conversions,12,6,6,4
+2025-01-01,Asia Pacific,Japan,SMB,Traffic,12,6,2,1
+2025-01-01,Asia Pacific,Japan,SMB,Lead Generation,15,7,6,3
+2025-01-01,Asia Pacific,Japan,SMB,App Installs,14,8,5,2
+2025-01-01,Asia Pacific,Japan,SMB,Catalog Sales,12,6,5,3
+2025-01-01,Asia Pacific,Japan,Mid-Market,Conversions,15,9,9,5
+2025-01-01,Asia Pacific,Japan,Mid-Market,Traffic,18,11,5,3
+2025-01-01,Asia Pacific,Japan,Mid-Market,Lead Generation,15,10,8,5
+2025-01-01,Asia Pacific,Japan,Mid-Market,App Installs,17,11,7,4
+2025-01-01,Asia Pacific,Japan,Mid-Market,Catalog Sales,24,16,15,8
+2025-01-01,Asia Pacific,Japan,Enterprise,Conversions,36,27,27,15
+2025-01-01,Asia Pacific,Japan,Enterprise,Traffic,35,28,14,8
+2025-01-01,Asia Pacific,Japan,Enterprise,Lead Generation,37,28,23,14
+2025-01-01,Asia Pacific,Japan,Enterprise,App Installs,42,34,21,12
+2025-01-01,Asia Pacific,Japan,Enterprise,Catalog Sales,26,21,19,12
+2025-01-01,Asia Pacific,Japan,Agency,Conversions,22,15,14,9
+2025-01-01,Asia Pacific,Japan,Agency,Traffic,27,19,9,5
+2025-01-01,Asia Pacific,Japan,Agency,Lead Generation,34,22,19,12
+2025-01-01,Asia Pacific,Japan,Agency,App Installs,32,21,14,9
+2025-01-01,Asia Pacific,Japan,Agency,Catalog Sales,33,25,21,12
+2025-01-01,Asia Pacific,South Korea,SMB,Conversions,12,6,5,3
+2025-01-01,Asia Pacific,South Korea,SMB,Traffic,13,7,3,2
+2025-01-01,Asia Pacific,South Korea,SMB,Lead Generation,13,6,5,3
+2025-01-01,Asia Pacific,South Korea,SMB,App Installs,12,6,3,2
+2025-01-01,Asia Pacific,South Korea,SMB,Catalog Sales,12,6,5,3
+2025-01-01,Asia Pacific,South Korea,Mid-Market,Conversions,15,9,8,5
+2025-01-01,Asia Pacific,South Korea,Mid-Market,Traffic,14,9,4,2
+2025-01-01,Asia Pacific,South Korea,Mid-Market,Lead Generation,22,13,10,6
+2025-01-01,Asia Pacific,South Korea,Mid-Market,App Installs,23,14,9,5
+2025-01-01,Asia Pacific,South Korea,Mid-Market,Catalog Sales,15,10,8,5
+2025-01-01,Asia Pacific,South Korea,Enterprise,Conversions,34,24,23,15
+2025-01-01,Asia Pacific,South Korea,Enterprise,Traffic,30,24,12,7
+2025-01-01,Asia Pacific,South Korea,Enterprise,Lead Generation,35,26,22,15
+2025-01-01,Asia Pacific,South Korea,Enterprise,App Installs,28,22,13,8
+2025-01-01,Asia Pacific,South Korea,Enterprise,Catalog Sales,30,22,18,12
+2025-01-01,Asia Pacific,South Korea,Agency,Conversions,23,16,16,11
+2025-01-01,Asia Pacific,South Korea,Agency,Traffic,23,17,8,5
+2025-01-01,Asia Pacific,South Korea,Agency,Lead Generation,30,23,19,11
+2025-01-01,Asia Pacific,South Korea,Agency,App Installs,20,14,9,6
+2025-01-01,Asia Pacific,South Korea,Agency,Catalog Sales,20,13,11,7
+2025-01-01,Asia Pacific,Australia,SMB,Conversions,12,6,5,3
+2025-01-01,Asia Pacific,Australia,SMB,Traffic,12,6,3,1
+2025-01-01,Asia Pacific,Australia,SMB,Lead Generation,12,6,5,3
+2025-01-01,Asia Pacific,Australia,SMB,App Installs,12,6,4,2
+2025-01-01,Asia Pacific,Australia,SMB,Catalog Sales,12,6,6,4
+2025-01-01,Asia Pacific,Australia,Mid-Market,Conversions,12,7,6,4
+2025-01-01,Asia Pacific,Australia,Mid-Market,Traffic,18,12,5,3
+2025-01-01,Asia Pacific,Australia,Mid-Market,Lead Generation,19,12,11,6
+2025-01-01,Asia Pacific,Australia,Mid-Market,App Installs,16,9,6,3
+2025-01-01,Asia Pacific,Australia,Mid-Market,Catalog Sales,14,9,7,4
+2025-01-01,Asia Pacific,Australia,Enterprise,Conversions,25,18,18,10
+2025-01-01,Asia Pacific,Australia,Enterprise,Traffic,30,22,10,6
+2025-01-01,Asia Pacific,Australia,Enterprise,Lead Generation,26,21,18,11
+2025-01-01,Asia Pacific,Australia,Enterprise,App Installs,32,27,15,10
+2025-01-01,Asia Pacific,Australia,Enterprise,Catalog Sales,23,17,15,10
+2025-01-01,Asia Pacific,Australia,Agency,Conversions,18,12,12,7
+2025-01-01,Asia Pacific,Australia,Agency,Traffic,17,13,6,4
+2025-01-01,Asia Pacific,Australia,Agency,Lead Generation,21,15,11,7
+2025-01-01,Asia Pacific,Australia,Agency,App Installs,21,15,9,5
+2025-01-01,Asia Pacific,Australia,Agency,Catalog Sales,21,14,11,7
+2025-01-01,Asia Pacific,Indonesia,SMB,Conversions,17,8,8,4
+2025-01-01,Asia Pacific,Indonesia,SMB,Traffic,12,5,2,1
+2025-01-01,Asia Pacific,Indonesia,SMB,Lead Generation,17,8,6,4
+2025-01-01,Asia Pacific,Indonesia,SMB,App Installs,16,7,4,2
+2025-01-01,Asia Pacific,Indonesia,SMB,Catalog Sales,17,7,6,4
+2025-01-01,Asia Pacific,Indonesia,Mid-Market,Conversions,21,12,11,6
+2025-01-01,Asia Pacific,Indonesia,Mid-Market,Traffic,27,15,7,5
+2025-01-01,Asia Pacific,Indonesia,Mid-Market,Lead Generation,17,10,8,5
+2025-01-01,Asia Pacific,Indonesia,Mid-Market,App Installs,23,13,9,5
+2025-01-01,Asia Pacific,Indonesia,Mid-Market,Catalog Sales,18,9,8,5
+2025-01-01,Asia Pacific,Indonesia,Enterprise,Conversions,46,30,30,17
+2025-01-01,Asia Pacific,Indonesia,Enterprise,Traffic,34,21,10,6
+2025-01-01,Asia Pacific,Indonesia,Enterprise,Lead Generation,43,27,22,14
+2025-01-01,Asia Pacific,Indonesia,Enterprise,App Installs,31,21,13,8
+2025-01-01,Asia Pacific,Indonesia,Enterprise,Catalog Sales,35,22,20,12
+2025-01-01,Asia Pacific,Indonesia,Agency,Conversions,31,19,17,10
+2025-01-01,Asia Pacific,Indonesia,Agency,Traffic,36,22,11,6
+2025-01-01,Asia Pacific,Indonesia,Agency,Lead Generation,35,23,19,12
+2025-01-01,Asia Pacific,Indonesia,Agency,App Installs,34,22,15,9
+2025-01-01,Asia Pacific,Indonesia,Agency,Catalog Sales,31,18,16,9
+2025-02-01,North America,United States,SMB,Conversions,18,10,10,6
+2025-02-01,North America,United States,SMB,Traffic,20,11,5,3
+2025-02-01,North America,United States,SMB,Lead Generation,21,11,9,5
+2025-02-01,North America,United States,SMB,App Installs,21,12,7,4
+2025-02-01,North America,United States,SMB,Catalog Sales,15,8,8,5
+2025-02-01,North America,United States,Mid-Market,Conversions,39,27,26,16
+2025-02-01,North America,United States,Mid-Market,Traffic,30,21,10,6
+2025-02-01,North America,United States,Mid-Market,Lead Generation,31,22,18,11
+2025-02-01,North America,United States,Mid-Market,App Installs,28,20,13,8
+2025-02-01,North America,United States,Mid-Market,Catalog Sales,37,26,22,13
+2025-02-01,North America,United States,Enterprise,Conversions,55,47,43,27
+2025-02-01,North America,United States,Enterprise,Traffic,58,46,20,12
+2025-02-01,North America,United States,Enterprise,Lead Generation,63,54,43,25
+2025-02-01,North America,United States,Enterprise,App Installs,43,36,22,14
+2025-02-01,North America,United States,Enterprise,Catalog Sales,44,36,29,19
+2025-02-01,North America,United States,Agency,Conversions,40,31,28,18
+2025-02-01,North America,United States,Agency,Traffic,36,27,13,7
+2025-02-01,North America,United States,Agency,Lead Generation,37,30,24,15
+2025-02-01,North America,United States,Agency,App Installs,54,40,27,16
+2025-02-01,North America,United States,Agency,Catalog Sales,45,32,26,17
+2025-02-01,North America,Canada,SMB,Conversions,12,6,5,3
+2025-02-01,North America,Canada,SMB,Traffic,12,6,3,2
+2025-02-01,North America,Canada,SMB,Lead Generation,12,6,5,3
+2025-02-01,North America,Canada,SMB,App Installs,12,6,4,2
+2025-02-01,North America,Canada,SMB,Catalog Sales,12,6,5,3
+2025-02-01,North America,Canada,Mid-Market,Conversions,19,12,11,7
+2025-02-01,North America,Canada,Mid-Market,Traffic,20,13,6,3
+2025-02-01,North America,Canada,Mid-Market,Lead Generation,18,11,9,6
+2025-02-01,North America,Canada,Mid-Market,App Installs,17,11,7,4
+2025-02-01,North America,Canada,Mid-Market,Catalog Sales,17,10,9,6
+2025-02-01,North America,Canada,Enterprise,Conversions,24,19,19,12
+2025-02-01,North America,Canada,Enterprise,Traffic,22,17,7,5
+2025-02-01,North America,Canada,Enterprise,Lead Generation,32,25,21,13
+2025-02-01,North America,Canada,Enterprise,App Installs,28,22,14,9
+2025-02-01,North America,Canada,Enterprise,Catalog Sales,35,27,22,13
+2025-02-01,North America,Canada,Agency,Conversions,22,16,16,10
+2025-02-01,North America,Canada,Agency,Traffic,17,11,5,3
+2025-02-01,North America,Canada,Agency,Lead Generation,24,16,15,9
+2025-02-01,North America,Canada,Agency,App Installs,27,18,12,8
+2025-02-01,North America,Canada,Agency,Catalog Sales,25,19,16,11
+2025-02-01,Europe,United Kingdom,SMB,Conversions,15,8,8,4
+2025-02-01,Europe,United Kingdom,SMB,Traffic,14,7,3,2
+2025-02-01,Europe,United Kingdom,SMB,Lead Generation,12,7,5,3
+2025-02-01,Europe,United Kingdom,SMB,App Installs,15,7,4,2
+2025-02-01,Europe,United Kingdom,SMB,Catalog Sales,12,6,6,3
+2025-02-01,Europe,United Kingdom,Mid-Market,Conversions,22,15,15,10
+2025-02-01,Europe,United Kingdom,Mid-Market,Traffic,27,18,7,5
+2025-02-01,Europe,United Kingdom,Mid-Market,Lead Generation,17,11,9,6
+2025-02-01,Europe,United Kingdom,Mid-Market,App Installs,23,14,9,5
+2025-02-01,Europe,United Kingdom,Mid-Market,Catalog Sales,20,13,11,6
+2025-02-01,Europe,United Kingdom,Enterprise,Conversions,34,26,26,15
+2025-02-01,Europe,United Kingdom,Enterprise,Traffic,44,32,14,9
+2025-02-01,Europe,United Kingdom,Enterprise,Lead Generation,29,23,20,13
+2025-02-01,Europe,United Kingdom,Enterprise,App Installs,34,28,19,11
+2025-02-01,Europe,United Kingdom,Enterprise,Catalog Sales,35,26,21,12
+2025-02-01,Europe,United Kingdom,Agency,Conversions,28,22,19,11
+2025-02-01,Europe,United Kingdom,Agency,Traffic,28,20,10,6
+2025-02-01,Europe,United Kingdom,Agency,Lead Generation,29,22,18,11
+2025-02-01,Europe,United Kingdom,Agency,App Installs,29,21,12,8
+2025-02-01,Europe,United Kingdom,Agency,Catalog Sales,27,21,18,10
+2025-02-01,Europe,Germany,SMB,Conversions,12,6,6,3
+2025-02-01,Europe,Germany,SMB,Traffic,12,6,3,2
+2025-02-01,Europe,Germany,SMB,Lead Generation,14,7,6,4
+2025-02-01,Europe,Germany,SMB,App Installs,14,7,4,2
+2025-02-01,Europe,Germany,SMB,Catalog Sales,12,6,5,3
+2025-02-01,Europe,Germany,Mid-Market,Conversions,19,11,10,6
+2025-02-01,Europe,Germany,Mid-Market,Traffic,24,14,7,4
+2025-02-01,Europe,Germany,Mid-Market,Lead Generation,22,13,10,6
+2025-02-01,Europe,Germany,Mid-Market,App Installs,15,9,5,3
+2025-02-01,Europe,Germany,Mid-Market,Catalog Sales,20,13,10,6
+2025-02-01,Europe,Germany,Enterprise,Conversions,31,23,23,14
+2025-02-01,Europe,Germany,Enterprise,Traffic,34,26,13,8
+2025-02-01,Europe,Germany,Enterprise,Lead Generation,35,28,22,13
+2025-02-01,Europe,Germany,Enterprise,App Installs,40,31,21,12
+2025-02-01,Europe,Germany,Enterprise,Catalog Sales,42,32,26,15
+2025-02-01,Europe,Germany,Agency,Conversions,33,24,23,14
+2025-02-01,Europe,Germany,Agency,Traffic,30,20,10,6
+2025-02-01,Europe,Germany,Agency,Lead Generation,24,17,14,8
+2025-02-01,Europe,Germany,Agency,App Installs,22,16,10,6
+2025-02-01,Europe,Germany,Agency,Catalog Sales,23,16,14,8
+2025-02-01,Europe,France,SMB,Conversions,12,5,5,3
+2025-02-01,Europe,France,SMB,Traffic,12,6,3,1
+2025-02-01,Europe,France,SMB,Lead Generation,12,6,5,3
+2025-02-01,Europe,France,SMB,App Installs,12,6,3,2
+2025-02-01,Europe,France,SMB,Catalog Sales,12,6,5,3
+2025-02-01,Europe,France,Mid-Market,Conversions,13,7,6,4
+2025-02-01,Europe,France,Mid-Market,Traffic,13,8,4,2
+2025-02-01,Europe,France,Mid-Market,Lead Generation,16,9,8,4
+2025-02-01,Europe,France,Mid-Market,App Installs,13,7,4,2
+2025-02-01,Europe,France,Mid-Market,Catalog Sales,16,10,9,5
+2025-02-01,Europe,France,Enterprise,Conversions,32,25,23,15
+2025-02-01,Europe,France,Enterprise,Traffic,28,21,10,6
+2025-02-01,Europe,France,Enterprise,Lead Generation,32,21,19,12
+2025-02-01,Europe,France,Enterprise,App Installs,36,28,18,12
+2025-02-01,Europe,France,Enterprise,Catalog Sales,23,15,14,9
+2025-02-01,Europe,France,Agency,Conversions,20,14,14,9
+2025-02-01,Europe,France,Agency,Traffic,21,13,5,3
+2025-02-01,Europe,France,Agency,Lead Generation,19,13,11,7
+2025-02-01,Europe,France,Agency,App Installs,21,14,9,5
+2025-02-01,Europe,France,Agency,Catalog Sales,24,16,14,8
+2025-02-01,Middle East & Africa,United Arab Emirates,SMB,Conversions,12,7,6,4
+2025-02-01,Middle East & Africa,United Arab Emirates,SMB,Traffic,12,6,3,1
+2025-02-01,Middle East & Africa,United Arab Emirates,SMB,Lead Generation,12,6,5,3
+2025-02-01,Middle East & Africa,United Arab Emirates,SMB,App Installs,12,6,4,2
+2025-02-01,Middle East & Africa,United Arab Emirates,SMB,Catalog Sales,12,6,5,3
+2025-02-01,Middle East & Africa,United Arab Emirates,Mid-Market,Conversions,12,8,7,4
+2025-02-01,Middle East & Africa,United Arab Emirates,Mid-Market,Traffic,18,11,5,3
+2025-02-01,Middle East & Africa,United Arab Emirates,Mid-Market,Lead Generation,13,8,7,4
+2025-02-01,Middle East & Africa,United Arab Emirates,Mid-Market,App Installs,18,11,6,4
+2025-02-01,Middle East & Africa,United Arab Emirates,Mid-Market,Catalog Sales,12,8,7,5
+2025-02-01,Middle East & Africa,United Arab Emirates,Enterprise,Conversions,26,20,20,13
+2025-02-01,Middle East & Africa,United Arab Emirates,Enterprise,Traffic,25,21,9,5
+2025-02-01,Middle East & Africa,United Arab Emirates,Enterprise,Lead Generation,21,16,14,8
+2025-02-01,Middle East & Africa,United Arab Emirates,Enterprise,App Installs,31,24,16,9
+2025-02-01,Middle East & Africa,United Arab Emirates,Enterprise,Catalog Sales,30,22,20,12
+2025-02-01,Middle East & Africa,United Arab Emirates,Agency,Conversions,20,13,13,7
+2025-02-01,Middle East & Africa,United Arab Emirates,Agency,Traffic,18,13,6,3
+2025-02-01,Middle East & Africa,United Arab Emirates,Agency,Lead Generation,21,15,13,8
+2025-02-01,Middle East & Africa,United Arab Emirates,Agency,App Installs,20,15,9,5
+2025-02-01,Middle East & Africa,United Arab Emirates,Agency,Catalog Sales,17,13,12,7
+2025-02-01,Middle East & Africa,Saudi Arabia,SMB,Conversions,12,5,5,3
+2025-02-01,Middle East & Africa,Saudi Arabia,SMB,Traffic,12,5,2,1
+2025-02-01,Middle East & Africa,Saudi Arabia,SMB,Lead Generation,12,5,5,2
+2025-02-01,Middle East & Africa,Saudi Arabia,SMB,App Installs,12,6,3,2
+2025-02-01,Middle East & Africa,Saudi Arabia,SMB,Catalog Sales,12,6,5,3
+2025-02-01,Middle East & Africa,Saudi Arabia,Mid-Market,Conversions,20,13,11,7
+2025-02-01,Middle East & Africa,Saudi Arabia,Mid-Market,Traffic,20,12,6,4
+2025-02-01,Middle East & Africa,Saudi Arabia,Mid-Market,Lead Generation,21,14,11,7
+2025-02-01,Middle East & Africa,Saudi Arabia,Mid-Market,App Installs,18,10,7,4
+2025-02-01,Middle East & Africa,Saudi Arabia,Mid-Market,Catalog Sales,19,11,10,6
+2025-02-01,Middle East & Africa,Saudi Arabia,Enterprise,Conversions,36,27,23,14
+2025-02-01,Middle East & Africa,Saudi Arabia,Enterprise,Traffic,32,23,10,6
+2025-02-01,Middle East & Africa,Saudi Arabia,Enterprise,Lead Generation,31,22,19,12
+2025-02-01,Middle East & Africa,Saudi Arabia,Enterprise,App Installs,31,22,14,8
+2025-02-01,Middle East & Africa,Saudi Arabia,Enterprise,Catalog Sales,24,16,15,9
+2025-02-01,Middle East & Africa,Saudi Arabia,Agency,Conversions,21,14,13,8
+2025-02-01,Middle East & Africa,Saudi Arabia,Agency,Traffic,18,11,5,3
+2025-02-01,Middle East & Africa,Saudi Arabia,Agency,Lead Generation,19,13,11,6
+2025-02-01,Middle East & Africa,Saudi Arabia,Agency,App Installs,29,19,13,7
+2025-02-01,Middle East & Africa,Saudi Arabia,Agency,Catalog Sales,27,19,17,11
+2025-02-01,Middle East & Africa,South Africa,SMB,Conversions,12,5,5,3
+2025-02-01,Middle East & Africa,South Africa,SMB,Traffic,12,5,2,1
+2025-02-01,Middle East & Africa,South Africa,SMB,Lead Generation,12,5,4,2
+2025-02-01,Middle East & Africa,South Africa,SMB,App Installs,12,5,3,2
+2025-02-01,Middle East & Africa,South Africa,SMB,Catalog Sales,12,5,5,3
+2025-02-01,Middle East & Africa,South Africa,Mid-Market,Conversions,16,9,8,5
+2025-02-01,Middle East & Africa,South Africa,Mid-Market,Traffic,15,7,3,2
+2025-02-01,Middle East & Africa,South Africa,Mid-Market,Lead Generation,13,7,6,4
+2025-02-01,Middle East & Africa,South Africa,Mid-Market,App Installs,13,7,4,2
+2025-02-01,Middle East & Africa,South Africa,Mid-Market,Catalog Sales,17,10,9,6
+2025-02-01,Middle East & Africa,South Africa,Enterprise,Conversions,29,17,17,11
+2025-02-01,Middle East & Africa,South Africa,Enterprise,Traffic,20,12,6,3
+2025-02-01,Middle East & Africa,South Africa,Enterprise,Lead Generation,18,11,9,5
+2025-02-01,Middle East & Africa,South Africa,Enterprise,App Installs,19,13,7,5
+2025-02-01,Middle East & Africa,South Africa,Enterprise,Catalog Sales,26,17,14,9
+2025-02-01,Middle East & Africa,South Africa,Agency,Conversions,17,10,10,6
+2025-02-01,Middle East & Africa,South Africa,Agency,Traffic,17,11,5,3
+2025-02-01,Middle East & Africa,South Africa,Agency,Lead Generation,15,8,7,4
+2025-02-01,Middle East & Africa,South Africa,Agency,App Installs,18,11,7,4
+2025-02-01,Middle East & Africa,South Africa,Agency,Catalog Sales,21,13,12,8
+2025-02-01,Asia Pacific,Japan,SMB,Conversions,12,6,6,3
+2025-02-01,Asia Pacific,Japan,SMB,Traffic,12,6,3,1
+2025-02-01,Asia Pacific,Japan,SMB,Lead Generation,12,6,5,3
+2025-02-01,Asia Pacific,Japan,SMB,App Installs,12,6,4,2
+2025-02-01,Asia Pacific,Japan,SMB,Catalog Sales,13,7,6,4
+2025-02-01,Asia Pacific,Japan,Mid-Market,Conversions,21,14,13,8
+2025-02-01,Asia Pacific,Japan,Mid-Market,Traffic,20,14,6,3
+2025-02-01,Asia Pacific,Japan,Mid-Market,Lead Generation,23,14,11,7
+2025-02-01,Asia Pacific,Japan,Mid-Market,App Installs,22,13,8,5
+2025-02-01,Asia Pacific,Japan,Mid-Market,Catalog Sales,17,11,9,6
+2025-02-01,Asia Pacific,Japan,Enterprise,Conversions,43,34,32,20
+2025-02-01,Asia Pacific,Japan,Enterprise,Traffic,29,22,11,6
+2025-02-01,Asia Pacific,Japan,Enterprise,Lead Generation,42,34,26,17
+2025-02-01,Asia Pacific,Japan,Enterprise,App Installs,34,27,16,9
+2025-02-01,Asia Pacific,Japan,Enterprise,Catalog Sales,29,24,20,12
+2025-02-01,Asia Pacific,Japan,Agency,Conversions,33,22,21,13
+2025-02-01,Asia Pacific,Japan,Agency,Traffic,28,19,8,5
+2025-02-01,Asia Pacific,Japan,Agency,Lead Generation,30,22,18,10
+2025-02-01,Asia Pacific,Japan,Agency,App Installs,21,14,9,5
+2025-02-01,Asia Pacific,Japan,Agency,Catalog Sales,29,20,17,11
+2025-02-01,Asia Pacific,South Korea,SMB,Conversions,12,6,6,4
+2025-02-01,Asia Pacific,South Korea,SMB,Traffic,13,7,3,2
+2025-02-01,Asia Pacific,South Korea,SMB,Lead Generation,12,6,5,3
+2025-02-01,Asia Pacific,South Korea,SMB,App Installs,12,6,4,2
+2025-02-01,Asia Pacific,South Korea,SMB,Catalog Sales,12,6,5,3
+2025-02-01,Asia Pacific,South Korea,Mid-Market,Conversions,17,10,10,6
+2025-02-01,Asia Pacific,South Korea,Mid-Market,Traffic,16,9,4,2
+2025-02-01,Asia Pacific,South Korea,Mid-Market,Lead Generation,16,9,7,4
+2025-02-01,Asia Pacific,South Korea,Mid-Market,App Installs,19,11,7,5
+2025-02-01,Asia Pacific,South Korea,Mid-Market,Catalog Sales,22,14,13,8
+2025-02-01,Asia Pacific,South Korea,Enterprise,Conversions,34,24,22,12
+2025-02-01,Asia Pacific,South Korea,Enterprise,Traffic,38,27,12,7
+2025-02-01,Asia Pacific,South Korea,Enterprise,Lead Generation,32,24,19,12
+2025-02-01,Asia Pacific,South Korea,Enterprise,App Installs,26,19,12,7
+2025-02-01,Asia Pacific,South Korea,Enterprise,Catalog Sales,32,23,19,11
+2025-02-01,Asia Pacific,South Korea,Agency,Conversions,22,15,15,9
+2025-02-01,Asia Pacific,South Korea,Agency,Traffic,19,12,5,3
+2025-02-01,Asia Pacific,South Korea,Agency,Lead Generation,27,19,17,10
+2025-02-01,Asia Pacific,South Korea,Agency,App Installs,22,14,9,5
+2025-02-01,Asia Pacific,South Korea,Agency,Catalog Sales,27,19,16,10
+2025-02-01,Asia Pacific,Australia,SMB,Conversions,12,6,5,3
+2025-02-01,Asia Pacific,Australia,SMB,Traffic,12,6,3,1
+2025-02-01,Asia Pacific,Australia,SMB,Lead Generation,12,6,5,3
+2025-02-01,Asia Pacific,Australia,SMB,App Installs,12,6,4,2
+2025-02-01,Asia Pacific,Australia,SMB,Catalog Sales,12,6,5,3
+2025-02-01,Asia Pacific,Australia,Mid-Market,Conversions,13,8,7,4
+2025-02-01,Asia Pacific,Australia,Mid-Market,Traffic,19,12,6,3
+2025-02-01,Asia Pacific,Australia,Mid-Market,Lead Generation,13,9,7,4
+2025-02-01,Asia Pacific,Australia,Mid-Market,App Installs,12,8,5,3
+2025-02-01,Asia Pacific,Australia,Mid-Market,Catalog Sales,15,9,8,5
+2025-02-01,Asia Pacific,Australia,Enterprise,Conversions,20,14,12,8
+2025-02-01,Asia Pacific,Australia,Enterprise,Traffic,34,28,14,8
+2025-02-01,Asia Pacific,Australia,Enterprise,Lead Generation,31,25,23,14
+2025-02-01,Asia Pacific,Australia,Enterprise,App Installs,23,19,12,8
+2025-02-01,Asia Pacific,Australia,Enterprise,Catalog Sales,31,24,20,13
+2025-02-01,Asia Pacific,Australia,Agency,Conversions,23,17,16,10
+2025-02-01,Asia Pacific,Australia,Agency,Traffic,26,18,8,5
+2025-02-01,Asia Pacific,Australia,Agency,Lead Generation,23,16,14,8
+2025-02-01,Asia Pacific,Australia,Agency,App Installs,24,18,12,8
+2025-02-01,Asia Pacific,Australia,Agency,Catalog Sales,26,18,15,10
+2025-02-01,Asia Pacific,Indonesia,SMB,Conversions,14,6,6,4
+2025-02-01,Asia Pacific,Indonesia,SMB,Traffic,12,6,2,1
+2025-02-01,Asia Pacific,Indonesia,SMB,Lead Generation,13,6,5,3
+2025-02-01,Asia Pacific,Indonesia,SMB,App Installs,18,9,5,3
+2025-02-01,Asia Pacific,Indonesia,SMB,Catalog Sales,12,5,5,3
+2025-02-01,Asia Pacific,Indonesia,Mid-Market,Conversions,22,11,11,7
+2025-02-01,Asia Pacific,Indonesia,Mid-Market,Traffic,24,13,5,3
+2025-02-01,Asia Pacific,Indonesia,Mid-Market,Lead Generation,23,13,10,7
+2025-02-01,Asia Pacific,Indonesia,Mid-Market,App Installs,21,13,8,5
+2025-02-01,Asia Pacific,Indonesia,Mid-Market,Catalog Sales,24,12,10,6
+2025-02-01,Asia Pacific,Indonesia,Enterprise,Conversions,30,19,19,12
+2025-02-01,Asia Pacific,Indonesia,Enterprise,Traffic,42,26,12,8
+2025-02-01,Asia Pacific,Indonesia,Enterprise,Lead Generation,35,24,18,11
+2025-02-01,Asia Pacific,Indonesia,Enterprise,App Installs,39,25,17,10
+2025-02-01,Asia Pacific,Indonesia,Enterprise,Catalog Sales,30,21,19,12
+2025-02-01,Asia Pacific,Indonesia,Agency,Conversions,38,26,25,15
+2025-02-01,Asia Pacific,Indonesia,Agency,Traffic,34,20,9,6
+2025-02-01,Asia Pacific,Indonesia,Agency,Lead Generation,27,16,13,8
+2025-02-01,Asia Pacific,Indonesia,Agency,App Installs,26,17,10,6
+2025-02-01,Asia Pacific,Indonesia,Agency,Catalog Sales,29,18,15,9
+2025-03-01,North America,United States,SMB,Conversions,20,10,10,6
+2025-03-01,North America,United States,SMB,Traffic,23,13,6,3
+2025-03-01,North America,United States,SMB,Lead Generation,15,8,7,4
+2025-03-01,North America,United States,SMB,App Installs,20,11,7,4
+2025-03-01,North America,United States,SMB,Catalog Sales,24,14,12,7
+2025-03-01,North America,United States,Mid-Market,Conversions,31,21,18,12
+2025-03-01,North America,United States,Mid-Market,Traffic,38,28,12,7
+2025-03-01,North America,United States,Mid-Market,Lead Generation,36,23,21,13
+2025-03-01,North America,United States,Mid-Market,App Installs,26,18,12,7
+2025-03-01,North America,United States,Mid-Market,Catalog Sales,29,19,15,9
+2025-03-01,North America,United States,Enterprise,Conversions,65,57,54,35
+2025-03-01,North America,United States,Enterprise,Traffic,47,37,16,11
+2025-03-01,North America,United States,Enterprise,Lead Generation,51,39,31,19
+2025-03-01,North America,United States,Enterprise,App Installs,49,40,25,15
+2025-03-01,North America,United States,Enterprise,Catalog Sales,53,40,37,21
+2025-03-01,North America,United States,Agency,Conversions,46,36,32,21
+2025-03-01,North America,United States,Agency,Traffic,53,40,20,13
+2025-03-01,North America,United States,Agency,Lead Generation,36,26,21,13
+2025-03-01,North America,United States,Agency,App Installs,38,28,17,10
+2025-03-01,North America,United States,Agency,Catalog Sales,43,33,30,18
+2025-03-01,North America,Canada,SMB,Conversions,13,7,6,3
+2025-03-01,North America,Canada,SMB,Traffic,12,6,3,2
+2025-03-01,North America,Canada,SMB,Lead Generation,12,6,5,3
+2025-03-01,North America,Canada,SMB,App Installs,12,6,4,2
+2025-03-01,North America,Canada,SMB,Catalog Sales,12,6,5,3
+2025-03-01,North America,Canada,Mid-Market,Conversions,15,9,8,5
+2025-03-01,North America,Canada,Mid-Market,Traffic,17,11,5,3
+2025-03-01,North America,Canada,Mid-Market,Lead Generation,18,12,10,7
+2025-03-01,North America,Canada,Mid-Market,App Installs,18,12,7,5
+2025-03-01,North America,Canada,Mid-Market,Catalog Sales,18,11,10,6
+2025-03-01,North America,Canada,Enterprise,Conversions,32,24,21,13
+2025-03-01,North America,Canada,Enterprise,Traffic,32,23,11,7
+2025-03-01,North America,Canada,Enterprise,Lead Generation,22,16,12,7
+2025-03-01,North America,Canada,Enterprise,App Installs,29,21,13,8
+2025-03-01,North America,Canada,Enterprise,Catalog Sales,24,20,17,10
+2025-03-01,North America,Canada,Agency,Conversions,26,18,17,11
+2025-03-01,North America,Canada,Agency,Traffic,25,17,7,4
+2025-03-01,North America,Canada,Agency,Lead Generation,21,14,11,7
+2025-03-01,North America,Canada,Agency,App Installs,19,13,8,5
+2025-03-01,North America,Canada,Agency,Catalog Sales,27,19,18,11
+2025-03-01,Europe,United Kingdom,SMB,Conversions,16,8,7,5
+2025-03-01,Europe,United Kingdom,SMB,Traffic,15,8,3,2
+2025-03-01,Europe,United Kingdom,SMB,Lead Generation,15,7,6,4
+2025-03-01,Europe,United Kingdom,SMB,App Installs,12,6,4,2
+2025-03-01,Europe,United Kingdom,SMB,Catalog Sales,16,8,7,4
+2025-03-01,Europe,United Kingdom,Mid-Market,Conversions,23,14,12,8
+2025-03-01,Europe,United Kingdom,Mid-Market,Traffic,22,14,6,3
+2025-03-01,Europe,United Kingdom,Mid-Market,Lead Generation,23,15,12,8
+2025-03-01,Europe,United Kingdom,Mid-Market,App Installs,20,14,8,5
+2025-03-01,Europe,United Kingdom,Mid-Market,Catalog Sales,18,12,11,7
+2025-03-01,Europe,United Kingdom,Enterprise,Conversions,34,28,28,18
+2025-03-01,Europe,United Kingdom,Enterprise,Traffic,30,23,10,6
+2025-03-01,Europe,United Kingdom,Enterprise,Lead Generation,39,32,24,15
+2025-03-01,Europe,United Kingdom,Enterprise,App Installs,36,28,19,12
+2025-03-01,Europe,United Kingdom,Enterprise,Catalog Sales,34,26,22,14
+2025-03-01,Europe,United Kingdom,Agency,Conversions,22,17,15,10
+2025-03-01,Europe,United Kingdom,Agency,Traffic,26,18,9,6
+2025-03-01,Europe,United Kingdom,Agency,Lead Generation,24,18,16,9
+2025-03-01,Europe,United Kingdom,Agency,App Installs,32,23,13,8
+2025-03-01,Europe,United Kingdom,Agency,Catalog Sales,27,20,17,11
+2025-03-01,Europe,Germany,SMB,Conversions,13,6,6,3
+2025-03-01,Europe,Germany,SMB,Traffic,12,6,3,2
+2025-03-01,Europe,Germany,SMB,Lead Generation,12,6,5,3
+2025-03-01,Europe,Germany,SMB,App Installs,15,7,4,3
+2025-03-01,Europe,Germany,SMB,Catalog Sales,14,6,6,4
+2025-03-01,Europe,Germany,Mid-Market,Conversions,16,10,11,6
+2025-03-01,Europe,Germany,Mid-Market,Traffic,21,13,6,3
+2025-03-01,Europe,Germany,Mid-Market,Lead Generation,23,15,12,8
+2025-03-01,Europe,Germany,Mid-Market,App Installs,23,15,10,6
+2025-03-01,Europe,Germany,Mid-Market,Catalog Sales,20,12,11,7
+2025-03-01,Europe,Germany,Enterprise,Conversions,33,24,23,14
+2025-03-01,Europe,Germany,Enterprise,Traffic,31,24,11,6
+2025-03-01,Europe,Germany,Enterprise,Lead Generation,37,30,23,15
+2025-03-01,Europe,Germany,Enterprise,App Installs,40,30,20,11
+2025-03-01,Europe,Germany,Enterprise,Catalog Sales,41,29,26,17
+2025-03-01,Europe,Germany,Agency,Conversions,30,20,20,13
+2025-03-01,Europe,Germany,Agency,Traffic,29,21,10,6
+2025-03-01,Europe,Germany,Agency,Lead Generation,30,21,17,10
+2025-03-01,Europe,Germany,Agency,App Installs,20,15,9,6
+2025-03-01,Europe,Germany,Agency,Catalog Sales,22,16,13,7
+2025-03-01,Europe,France,SMB,Conversions,13,6,6,3
+2025-03-01,Europe,France,SMB,Traffic,12,6,2,1
+2025-03-01,Europe,France,SMB,Lead Generation,12,5,4,2
+2025-03-01,Europe,France,SMB,App Installs,13,6,4,2
+2025-03-01,Europe,France,SMB,Catalog Sales,12,5,4,2
+2025-03-01,Europe,France,Mid-Market,Conversions,16,9,8,5
+2025-03-01,Europe,France,Mid-Market,Traffic,15,9,4,2
+2025-03-01,Europe,France,Mid-Market,Lead Generation,14,8,6,4
+2025-03-01,Europe,France,Mid-Market,App Installs,21,11,7,4
+2025-03-01,Europe,France,Mid-Market,Catalog Sales,14,9,8,5
+2025-03-01,Europe,France,Enterprise,Conversions,29,19,18,11
+2025-03-01,Europe,France,Enterprise,Traffic,28,19,9,6
+2025-03-01,Europe,France,Enterprise,Lead Generation,30,23,19,11
+2025-03-01,Europe,France,Enterprise,App Installs,30,22,14,8
+2025-03-01,Europe,France,Enterprise,Catalog Sales,28,21,18,11
+2025-03-01,Europe,France,Agency,Conversions,21,14,13,8
+2025-03-01,Europe,France,Agency,Traffic,22,15,7,4
+2025-03-01,Europe,France,Agency,Lead Generation,23,15,12,7
+2025-03-01,Europe,France,Agency,App Installs,20,14,8,5
+2025-03-01,Europe,France,Agency,Catalog Sales,23,15,13,8
+2025-03-01,Middle East & Africa,United Arab Emirates,SMB,Conversions,12,6,5,3
+2025-03-01,Middle East & Africa,United Arab Emirates,SMB,Traffic,12,6,3,1
+2025-03-01,Middle East & Africa,United Arab Emirates,SMB,Lead Generation,12,6,5,3
+2025-03-01,Middle East & Africa,United Arab Emirates,SMB,App Installs,12,6,4,2
+2025-03-01,Middle East & Africa,United Arab Emirates,SMB,Catalog Sales,12,6,6,3
+2025-03-01,Middle East & Africa,United Arab Emirates,Mid-Market,Conversions,14,8,8,5
+2025-03-01,Middle East & Africa,United Arab Emirates,Mid-Market,Traffic,12,8,4,2
+2025-03-01,Middle East & Africa,United Arab Emirates,Mid-Market,Lead Generation,12,8,6,3
+2025-03-01,Middle East & Africa,United Arab Emirates,Mid-Market,App Installs,13,8,5,3
+2025-03-01,Middle East & Africa,United Arab Emirates,Mid-Market,Catalog Sales,14,9,8,5
+2025-03-01,Middle East & Africa,United Arab Emirates,Enterprise,Conversions,20,16,14,8
+2025-03-01,Middle East & Africa,United Arab Emirates,Enterprise,Traffic,33,25,11,7
+2025-03-01,Middle East & Africa,United Arab Emirates,Enterprise,Lead Generation,21,15,14,8
+2025-03-01,Middle East & Africa,United Arab Emirates,Enterprise,App Installs,30,23,15,9
+2025-03-01,Middle East & Africa,United Arab Emirates,Enterprise,Catalog Sales,28,22,20,12
+2025-03-01,Middle East & Africa,United Arab Emirates,Agency,Conversions,24,16,16,9
+2025-03-01,Middle East & Africa,United Arab Emirates,Agency,Traffic,21,15,7,4
+2025-03-01,Middle East & Africa,United Arab Emirates,Agency,Lead Generation,21,14,11,6
+2025-03-01,Middle East & Africa,United Arab Emirates,Agency,App Installs,19,14,9,6
+2025-03-01,Middle East & Africa,United Arab Emirates,Agency,Catalog Sales,19,13,11,7
+2025-03-01,Middle East & Africa,Saudi Arabia,SMB,Conversions,12,6,5,3
+2025-03-01,Middle East & Africa,Saudi Arabia,SMB,Traffic,12,6,3,2
+2025-03-01,Middle East & Africa,Saudi Arabia,SMB,Lead Generation,12,6,4,2
+2025-03-01,Middle East & Africa,Saudi Arabia,SMB,App Installs,12,6,4,2
+2025-03-01,Middle East & Africa,Saudi Arabia,SMB,Catalog Sales,12,6,5,3
+2025-03-01,Middle East & Africa,Saudi Arabia,Mid-Market,Conversions,21,13,12,8
+2025-03-01,Middle East & Africa,Saudi Arabia,Mid-Market,Traffic,20,12,6,4
+2025-03-01,Middle East & Africa,Saudi Arabia,Mid-Market,Lead Generation,16,10,8,5
+2025-03-01,Middle East & Africa,Saudi Arabia,Mid-Market,App Installs,21,12,7,4
+2025-03-01,Middle East & Africa,Saudi Arabia,Mid-Market,Catalog Sales,15,9,8,5
+2025-03-01,Middle East & Africa,Saudi Arabia,Enterprise,Conversions,23,17,16,10
+2025-03-01,Middle East & Africa,Saudi Arabia,Enterprise,Traffic,31,21,10,6
+2025-03-01,Middle East & Africa,Saudi Arabia,Enterprise,Lead Generation,27,20,17,9
+2025-03-01,Middle East & Africa,Saudi Arabia,Enterprise,App Installs,32,24,15,9
+2025-03-01,Middle East & Africa,Saudi Arabia,Enterprise,Catalog Sales,26,20,16,10
+2025-03-01,Middle East & Africa,Saudi Arabia,Agency,Conversions,18,12,12,7
+2025-03-01,Middle East & Africa,Saudi Arabia,Agency,Traffic,21,13,6,4
+2025-03-01,Middle East & Africa,Saudi Arabia,Agency,Lead Generation,29,19,15,9
+2025-03-01,Middle East & Africa,Saudi Arabia,Agency,App Installs,20,13,8,5
+2025-03-01,Middle East & Africa,Saudi Arabia,Agency,Catalog Sales,19,12,10,7
+2025-03-01,Middle East & Africa,South Africa,SMB,Conversions,12,5,5,3
+2025-03-01,Middle East & Africa,South Africa,SMB,Traffic,12,5,2,1
+2025-03-01,Middle East & Africa,South Africa,SMB,Lead Generation,12,5,4,2
+2025-03-01,Middle East & Africa,South Africa,SMB,App Installs,12,5,3,2
+2025-03-01,Middle East & Africa,South Africa,SMB,Catalog Sales,12,5,4,2
+2025-03-01,Middle East & Africa,South Africa,Mid-Market,Conversions,15,8,7,4
+2025-03-01,Middle East & Africa,South Africa,Mid-Market,Traffic,15,8,3,2
+2025-03-01,Middle East & Africa,South Africa,Mid-Market,Lead Generation,14,7,5,3
+2025-03-01,Middle East & Africa,South Africa,Mid-Market,App Installs,13,6,4,3
+2025-03-01,Middle East & Africa,South Africa,Mid-Market,Catalog Sales,15,8,6,4
+2025-03-01,Middle East & Africa,South Africa,Enterprise,Conversions,25,15,15,9
+2025-03-01,Middle East & Africa,South Africa,Enterprise,Traffic,22,15,7,4
+2025-03-01,Middle East & Africa,South Africa,Enterprise,Lead Generation,26,16,14,9
+2025-03-01,Middle East & Africa,South Africa,Enterprise,App Installs,27,16,10,6
+2025-03-01,Middle East & Africa,South Africa,Enterprise,Catalog Sales,22,15,13,8
+2025-03-01,Middle East & Africa,South Africa,Agency,Conversions,15,9,8,5
+2025-03-01,Middle East & Africa,South Africa,Agency,Traffic,15,8,4,2
+2025-03-01,Middle East & Africa,South Africa,Agency,Lead Generation,20,12,11,6
+2025-03-01,Middle East & Africa,South Africa,Agency,App Installs,21,13,8,5
+2025-03-01,Middle East & Africa,South Africa,Agency,Catalog Sales,22,13,11,6
+2025-03-01,Asia Pacific,Japan,SMB,Conversions,13,6,6,3
+2025-03-01,Asia Pacific,Japan,SMB,Traffic,12,6,3,1
+2025-03-01,Asia Pacific,Japan,SMB,Lead Generation,15,8,6,4
+2025-03-01,Asia Pacific,Japan,SMB,App Installs,15,8,5,3
+2025-03-01,Asia Pacific,Japan,SMB,Catalog Sales,13,6,5,3
+2025-03-01,Asia Pacific,Japan,Mid-Market,Conversions,21,12,13,7
+2025-03-01,Asia Pacific,Japan,Mid-Market,Traffic,22,13,6,4
+2025-03-01,Asia Pacific,Japan,Mid-Market,Lead Generation,20,12,10,6
+2025-03-01,Asia Pacific,Japan,Mid-Market,App Installs,21,13,9,6
+2025-03-01,Asia Pacific,Japan,Mid-Market,Catalog Sales,17,11,9,6
+2025-03-01,Asia Pacific,Japan,Enterprise,Conversions,41,33,30,18
+2025-03-01,Asia Pacific,Japan,Enterprise,Traffic,33,26,13,8
+2025-03-01,Asia Pacific,Japan,Enterprise,Lead Generation,35,26,23,14
+2025-03-01,Asia Pacific,Japan,Enterprise,App Installs,26,18,12,8
+2025-03-01,Asia Pacific,Japan,Enterprise,Catalog Sales,36,26,24,15
+2025-03-01,Asia Pacific,Japan,Agency,Conversions,27,18,18,11
+2025-03-01,Asia Pacific,Japan,Agency,Traffic,26,18,8,5
+2025-03-01,Asia Pacific,Japan,Agency,Lead Generation,29,21,18,10
+2025-03-01,Asia Pacific,Japan,Agency,App Installs,29,21,13,8
+2025-03-01,Asia Pacific,Japan,Agency,Catalog Sales,24,16,14,9
+2025-03-01,Asia Pacific,South Korea,SMB,Conversions,13,7,7,4
+2025-03-01,Asia Pacific,South Korea,SMB,Traffic,12,5,2,1
+2025-03-01,Asia Pacific,South Korea,SMB,Lead Generation,12,6,4,2
+2025-03-01,Asia Pacific,South Korea,SMB,App Installs,12,6,4,2
+2025-03-01,Asia Pacific,South Korea,SMB,Catalog Sales,12,6,5,3
+2025-03-01,Asia Pacific,South Korea,Mid-Market,Conversions,20,12,11,6
+2025-03-01,Asia Pacific,South Korea,Mid-Market,Traffic,13,8,3,2
+2025-03-01,Asia Pacific,South Korea,Mid-Market,Lead Generation,22,14,12,7
+2025-03-01,Asia Pacific,South Korea,Mid-Market,App Installs,21,13,8,5
+2025-03-01,Asia Pacific,South Korea,Mid-Market,Catalog Sales,17,10,10,6
+2025-03-01,Asia Pacific,South Korea,Enterprise,Conversions,27,22,20,12
+2025-03-01,Asia Pacific,South Korea,Enterprise,Traffic,25,19,9,5
+2025-03-01,Asia Pacific,South Korea,Enterprise,Lead Generation,38,29,26,15
+2025-03-01,Asia Pacific,South Korea,Enterprise,App Installs,33,24,14,8
+2025-03-01,Asia Pacific,South Korea,Enterprise,Catalog Sales,30,22,20,13
+2025-03-01,Asia Pacific,South Korea,Agency,Conversions,24,16,14,9
+2025-03-01,Asia Pacific,South Korea,Agency,Traffic,21,14,6,3
+2025-03-01,Asia Pacific,South Korea,Agency,Lead Generation,23,16,13,8
+2025-03-01,Asia Pacific,South Korea,Agency,App Installs,19,12,8,5
+2025-03-01,Asia Pacific,South Korea,Agency,Catalog Sales,24,17,14,8
+2025-03-01,Asia Pacific,Australia,SMB,Conversions,12,7,6,4
+2025-03-01,Asia Pacific,Australia,SMB,Traffic,12,6,3,2
+2025-03-01,Asia Pacific,Australia,SMB,Lead Generation,12,6,5,3
+2025-03-01,Asia Pacific,Australia,SMB,App Installs,12,6,4,2
+2025-03-01,Asia Pacific,Australia,SMB,Catalog Sales,12,6,5,3
+2025-03-01,Asia Pacific,Australia,Mid-Market,Conversions,18,12,11,7
+2025-03-01,Asia Pacific,Australia,Mid-Market,Traffic,15,10,4,2
+2025-03-01,Asia Pacific,Australia,Mid-Market,Lead Generation,18,12,10,6
+2025-03-01,Asia Pacific,Australia,Mid-Market,App Installs,13,8,5,3
+2025-03-01,Asia Pacific,Australia,Mid-Market,Catalog Sales,14,9,7,4
+2025-03-01,Asia Pacific,Australia,Enterprise,Conversions,32,24,23,14
+2025-03-01,Asia Pacific,Australia,Enterprise,Traffic,22,16,7,5
+2025-03-01,Asia Pacific,Australia,Enterprise,Lead Generation,27,22,17,11
+2025-03-01,Asia Pacific,Australia,Enterprise,App Installs,30,23,15,9
+2025-03-01,Asia Pacific,Australia,Enterprise,Catalog Sales,30,22,20,13
+2025-03-01,Asia Pacific,Australia,Agency,Conversions,27,19,17,10
+2025-03-01,Asia Pacific,Australia,Agency,Traffic,23,18,8,5
+2025-03-01,Asia Pacific,Australia,Agency,Lead Generation,23,17,13,8
+2025-03-01,Asia Pacific,Australia,Agency,App Installs,22,16,10,6
+2025-03-01,Asia Pacific,Australia,Agency,Catalog Sales,22,16,14,9
+2025-03-01,Asia Pacific,Indonesia,SMB,Conversions,12,5,5,3
+2025-03-01,Asia Pacific,Indonesia,SMB,Traffic,14,6,2,1
+2025-03-01,Asia Pacific,Indonesia,SMB,Lead Generation,12,5,4,3
+2025-03-01,Asia Pacific,Indonesia,SMB,App Installs,12,6,4,2
+2025-03-01,Asia Pacific,Indonesia,SMB,Catalog Sales,17,8,7,4
+2025-03-01,Asia Pacific,Indonesia,Mid-Market,Conversions,19,11,10,6
+2025-03-01,Asia Pacific,Indonesia,Mid-Market,Traffic,28,15,7,4
+2025-03-01,Asia Pacific,Indonesia,Mid-Market,Lead Generation,24,13,10,6
+2025-03-01,Asia Pacific,Indonesia,Mid-Market,App Installs,23,12,8,5
+2025-03-01,Asia Pacific,Indonesia,Mid-Market,Catalog Sales,25,13,11,7
+2025-03-01,Asia Pacific,Indonesia,Enterprise,Conversions,48,32,32,18
+2025-03-01,Asia Pacific,Indonesia,Enterprise,Traffic,46,32,16,10
+2025-03-01,Asia Pacific,Indonesia,Enterprise,Lead Generation,49,34,29,18
+2025-03-01,Asia Pacific,Indonesia,Enterprise,App Installs,30,19,12,8
+2025-03-01,Asia Pacific,Indonesia,Enterprise,Catalog Sales,48,30,26,16
+2025-03-01,Asia Pacific,Indonesia,Agency,Conversions,24,16,15,9
+2025-03-01,Asia Pacific,Indonesia,Agency,Traffic,24,16,8,5
+2025-03-01,Asia Pacific,Indonesia,Agency,Lead Generation,35,20,16,10
+2025-03-01,Asia Pacific,Indonesia,Agency,App Installs,36,22,14,8
+2025-03-01,Asia Pacific,Indonesia,Agency,Catalog Sales,29,17,15,10
+2025-04-01,North America,United States,SMB,Conversions,18,9,9,5
+2025-04-01,North America,United States,SMB,Traffic,22,12,5,3
+2025-04-01,North America,United States,SMB,Lead Generation,19,11,9,5
+2025-04-01,North America,United States,SMB,App Installs,18,9,5,3
+2025-04-01,North America,United States,SMB,Catalog Sales,20,10,9,6
+2025-04-01,North America,United States,Mid-Market,Conversions,28,18,18,12
+2025-04-01,North America,United States,Mid-Market,Traffic,25,16,7,4
+2025-04-01,North America,United States,Mid-Market,Lead Generation,31,19,16,9
+2025-04-01,North America,United States,Mid-Market,App Installs,28,18,11,7
+2025-04-01,North America,United States,Mid-Market,Catalog Sales,31,20,18,10
+2025-04-01,North America,United States,Enterprise,Conversions,48,38,38,24
+2025-04-01,North America,United States,Enterprise,Traffic,58,44,19,13
+2025-04-01,North America,United States,Enterprise,Lead Generation,54,44,35,21
+2025-04-01,North America,United States,Enterprise,App Installs,65,50,33,22
+2025-04-01,North America,United States,Enterprise,Catalog Sales,65,52,49,32
+2025-04-01,North America,United States,Agency,Conversions,43,34,31,19
+2025-04-01,North America,United States,Agency,Traffic,34,26,12,7
+2025-04-01,North America,United States,Agency,Lead Generation,49,39,33,22
+2025-04-01,North America,United States,Agency,App Installs,42,33,19,11
+2025-04-01,North America,United States,Agency,Catalog Sales,40,28,25,15
+2025-04-01,North America,Canada,SMB,Conversions,12,6,6,3
+2025-04-01,North America,Canada,SMB,Traffic,12,7,3,2
+2025-04-01,North America,Canada,SMB,Lead Generation,12,6,5,3
+2025-04-01,North America,Canada,SMB,App Installs,12,6,3,2
+2025-04-01,North America,Canada,SMB,Catalog Sales,12,6,5,3
+2025-04-01,North America,Canada,Mid-Market,Conversions,14,9,9,5
+2025-04-01,North America,Canada,Mid-Market,Traffic,13,8,4,2
+2025-04-01,North America,Canada,Mid-Market,Lead Generation,21,14,12,7
+2025-04-01,North America,Canada,Mid-Market,App Installs,20,12,7,4
+2025-04-01,North America,Canada,Mid-Market,Catalog Sales,17,10,9,5
+2025-04-01,North America,Canada,Enterprise,Conversions,30,24,22,13
+2025-04-01,North America,Canada,Enterprise,Traffic,36,27,13,8
+2025-04-01,North America,Canada,Enterprise,Lead Generation,34,26,21,14
+2025-04-01,North America,Canada,Enterprise,App Installs,22,17,10,6
+2025-04-01,North America,Canada,Enterprise,Catalog Sales,23,18,17,11
+2025-04-01,North America,Canada,Agency,Conversions,25,16,17,10
+2025-04-01,North America,Canada,Agency,Traffic,28,20,10,6
+2025-04-01,North America,Canada,Agency,Lead Generation,21,15,12,7
+2025-04-01,North America,Canada,Agency,App Installs,23,16,11,6
+2025-04-01,North America,Canada,Agency,Catalog Sales,18,13,11,7
+2025-04-01,Europe,United Kingdom,SMB,Conversions,12,6,5,3
+2025-04-01,Europe,United Kingdom,SMB,Traffic,13,7,3,2
+2025-04-01,Europe,United Kingdom,SMB,Lead Generation,12,6,4,3
+2025-04-01,Europe,United Kingdom,SMB,App Installs,14,7,4,2
+2025-04-01,Europe,United Kingdom,SMB,Catalog Sales,15,8,6,4
+2025-04-01,Europe,United Kingdom,Mid-Market,Conversions,20,12,11,7
+2025-04-01,Europe,United Kingdom,Mid-Market,Traffic,17,12,5,3
+2025-04-01,Europe,United Kingdom,Mid-Market,Lead Generation,24,15,13,8
+2025-04-01,Europe,United Kingdom,Mid-Market,App Installs,26,17,10,7
+2025-04-01,Europe,United Kingdom,Mid-Market,Catalog Sales,20,12,11,7
+2025-04-01,Europe,United Kingdom,Enterprise,Conversions,30,25,23,15
+2025-04-01,Europe,United Kingdom,Enterprise,Traffic,38,30,13,7
+2025-04-01,Europe,United Kingdom,Enterprise,Lead Generation,33,24,20,12
+2025-04-01,Europe,United Kingdom,Enterprise,App Installs,36,28,17,11
+2025-04-01,Europe,United Kingdom,Enterprise,Catalog Sales,33,26,22,13
+2025-04-01,Europe,United Kingdom,Agency,Conversions,24,16,15,9
+2025-04-01,Europe,United Kingdom,Agency,Traffic,23,18,9,5
+2025-04-01,Europe,United Kingdom,Agency,Lead Generation,30,20,17,10
+2025-04-01,Europe,United Kingdom,Agency,App Installs,24,17,10,6
+2025-04-01,Europe,United Kingdom,Agency,Catalog Sales,28,21,17,12
+2025-04-01,Europe,Germany,SMB,Conversions,14,6,7,4
+2025-04-01,Europe,Germany,SMB,Traffic,12,6,2,1
+2025-04-01,Europe,Germany,SMB,Lead Generation,15,8,7,4
+2025-04-01,Europe,Germany,SMB,App Installs,14,7,4,2
+2025-04-01,Europe,Germany,SMB,Catalog Sales,15,7,6,4
+2025-04-01,Europe,Germany,Mid-Market,Conversions,24,15,15,9
+2025-04-01,Europe,Germany,Mid-Market,Traffic,17,11,5,3
+2025-04-01,Europe,Germany,Mid-Market,Lead Generation,17,11,9,6
+2025-04-01,Europe,Germany,Mid-Market,App Installs,24,15,9,6
+2025-04-01,Europe,Germany,Mid-Market,Catalog Sales,17,10,10,6
+2025-04-01,Europe,Germany,Enterprise,Conversions,28,23,21,13
+2025-04-01,Europe,Germany,Enterprise,Traffic,37,30,14,9
+2025-04-01,Europe,Germany,Enterprise,Lead Generation,32,23,18,12
+2025-04-01,Europe,Germany,Enterprise,App Installs,38,29,17,11
+2025-04-01,Europe,Germany,Enterprise,Catalog Sales,34,25,22,15
+2025-04-01,Europe,Germany,Agency,Conversions,28,21,21,13
+2025-04-01,Europe,Germany,Agency,Traffic,20,14,7,4
+2025-04-01,Europe,Germany,Agency,Lead Generation,29,21,17,11
+2025-04-01,Europe,Germany,Agency,App Installs,21,15,9,6
+2025-04-01,Europe,Germany,Agency,Catalog Sales,23,17,14,9
+2025-04-01,Europe,France,SMB,Conversions,12,5,5,3
+2025-04-01,Europe,France,SMB,Traffic,12,6,2,1
+2025-04-01,Europe,France,SMB,Lead Generation,12,6,5,3
+2025-04-01,Europe,France,SMB,App Installs,12,6,4,2
+2025-04-01,Europe,France,SMB,Catalog Sales,12,6,5,3
+2025-04-01,Europe,France,Mid-Market,Conversions,15,8,8,5
+2025-04-01,Europe,France,Mid-Market,Traffic,17,10,4,3
+2025-04-01,Europe,France,Mid-Market,Lead Generation,20,12,11,7
+2025-04-01,Europe,France,Mid-Market,App Installs,16,9,6,3
+2025-04-01,Europe,France,Mid-Market,Catalog Sales,16,10,9,5
+2025-04-01,Europe,France,Enterprise,Conversions,31,23,23,14
+2025-04-01,Europe,France,Enterprise,Traffic,23,16,8,5
+2025-04-01,Europe,France,Enterprise,Lead Generation,23,16,14,8
+2025-04-01,Europe,France,Enterprise,App Installs,25,18,11,7
+2025-04-01,Europe,France,Enterprise,Catalog Sales,27,18,16,11
+2025-04-01,Europe,France,Agency,Conversions,23,16,16,9
+2025-04-01,Europe,France,Agency,Traffic,29,20,9,5
+2025-04-01,Europe,France,Agency,Lead Generation,26,18,15,9
+2025-04-01,Europe,France,Agency,App Installs,27,17,10,6
+2025-04-01,Europe,France,Agency,Catalog Sales,21,14,12,7
+2025-04-01,Middle East & Africa,United Arab Emirates,SMB,Conversions,12,6,6,4
+2025-04-01,Middle East & Africa,United Arab Emirates,SMB,Traffic,12,6,3,1
+2025-04-01,Middle East & Africa,United Arab Emirates,SMB,Lead Generation,12,6,4,3
+2025-04-01,Middle East & Africa,United Arab Emirates,SMB,App Installs,12,7,4,3
+2025-04-01,Middle East & Africa,United Arab Emirates,SMB,Catalog Sales,12,6,5,3
+2025-04-01,Middle East & Africa,United Arab Emirates,Mid-Market,Conversions,12,7,7,4
+2025-04-01,Middle East & Africa,United Arab Emirates,Mid-Market,Traffic,13,7,3,2
+2025-04-01,Middle East & Africa,United Arab Emirates,Mid-Market,Lead Generation,18,11,9,5
+2025-04-01,Middle East & Africa,United Arab Emirates,Mid-Market,App Installs,18,12,7,5
+2025-04-01,Middle East & Africa,United Arab Emirates,Mid-Market,Catalog Sales,16,9,9,6
+2025-04-01,Middle East & Africa,United Arab Emirates,Enterprise,Conversions,29,22,22,14
+2025-04-01,Middle East & Africa,United Arab Emirates,Enterprise,Traffic,26,20,9,5
+2025-04-01,Middle East & Africa,United Arab Emirates,Enterprise,Lead Generation,24,19,15,9
+2025-04-01,Middle East & Africa,United Arab Emirates,Enterprise,App Installs,24,18,11,7
+2025-04-01,Middle East & Africa,United Arab Emirates,Enterprise,Catalog Sales,22,18,15,9
+2025-04-01,Middle East & Africa,United Arab Emirates,Agency,Conversions,17,13,11,7
+2025-04-01,Middle East & Africa,United Arab Emirates,Agency,Traffic,23,18,9,5
+2025-04-01,Middle East & Africa,United Arab Emirates,Agency,Lead Generation,18,12,10,6
+2025-04-01,Middle East & Africa,United Arab Emirates,Agency,App Installs,19,15,9,5
+2025-04-01,Middle East & Africa,United Arab Emirates,Agency,Catalog Sales,18,13,11,7
+2025-04-01,Middle East & Africa,Saudi Arabia,SMB,Conversions,12,6,5,3
+2025-04-01,Middle East & Africa,Saudi Arabia,SMB,Traffic,13,6,3,1
+2025-04-01,Middle East & Africa,Saudi Arabia,SMB,Lead Generation,13,6,5,3
+2025-04-01,Middle East & Africa,Saudi Arabia,SMB,App Installs,12,6,4,2
+2025-04-01,Middle East & Africa,Saudi Arabia,SMB,Catalog Sales,12,6,6,3
+2025-04-01,Middle East & Africa,Saudi Arabia,Mid-Market,Conversions,14,8,8,4
+2025-04-01,Middle East & Africa,Saudi Arabia,Mid-Market,Traffic,14,8,4,2
+2025-04-01,Middle East & Africa,Saudi Arabia,Mid-Market,Lead Generation,17,10,8,5
+2025-04-01,Middle East & Africa,Saudi Arabia,Mid-Market,App Installs,15,8,5,3
+2025-04-01,Middle East & Africa,Saudi Arabia,Mid-Market,Catalog Sales,19,10,9,6
+2025-04-01,Middle East & Africa,Saudi Arabia,Enterprise,Conversions,27,19,18,10
+2025-04-01,Middle East & Africa,Saudi Arabia,Enterprise,Traffic,29,21,10,6
+2025-04-01,Middle East & Africa,Saudi Arabia,Enterprise,Lead Generation,27,20,18,11
+2025-04-01,Middle East & Africa,Saudi Arabia,Enterprise,App Installs,26,18,12,7
+2025-04-01,Middle East & Africa,Saudi Arabia,Enterprise,Catalog Sales,26,19,17,10
+2025-04-01,Middle East & Africa,Saudi Arabia,Agency,Conversions,21,13,13,7
+2025-04-01,Middle East & Africa,Saudi Arabia,Agency,Traffic,21,13,6,3
+2025-04-01,Middle East & Africa,Saudi Arabia,Agency,Lead Generation,22,14,12,7
+2025-04-01,Middle East & Africa,Saudi Arabia,Agency,App Installs,19,13,8,5
+2025-04-01,Middle East & Africa,Saudi Arabia,Agency,Catalog Sales,25,17,14,9
+2025-04-01,Middle East & Africa,South Africa,SMB,Conversions,12,6,5,3
+2025-04-01,Middle East & Africa,South Africa,SMB,Traffic,12,5,2,1
+2025-04-01,Middle East & Africa,South Africa,SMB,Lead Generation,12,5,4,3
+2025-04-01,Middle East & Africa,South Africa,SMB,App Installs,12,5,3,2
+2025-04-01,Middle East & Africa,South Africa,SMB,Catalog Sales,12,5,5,3
+2025-04-01,Middle East & Africa,South Africa,Mid-Market,Conversions,16,9,8,4
+2025-04-01,Middle East & Africa,South Africa,Mid-Market,Traffic,14,7,3,2
+2025-04-01,Middle East & Africa,South Africa,Mid-Market,Lead Generation,12,6,5,3
+2025-04-01,Middle East & Africa,South Africa,Mid-Market,App Installs,14,7,4,2
+2025-04-01,Middle East & Africa,South Africa,Mid-Market,Catalog Sales,12,6,5,3
+2025-04-01,Middle East & Africa,South Africa,Enterprise,Conversions,26,16,15,9
+2025-04-01,Middle East & Africa,South Africa,Enterprise,Traffic,28,18,8,5
+2025-04-01,Middle East & Africa,South Africa,Enterprise,Lead Generation,20,12,11,7
+2025-04-01,Middle East & Africa,South Africa,Enterprise,App Installs,21,14,9,6
+2025-04-01,Middle East & Africa,South Africa,Enterprise,Catalog Sales,27,16,15,9
+2025-04-01,Middle East & Africa,South Africa,Agency,Conversions,22,13,11,7
+2025-04-01,Middle East & Africa,South Africa,Agency,Traffic,22,14,6,4
+2025-04-01,Middle East & Africa,South Africa,Agency,Lead Generation,17,11,9,6
+2025-04-01,Middle East & Africa,South Africa,Agency,App Installs,19,12,8,4
+2025-04-01,Middle East & Africa,South Africa,Agency,Catalog Sales,16,9,8,5
+2025-04-01,Asia Pacific,Japan,SMB,Conversions,13,7,6,4
+2025-04-01,Asia Pacific,Japan,SMB,Traffic,12,6,2,1
+2025-04-01,Asia Pacific,Japan,SMB,Lead Generation,15,7,6,3
+2025-04-01,Asia Pacific,Japan,SMB,App Installs,12,6,3,2
+2025-04-01,Asia Pacific,Japan,SMB,Catalog Sales,14,7,7,4
+2025-04-01,Asia Pacific,Japan,Mid-Market,Conversions,18,12,11,7
+2025-04-01,Asia Pacific,Japan,Mid-Market,Traffic,22,14,6,4
+2025-04-01,Asia Pacific,Japan,Mid-Market,Lead Generation,16,10,8,4
+2025-04-01,Asia Pacific,Japan,Mid-Market,App Installs,19,12,8,4
+2025-04-01,Asia Pacific,Japan,Mid-Market,Catalog Sales,25,15,12,8
+2025-04-01,Asia Pacific,Japan,Enterprise,Conversions,27,22,22,14
+2025-04-01,Asia Pacific,Japan,Enterprise,Traffic,35,28,13,8
+2025-04-01,Asia Pacific,Japan,Enterprise,Lead Generation,37,28,22,13
+2025-04-01,Asia Pacific,Japan,Enterprise,App Installs,31,23,15,10
+2025-04-01,Asia Pacific,Japan,Enterprise,Catalog Sales,27,22,20,12
+2025-04-01,Asia Pacific,Japan,Agency,Conversions,32,23,21,14
+2025-04-01,Asia Pacific,Japan,Agency,Traffic,23,15,7,4
+2025-04-01,Asia Pacific,Japan,Agency,Lead Generation,29,20,17,10
+2025-04-01,Asia Pacific,Japan,Agency,App Installs,21,16,10,6
+2025-04-01,Asia Pacific,Japan,Agency,Catalog Sales,27,18,15,9
+2025-04-01,Asia Pacific,South Korea,SMB,Conversions,13,6,6,4
+2025-04-01,Asia Pacific,South Korea,SMB,Traffic,13,7,3,2
+2025-04-01,Asia Pacific,South Korea,SMB,Lead Generation,12,6,5,3
+2025-04-01,Asia Pacific,South Korea,SMB,App Installs,12,6,4,2
+2025-04-01,Asia Pacific,South Korea,SMB,Catalog Sales,13,7,6,3
+2025-04-01,Asia Pacific,South Korea,Mid-Market,Conversions,16,9,9,5
+2025-04-01,Asia Pacific,South Korea,Mid-Market,Traffic,21,13,6,4
+2025-04-01,Asia Pacific,South Korea,Mid-Market,Lead Generation,14,9,7,5
+2025-04-01,Asia Pacific,South Korea,Mid-Market,App Installs,18,12,7,4
+2025-04-01,Asia Pacific,South Korea,Mid-Market,Catalog Sales,19,11,10,6
+2025-04-01,Asia Pacific,South Korea,Enterprise,Conversions,25,19,18,12
+2025-04-01,Asia Pacific,South Korea,Enterprise,Traffic,28,21,10,6
+2025-04-01,Asia Pacific,South Korea,Enterprise,Lead Generation,31,23,20,13
+2025-04-01,Asia Pacific,South Korea,Enterprise,App Installs,32,25,15,9
+2025-04-01,Asia Pacific,South Korea,Enterprise,Catalog Sales,37,26,23,14
+2025-04-01,Asia Pacific,South Korea,Agency,Conversions,20,13,12,7
+2025-04-01,Asia Pacific,South Korea,Agency,Traffic,30,19,9,6
+2025-04-01,Asia Pacific,South Korea,Agency,Lead Generation,25,18,15,9
+2025-04-01,Asia Pacific,South Korea,Agency,App Installs,23,16,10,7
+2025-04-01,Asia Pacific,South Korea,Agency,Catalog Sales,20,13,12,7
+2025-04-01,Asia Pacific,Australia,SMB,Conversions,12,6,6,4
+2025-04-01,Asia Pacific,Australia,SMB,Traffic,12,6,2,1
+2025-04-01,Asia Pacific,Australia,SMB,Lead Generation,12,6,5,3
+2025-04-01,Asia Pacific,Australia,SMB,App Installs,12,6,3,2
+2025-04-01,Asia Pacific,Australia,SMB,Catalog Sales,12,6,5,3
+2025-04-01,Asia Pacific,Australia,Mid-Market,Conversions,18,12,12,7
+2025-04-01,Asia Pacific,Australia,Mid-Market,Traffic,14,9,4,2
+2025-04-01,Asia Pacific,Australia,Mid-Market,Lead Generation,18,12,10,6
+2025-04-01,Asia Pacific,Australia,Mid-Market,App Installs,20,13,8,5
+2025-04-01,Asia Pacific,Australia,Mid-Market,Catalog Sales,19,12,10,6
+2025-04-01,Asia Pacific,Australia,Enterprise,Conversions,31,23,23,15
+2025-04-01,Asia Pacific,Australia,Enterprise,Traffic,24,18,9,5
+2025-04-01,Asia Pacific,Australia,Enterprise,Lead Generation,23,16,13,8
+2025-04-01,Asia Pacific,Australia,Enterprise,App Installs,31,22,13,8
+2025-04-01,Asia Pacific,Australia,Enterprise,Catalog Sales,27,20,19,11
+2025-04-01,Asia Pacific,Australia,Agency,Conversions,21,16,14,9
+2025-04-01,Asia Pacific,Australia,Agency,Traffic,18,13,6,4
+2025-04-01,Asia Pacific,Australia,Agency,Lead Generation,26,20,15,9
+2025-04-01,Asia Pacific,Australia,Agency,App Installs,19,14,9,5
+2025-04-01,Asia Pacific,Australia,Agency,Catalog Sales,17,11,9,5
+2025-04-01,Asia Pacific,Indonesia,SMB,Conversions,15,7,6,4
+2025-04-01,Asia Pacific,Indonesia,SMB,Traffic,15,7,3,2
+2025-04-01,Asia Pacific,Indonesia,SMB,Lead Generation,15,7,5,3
+2025-04-01,Asia Pacific,Indonesia,SMB,App Installs,17,8,4,3
+2025-04-01,Asia Pacific,Indonesia,SMB,Catalog Sales,13,6,5,3
+2025-04-01,Asia Pacific,Indonesia,Mid-Market,Conversions,22,13,12,7
+2025-04-01,Asia Pacific,Indonesia,Mid-Market,Traffic,25,15,7,4
+2025-04-01,Asia Pacific,Indonesia,Mid-Market,Lead Generation,26,15,12,8
+2025-04-01,Asia Pacific,Indonesia,Mid-Market,App Installs,25,15,10,6
+2025-04-01,Asia Pacific,Indonesia,Mid-Market,Catalog Sales,17,10,9,6
+2025-04-01,Asia Pacific,Indonesia,Enterprise,Conversions,30,21,18,11
+2025-04-01,Asia Pacific,Indonesia,Enterprise,Traffic,33,23,11,7
+2025-04-01,Asia Pacific,Indonesia,Enterprise,Lead Generation,41,29,23,15
+2025-04-01,Asia Pacific,Indonesia,Enterprise,App Installs,41,28,18,10
+2025-04-01,Asia Pacific,Indonesia,Enterprise,Catalog Sales,31,22,21,14
+2025-04-01,Asia Pacific,Indonesia,Agency,Conversions,28,18,17,11
+2025-04-01,Asia Pacific,Indonesia,Agency,Traffic,37,25,11,7
+2025-04-01,Asia Pacific,Indonesia,Agency,Lead Generation,29,17,14,9
+2025-04-01,Asia Pacific,Indonesia,Agency,App Installs,29,17,11,7
+2025-04-01,Asia Pacific,Indonesia,Agency,Catalog Sales,33,22,18,12
+2025-05-01,North America,United States,SMB,Conversions,20,11,10,7
+2025-05-01,North America,United States,SMB,Traffic,21,12,5,3
+2025-05-01,North America,United States,SMB,Lead Generation,17,10,8,4
+2025-05-01,North America,United States,SMB,App Installs,20,11,6,4
+2025-05-01,North America,United States,SMB,Catalog Sales,23,13,11,7
+2025-05-01,North America,United States,Mid-Market,Conversions,27,18,16,9
+2025-05-01,North America,United States,Mid-Market,Traffic,26,16,8,5
+2025-05-01,North America,United States,Mid-Market,Lead Generation,38,25,22,13
+2025-05-01,North America,United States,Mid-Market,App Installs,35,22,15,9
+2025-05-01,North America,United States,Mid-Market,Catalog Sales,40,25,22,14
+2025-05-01,North America,United States,Enterprise,Conversions,48,42,39,23
+2025-05-01,North America,United States,Enterprise,Traffic,47,36,16,10
+2025-05-01,North America,United States,Enterprise,Lead Generation,68,53,47,29
+2025-05-01,North America,United States,Enterprise,App Installs,48,39,25,15
+2025-05-01,North America,United States,Enterprise,Catalog Sales,64,52,45,26
+2025-05-01,North America,United States,Agency,Conversions,53,42,40,27
+2025-05-01,North America,United States,Agency,Traffic,35,24,11,6
+2025-05-01,North America,United States,Agency,Lead Generation,43,32,27,18
+2025-05-01,North America,United States,Agency,App Installs,34,24,15,9
+2025-05-01,North America,United States,Agency,Catalog Sales,49,39,32,19
+2025-05-01,North America,Canada,SMB,Conversions,13,7,6,4
+2025-05-01,North America,Canada,SMB,Traffic,12,7,3,2
+2025-05-01,North America,Canada,SMB,Lead Generation,12,6,5,3
+2025-05-01,North America,Canada,SMB,App Installs,12,6,4,2
+2025-05-01,North America,Canada,SMB,Catalog Sales,12,6,5,3
+2025-05-01,North America,Canada,Mid-Market,Conversions,17,10,10,6
+2025-05-01,North America,Canada,Mid-Market,Traffic,13,8,4,2
+2025-05-01,North America,Canada,Mid-Market,Lead Generation,17,10,9,5
+2025-05-01,North America,Canada,Mid-Market,App Installs,17,10,6,4
+2025-05-01,North America,Canada,Mid-Market,Catalog Sales,16,11,10,6
+2025-05-01,North America,Canada,Enterprise,Conversions,32,24,22,13
+2025-05-01,North America,Canada,Enterprise,Traffic,26,20,9,5
+2025-05-01,North America,Canada,Enterprise,Lead Generation,28,20,17,11
+2025-05-01,North America,Canada,Enterprise,App Installs,23,18,12,8
+2025-05-01,North America,Canada,Enterprise,Catalog Sales,33,27,23,15
+2025-05-01,North America,Canada,Agency,Conversions,22,15,14,8
+2025-05-01,North America,Canada,Agency,Traffic,28,21,10,6
+2025-05-01,North America,Canada,Agency,Lead Generation,19,13,10,6
+2025-05-01,North America,Canada,Agency,App Installs,23,15,9,5
+2025-05-01,North America,Canada,Agency,Catalog Sales,22,15,14,9
+2025-05-01,Europe,United Kingdom,SMB,Conversions,14,8,8,5
+2025-05-01,Europe,United Kingdom,SMB,Traffic,12,6,3,1
+2025-05-01,Europe,United Kingdom,SMB,Lead Generation,16,8,7,4
+2025-05-01,Europe,United Kingdom,SMB,App Installs,15,8,5,3
+2025-05-01,Europe,United Kingdom,SMB,Catalog Sales,12,6,5,3
+2025-05-01,Europe,United Kingdom,Mid-Market,Conversions,24,17,17,10
+2025-05-01,Europe,United Kingdom,Mid-Market,Traffic,26,17,8,4
+2025-05-01,Europe,United Kingdom,Mid-Market,Lead Generation,20,12,10,5
+2025-05-01,Europe,United Kingdom,Mid-Market,App Installs,24,14,9,5
+2025-05-01,Europe,United Kingdom,Mid-Market,Catalog Sales,21,13,12,8
+2025-05-01,Europe,United Kingdom,Enterprise,Conversions,39,30,28,18
+2025-05-01,Europe,United Kingdom,Enterprise,Traffic,45,36,16,9
+2025-05-01,Europe,United Kingdom,Enterprise,Lead Generation,36,29,26,17
+2025-05-01,Europe,United Kingdom,Enterprise,App Installs,46,39,23,15
+2025-05-01,Europe,United Kingdom,Enterprise,Catalog Sales,38,32,28,18
+2025-05-01,Europe,United Kingdom,Agency,Conversions,36,25,24,16
+2025-05-01,Europe,United Kingdom,Agency,Traffic,32,22,10,7
+2025-05-01,Europe,United Kingdom,Agency,Lead Generation,23,18,14,9
+2025-05-01,Europe,United Kingdom,Agency,App Installs,27,18,12,7
+2025-05-01,Europe,United Kingdom,Agency,Catalog Sales,30,23,19,11
+2025-05-01,Europe,Germany,SMB,Conversions,12,6,6,4
+2025-05-01,Europe,Germany,SMB,Traffic,15,7,3,2
+2025-05-01,Europe,Germany,SMB,Lead Generation,12,6,5,3
+2025-05-01,Europe,Germany,SMB,App Installs,15,7,5,3
+2025-05-01,Europe,Germany,SMB,Catalog Sales,12,6,5,3
+2025-05-01,Europe,Germany,Mid-Market,Conversions,22,13,14,8
+2025-05-01,Europe,Germany,Mid-Market,Traffic,15,9,4,3
+2025-05-01,Europe,Germany,Mid-Market,Lead Generation,22,15,12,7
+2025-05-01,Europe,Germany,Mid-Market,App Installs,23,15,9,5
+2025-05-01,Europe,Germany,Mid-Market,Catalog Sales,17,10,9,5
+2025-05-01,Europe,Germany,Enterprise,Conversions,42,30,26,17
+2025-05-01,Europe,Germany,Enterprise,Traffic,26,20,10,6
+2025-05-01,Europe,Germany,Enterprise,Lead Generation,40,32,26,17
+2025-05-01,Europe,Germany,Enterprise,App Installs,39,30,20,12
+2025-05-01,Europe,Germany,Enterprise,Catalog Sales,38,28,24,16
+2025-05-01,Europe,Germany,Agency,Conversions,29,20,19,11
+2025-05-01,Europe,Germany,Agency,Traffic,23,15,6,4
+2025-05-01,Europe,Germany,Agency,Lead Generation,33,25,21,12
+2025-05-01,Europe,Germany,Agency,App Installs,31,22,15,10
+2025-05-01,Europe,Germany,Agency,Catalog Sales,29,21,19,11
+2025-05-01,Europe,France,SMB,Conversions,12,6,5,3
+2025-05-01,Europe,France,SMB,Traffic,13,6,3,2
+2025-05-01,Europe,France,SMB,Lead Generation,12,6,5,3
+2025-05-01,Europe,France,SMB,App Installs,12,6,3,2
+2025-05-01,Europe,France,SMB,Catalog Sales,12,5,5,3
+2025-05-01,Europe,France,Mid-Market,Conversions,13,8,8,5
+2025-05-01,Europe,France,Mid-Market,Traffic,18,10,4,2
+2025-05-01,Europe,France,Mid-Market,Lead Generation,20,12,10,6
+2025-05-01,Europe,France,Mid-Market,App Installs,20,12,7,5
+2025-05-01,Europe,France,Mid-Market,Catalog Sales,14,8,7,5
+2025-05-01,Europe,France,Enterprise,Conversions,24,16,15,9
+2025-05-01,Europe,France,Enterprise,Traffic,28,20,10,6
+2025-05-01,Europe,France,Enterprise,Lead Generation,28,21,17,10
+2025-05-01,Europe,France,Enterprise,App Installs,32,24,15,9
+2025-05-01,Europe,France,Enterprise,Catalog Sales,28,19,17,10
+2025-05-01,Europe,France,Agency,Conversions,28,19,18,11
+2025-05-01,Europe,France,Agency,Traffic,19,13,6,3
+2025-05-01,Europe,France,Agency,Lead Generation,26,16,14,8
+2025-05-01,Europe,France,Agency,App Installs,21,13,9,5
+2025-05-01,Europe,France,Agency,Catalog Sales,21,15,14,9
+2025-05-01,Middle East & Africa,United Arab Emirates,SMB,Conversions,12,6,6,4
+2025-05-01,Middle East & Africa,United Arab Emirates,SMB,Traffic,12,6,3,1
+2025-05-01,Middle East & Africa,United Arab Emirates,SMB,Lead Generation,12,6,5,3
+2025-05-01,Middle East & Africa,United Arab Emirates,SMB,App Installs,12,6,3,2
+2025-05-01,Middle East & Africa,United Arab Emirates,SMB,Catalog Sales,12,6,5,3
+2025-05-01,Middle East & Africa,United Arab Emirates,Mid-Market,Conversions,17,11,11,7
+2025-05-01,Middle East & Africa,United Arab Emirates,Mid-Market,Traffic,13,8,3,2
+2025-05-01,Middle East & Africa,United Arab Emirates,Mid-Market,Lead Generation,17,10,8,5
+2025-05-01,Middle East & Africa,United Arab Emirates,Mid-Market,App Installs,17,11,7,4
+2025-05-01,Middle East & Africa,United Arab Emirates,Mid-Market,Catalog Sales,13,9,8,4
+2025-05-01,Middle East & Africa,United Arab Emirates,Enterprise,Conversions,21,16,14,9
+2025-05-01,Middle East & Africa,United Arab Emirates,Enterprise,Traffic,23,17,7,4
+2025-05-01,Middle East & Africa,United Arab Emirates,Enterprise,Lead Generation,21,16,14,9
+2025-05-01,Middle East & Africa,United Arab Emirates,Enterprise,App Installs,32,23,13,8
+2025-05-01,Middle East & Africa,United Arab Emirates,Enterprise,Catalog Sales,26,20,17,10
+2025-05-01,Middle East & Africa,United Arab Emirates,Agency,Conversions,22,16,16,10
+2025-05-01,Middle East & Africa,United Arab Emirates,Agency,Traffic,17,12,5,3
+2025-05-01,Middle East & Africa,United Arab Emirates,Agency,Lead Generation,19,14,11,7
+2025-05-01,Middle East & Africa,United Arab Emirates,Agency,App Installs,17,12,7,4
+2025-05-01,Middle East & Africa,United Arab Emirates,Agency,Catalog Sales,17,13,11,7
+2025-05-01,Middle East & Africa,Saudi Arabia,SMB,Conversions,12,6,6,3
+2025-05-01,Middle East & Africa,Saudi Arabia,SMB,Traffic,12,6,3,1
+2025-05-01,Middle East & Africa,Saudi Arabia,SMB,Lead Generation,12,5,4,2
+2025-05-01,Middle East & Africa,Saudi Arabia,SMB,App Installs,12,5,3,2
+2025-05-01,Middle East & Africa,Saudi Arabia,SMB,Catalog Sales,12,6,5,3
+2025-05-01,Middle East & Africa,Saudi Arabia,Mid-Market,Conversions,14,8,7,4
+2025-05-01,Middle East & Africa,Saudi Arabia,Mid-Market,Traffic,17,9,5,2
+2025-05-01,Middle East & Africa,Saudi Arabia,Mid-Market,Lead Generation,17,10,8,5
+2025-05-01,Middle East & Africa,Saudi Arabia,Mid-Market,App Installs,13,8,5,3
+2025-05-01,Middle East & Africa,Saudi Arabia,Mid-Market,Catalog Sales,17,9,8,5
+2025-05-01,Middle East & Africa,Saudi Arabia,Enterprise,Conversions,33,24,23,15
+2025-05-01,Middle East & Africa,Saudi Arabia,Enterprise,Traffic,33,25,11,7
+2025-05-01,Middle East & Africa,Saudi Arabia,Enterprise,Lead Generation,26,19,15,9
+2025-05-01,Middle East & Africa,Saudi Arabia,Enterprise,App Installs,35,27,17,10
+2025-05-01,Middle East & Africa,Saudi Arabia,Enterprise,Catalog Sales,24,18,15,10
+2025-05-01,Middle East & Africa,Saudi Arabia,Agency,Conversions,26,19,17,11
+2025-05-01,Middle East & Africa,Saudi Arabia,Agency,Traffic,23,16,7,5
+2025-05-01,Middle East & Africa,Saudi Arabia,Agency,Lead Generation,25,16,13,8
+2025-05-01,Middle East & Africa,Saudi Arabia,Agency,App Installs,23,14,8,5
+2025-05-01,Middle East & Africa,Saudi Arabia,Agency,Catalog Sales,27,18,17,10
+2025-05-01,Middle East & Africa,South Africa,SMB,Conversions,12,5,5,3
+2025-05-01,Middle East & Africa,South Africa,SMB,Traffic,12,5,2,1
+2025-05-01,Middle East & Africa,South Africa,SMB,Lead Generation,12,5,4,2
+2025-05-01,Middle East & Africa,South Africa,SMB,App Installs,12,5,3,2
+2025-05-01,Middle East & Africa,South Africa,SMB,Catalog Sales,12,5,4,2
+2025-05-01,Middle East & Africa,South Africa,Mid-Market,Conversions,12,7,6,3
+2025-05-01,Middle East & Africa,South Africa,Mid-Market,Traffic,12,6,3,1
+2025-05-01,Middle East & Africa,South Africa,Mid-Market,Lead Generation,17,10,7,5
+2025-05-01,Middle East & Africa,South Africa,Mid-Market,App Installs,13,6,4,2
+2025-05-01,Middle East & Africa,South Africa,Mid-Market,Catalog Sales,12,6,5,3
+2025-05-01,Middle East & Africa,South Africa,Enterprise,Conversions,24,16,16,10
+2025-05-01,Middle East & Africa,South Africa,Enterprise,Traffic,21,13,6,4
+2025-05-01,Middle East & Africa,South Africa,Enterprise,Lead Generation,21,15,11,7
+2025-05-01,Middle East & Africa,South Africa,Enterprise,App Installs,20,12,7,5
+2025-05-01,Middle East & Africa,South Africa,Enterprise,Catalog Sales,22,13,12,7
+2025-05-01,Middle East & Africa,South Africa,Agency,Conversions,21,12,11,7
+2025-05-01,Middle East & Africa,South Africa,Agency,Traffic,19,11,5,3
+2025-05-01,Middle East & Africa,South Africa,Agency,Lead Generation,15,8,7,4
+2025-05-01,Middle East & Africa,South Africa,Agency,App Installs,20,12,7,4
+2025-05-01,Middle East & Africa,South Africa,Agency,Catalog Sales,19,12,10,6
+2025-05-01,Asia Pacific,Japan,SMB,Conversions,12,6,5,3
+2025-05-01,Asia Pacific,Japan,SMB,Traffic,15,8,3,2
+2025-05-01,Asia Pacific,Japan,SMB,Lead Generation,12,6,5,3
+2025-05-01,Asia Pacific,Japan,SMB,App Installs,13,7,4,2
+2025-05-01,Asia Pacific,Japan,SMB,Catalog Sales,15,7,7,4
+2025-05-01,Asia Pacific,Japan,Mid-Market,Conversions,24,15,14,8
+2025-05-01,Asia Pacific,Japan,Mid-Market,Traffic,25,16,7,4
+2025-05-01,Asia Pacific,Japan,Mid-Market,Lead Generation,18,12,9,6
+2025-05-01,Asia Pacific,Japan,Mid-Market,App Installs,24,16,10,6
+2025-05-01,Asia Pacific,Japan,Mid-Market,Catalog Sales,18,12,11,7
+2025-05-01,Asia Pacific,Japan,Enterprise,Conversions,39,31,31,19
+2025-05-01,Asia Pacific,Japan,Enterprise,Traffic,40,29,14,9
+2025-05-01,Asia Pacific,Japan,Enterprise,Lead Generation,34,27,22,14
+2025-05-01,Asia Pacific,Japan,Enterprise,App Installs,42,32,21,14
+2025-05-01,Asia Pacific,Japan,Enterprise,Catalog Sales,33,24,22,13
+2025-05-01,Asia Pacific,Japan,Agency,Conversions,34,25,25,17
+2025-05-01,Asia Pacific,Japan,Agency,Traffic,27,18,9,6
+2025-05-01,Asia Pacific,Japan,Agency,Lead Generation,29,20,17,10
+2025-05-01,Asia Pacific,Japan,Agency,App Installs,23,17,11,7
+2025-05-01,Asia Pacific,Japan,Agency,Catalog Sales,32,23,20,13
+2025-05-01,Asia Pacific,South Korea,SMB,Conversions,12,6,5,3
+2025-05-01,Asia Pacific,South Korea,SMB,Traffic,12,6,3,1
+2025-05-01,Asia Pacific,South Korea,SMB,Lead Generation,12,6,5,3
+2025-05-01,Asia Pacific,South Korea,SMB,App Installs,12,6,3,2
+2025-05-01,Asia Pacific,South Korea,SMB,Catalog Sales,12,6,6,3
+2025-05-01,Asia Pacific,South Korea,Mid-Market,Conversions,15,9,8,5
+2025-05-01,Asia Pacific,South Korea,Mid-Market,Traffic,18,11,5,3
+2025-05-01,Asia Pacific,South Korea,Mid-Market,Lead Generation,16,10,9,5
+2025-05-01,Asia Pacific,South Korea,Mid-Market,App Installs,16,9,6,3
+2025-05-01,Asia Pacific,South Korea,Mid-Market,Catalog Sales,21,14,12,7
+2025-05-01,Asia Pacific,South Korea,Enterprise,Conversions,39,30,27,16
+2025-05-01,Asia Pacific,South Korea,Enterprise,Traffic,36,26,12,7
+2025-05-01,Asia Pacific,South Korea,Enterprise,Lead Generation,33,25,21,14
+2025-05-01,Asia Pacific,South Korea,Enterprise,App Installs,39,30,18,11
+2025-05-01,Asia Pacific,South Korea,Enterprise,Catalog Sales,29,22,18,10
+2025-05-01,Asia Pacific,South Korea,Agency,Conversions,30,19,17,11
+2025-05-01,Asia Pacific,South Korea,Agency,Traffic,20,13,6,4
+2025-05-01,Asia Pacific,South Korea,Agency,Lead Generation,30,22,19,12
+2025-05-01,Asia Pacific,South Korea,Agency,App Installs,28,20,13,8
+2025-05-01,Asia Pacific,South Korea,Agency,Catalog Sales,25,19,16,10
+2025-05-01,Asia Pacific,Australia,SMB,Conversions,12,6,6,4
+2025-05-01,Asia Pacific,Australia,SMB,Traffic,12,6,3,1
+2025-05-01,Asia Pacific,Australia,SMB,Lead Generation,12,6,4,2
+2025-05-01,Asia Pacific,Australia,SMB,App Installs,12,6,3,2
+2025-05-01,Asia Pacific,Australia,SMB,Catalog Sales,12,6,5,3
+2025-05-01,Asia Pacific,Australia,Mid-Market,Conversions,15,10,10,6
+2025-05-01,Asia Pacific,Australia,Mid-Market,Traffic,18,12,6,3
+2025-05-01,Asia Pacific,Australia,Mid-Market,Lead Generation,16,10,8,5
+2025-05-01,Asia Pacific,Australia,Mid-Market,App Installs,15,9,5,3
+2025-05-01,Asia Pacific,Australia,Mid-Market,Catalog Sales,18,11,10,6
+2025-05-01,Asia Pacific,Australia,Enterprise,Conversions,30,23,23,15
+2025-05-01,Asia Pacific,Australia,Enterprise,Traffic,34,28,13,9
+2025-05-01,Asia Pacific,Australia,Enterprise,Lead Generation,24,17,15,9
+2025-05-01,Asia Pacific,Australia,Enterprise,App Installs,32,26,16,10
+2025-05-01,Asia Pacific,Australia,Enterprise,Catalog Sales,33,24,22,13
+2025-05-01,Asia Pacific,Australia,Agency,Conversions,27,19,19,11
+2025-05-01,Asia Pacific,Australia,Agency,Traffic,17,13,6,3
+2025-05-01,Asia Pacific,Australia,Agency,Lead Generation,20,15,13,8
+2025-05-01,Asia Pacific,Australia,Agency,App Installs,24,18,11,7
+2025-05-01,Asia Pacific,Australia,Agency,Catalog Sales,21,15,13,7
+2025-05-01,Asia Pacific,Indonesia,SMB,Conversions,13,6,6,3
+2025-05-01,Asia Pacific,Indonesia,SMB,Traffic,15,7,3,2
+2025-05-01,Asia Pacific,Indonesia,SMB,Lead Generation,17,8,6,4
+2025-05-01,Asia Pacific,Indonesia,SMB,App Installs,13,5,3,2
+2025-05-01,Asia Pacific,Indonesia,SMB,Catalog Sales,16,7,6,4
+2025-05-01,Asia Pacific,Indonesia,Mid-Market,Conversions,20,10,10,6
+2025-05-01,Asia Pacific,Indonesia,Mid-Market,Traffic,27,14,7,4
+2025-05-01,Asia Pacific,Indonesia,Mid-Market,Lead Generation,23,12,10,6
+2025-05-01,Asia Pacific,Indonesia,Mid-Market,App Installs,18,9,5,3
+2025-05-01,Asia Pacific,Indonesia,Mid-Market,Catalog Sales,27,15,13,7
+2025-05-01,Asia Pacific,Indonesia,Enterprise,Conversions,37,26,26,16
+2025-05-01,Asia Pacific,Indonesia,Enterprise,Traffic,49,33,15,10
+2025-05-01,Asia Pacific,Indonesia,Enterprise,Lead Generation,47,30,25,16
+2025-05-01,Asia Pacific,Indonesia,Enterprise,App Installs,42,30,20,12
+2025-05-01,Asia Pacific,Indonesia,Enterprise,Catalog Sales,31,20,16,10
+2025-05-01,Asia Pacific,Indonesia,Agency,Conversions,31,21,19,11
+2025-05-01,Asia Pacific,Indonesia,Agency,Traffic,28,18,8,5
+2025-05-01,Asia Pacific,Indonesia,Agency,Lead Generation,33,22,18,11
+2025-05-01,Asia Pacific,Indonesia,Agency,App Installs,32,20,13,8
+2025-05-01,Asia Pacific,Indonesia,Agency,Catalog Sales,38,24,21,14
+2025-06-01,North America,United States,SMB,Conversions,15,8,8,5
+2025-06-01,North America,United States,SMB,Traffic,24,13,6,4
+2025-06-01,North America,United States,SMB,Lead Generation,18,10,8,5
+2025-06-01,North America,United States,SMB,App Installs,18,10,6,4
+2025-06-01,North America,United States,SMB,Catalog Sales,21,12,12,7
+2025-06-01,North America,United States,Mid-Market,Conversions,33,22,20,12
+2025-06-01,North America,United States,Mid-Market,Traffic,25,17,8,4
+2025-06-01,North America,United States,Mid-Market,Lead Generation,31,20,17,12
+2025-06-01,North America,United States,Mid-Market,App Installs,33,24,14,9
+2025-06-01,North America,United States,Mid-Market,Catalog Sales,38,27,22,14
+2025-06-01,North America,United States,Enterprise,Conversions,49,40,39,25
+2025-06-01,North America,United States,Enterprise,Traffic,64,50,25,17
+2025-06-01,North America,United States,Enterprise,Lead Generation,53,41,36,21
+2025-06-01,North America,United States,Enterprise,App Installs,47,41,25,14
+2025-06-01,North America,United States,Enterprise,Catalog Sales,64,50,45,27
+2025-06-01,North America,United States,Agency,Conversions,40,32,31,20
+2025-06-01,North America,United States,Agency,Traffic,42,31,14,8
+2025-06-01,North America,United States,Agency,Lead Generation,49,34,30,17
+2025-06-01,North America,United States,Agency,App Installs,48,35,24,14
+2025-06-01,North America,United States,Agency,Catalog Sales,47,35,31,21
+2025-06-01,North America,Canada,SMB,Conversions,12,6,6,3
+2025-06-01,North America,Canada,SMB,Traffic,12,6,2,1
+2025-06-01,North America,Canada,SMB,Lead Generation,12,6,5,3
+2025-06-01,North America,Canada,SMB,App Installs,12,6,4,2
+2025-06-01,North America,Canada,SMB,Catalog Sales,12,6,5,3
+2025-06-01,North America,Canada,Mid-Market,Conversions,21,13,12,7
+2025-06-01,North America,Canada,Mid-Market,Traffic,13,8,3,2
+2025-06-01,North America,Canada,Mid-Market,Lead Generation,15,9,8,5
+2025-06-01,North America,Canada,Mid-Market,App Installs,18,11,7,4
+2025-06-01,North America,Canada,Mid-Market,Catalog Sales,13,8,7,5
+2025-06-01,North America,Canada,Enterprise,Conversions,31,24,21,13
+2025-06-01,North America,Canada,Enterprise,Traffic,22,18,8,5
+2025-06-01,North America,Canada,Enterprise,Lead Generation,27,21,16,10
+2025-06-01,North America,Canada,Enterprise,App Installs,36,30,18,12
+2025-06-01,North America,Canada,Enterprise,Catalog Sales,22,18,15,9
+2025-06-01,North America,Canada,Agency,Conversions,24,17,17,11
+2025-06-01,North America,Canada,Agency,Traffic,27,20,9,5
+2025-06-01,North America,Canada,Agency,Lead Generation,19,12,10,6
+2025-06-01,North America,Canada,Agency,App Installs,24,18,12,7
+2025-06-01,North America,Canada,Agency,Catalog Sales,26,18,17,11
+2025-06-01,Europe,United Kingdom,SMB,Conversions,12,7,6,4
+2025-06-01,Europe,United Kingdom,SMB,Traffic,12,6,2,1
+2025-06-01,Europe,United Kingdom,SMB,Lead Generation,16,9,8,5
+2025-06-01,Europe,United Kingdom,SMB,App Installs,12,6,4,2
+2025-06-01,Europe,United Kingdom,SMB,Catalog Sales,12,6,5,3
+2025-06-01,Europe,United Kingdom,Mid-Market,Conversions,25,18,17,10
+2025-06-01,Europe,United Kingdom,Mid-Market,Traffic,20,14,6,4
+2025-06-01,Europe,United Kingdom,Mid-Market,Lead Generation,22,14,11,6
+2025-06-01,Europe,United Kingdom,Mid-Market,App Installs,18,12,7,5
+2025-06-01,Europe,United Kingdom,Mid-Market,Catalog Sales,22,15,14,9
+2025-06-01,Europe,United Kingdom,Enterprise,Conversions,45,35,33,19
+2025-06-01,Europe,United Kingdom,Enterprise,Traffic,42,36,18,12
+2025-06-01,Europe,United Kingdom,Enterprise,Lead Generation,32,25,21,14
+2025-06-01,Europe,United Kingdom,Enterprise,App Installs,32,27,16,10
+2025-06-01,Europe,United Kingdom,Enterprise,Catalog Sales,33,28,24,16
+2025-06-01,Europe,United Kingdom,Agency,Conversions,24,18,16,9
+2025-06-01,Europe,United Kingdom,Agency,Traffic,27,20,9,6
+2025-06-01,Europe,United Kingdom,Agency,Lead Generation,22,16,14,8
+2025-06-01,Europe,United Kingdom,Agency,App Installs,30,23,14,9
+2025-06-01,Europe,United Kingdom,Agency,Catalog Sales,27,20,18,12
+2025-06-01,Europe,Germany,SMB,Conversions,12,6,6,4
+2025-06-01,Europe,Germany,SMB,Traffic,15,8,4,2
+2025-06-01,Europe,Germany,SMB,Lead Generation,12,6,5,3
+2025-06-01,Europe,Germany,SMB,App Installs,12,6,4,2
+2025-06-01,Europe,Germany,SMB,Catalog Sales,14,7,5,3
+2025-06-01,Europe,Germany,Mid-Market,Conversions,20,13,13,7
+2025-06-01,Europe,Germany,Mid-Market,Traffic,20,12,6,3
+2025-06-01,Europe,Germany,Mid-Market,Lead Generation,24,14,12,7
+2025-06-01,Europe,Germany,Mid-Market,App Installs,22,14,9,5
+2025-06-01,Europe,Germany,Mid-Market,Catalog Sales,20,13,11,7
+2025-06-01,Europe,Germany,Enterprise,Conversions,42,31,29,19
+2025-06-01,Europe,Germany,Enterprise,Traffic,26,21,10,5
+2025-06-01,Europe,Germany,Enterprise,Lead Generation,30,22,19,12
+2025-06-01,Europe,Germany,Enterprise,App Installs,26,20,13,7
+2025-06-01,Europe,Germany,Enterprise,Catalog Sales,35,26,23,13
+2025-06-01,Europe,Germany,Agency,Conversions,26,18,17,10
+2025-06-01,Europe,Germany,Agency,Traffic,30,21,10,6
+2025-06-01,Europe,Germany,Agency,Lead Generation,24,18,15,9
+2025-06-01,Europe,Germany,Agency,App Installs,29,19,12,8
+2025-06-01,Europe,Germany,Agency,Catalog Sales,27,18,15,10
+2025-06-01,Europe,France,SMB,Conversions,12,5,5,3
+2025-06-01,Europe,France,SMB,Traffic,12,6,2,1
+2025-06-01,Europe,France,SMB,Lead Generation,12,6,5,3
+2025-06-01,Europe,France,SMB,App Installs,12,6,4,2
+2025-06-01,Europe,France,SMB,Catalog Sales,13,6,5,3
+2025-06-01,Europe,France,Mid-Market,Conversions,19,11,10,6
+2025-06-01,Europe,France,Mid-Market,Traffic,22,14,6,3
+2025-06-01,Europe,France,Mid-Market,Lead Generation,21,13,11,7
+2025-06-01,Europe,France,Mid-Market,App Installs,17,10,6,3
+2025-06-01,Europe,France,Mid-Market,Catalog Sales,21,12,11,6
+2025-06-01,Europe,France,Enterprise,Conversions,32,24,22,13
+2025-06-01,Europe,France,Enterprise,Traffic,31,23,11,6
+2025-06-01,Europe,France,Enterprise,Lead Generation,34,26,20,12
+2025-06-01,Europe,France,Enterprise,App Installs,32,24,15,9
+2025-06-01,Europe,France,Enterprise,Catalog Sales,25,18,16,11
+2025-06-01,Europe,France,Agency,Conversions,24,17,16,9
+2025-06-01,Europe,France,Agency,Traffic,28,17,8,4
+2025-06-01,Europe,France,Agency,Lead Generation,30,20,15,10
+2025-06-01,Europe,France,Agency,App Installs,23,15,10,6
+2025-06-01,Europe,France,Agency,Catalog Sales,25,18,15,9
+2025-06-01,Middle East & Africa,United Arab Emirates,SMB,Conversions,12,6,6,3
+2025-06-01,Middle East & Africa,United Arab Emirates,SMB,Traffic,12,6,3,2
+2025-06-01,Middle East & Africa,United Arab Emirates,SMB,Lead Generation,12,6,5,3
+2025-06-01,Middle East & Africa,United Arab Emirates,SMB,App Installs,12,6,3,2
+2025-06-01,Middle East & Africa,United Arab Emirates,SMB,Catalog Sales,12,7,6,3
+2025-06-01,Middle East & Africa,United Arab Emirates,Mid-Market,Conversions,14,9,8,4
+2025-06-01,Middle East & Africa,United Arab Emirates,Mid-Market,Traffic,16,10,5,3
+2025-06-01,Middle East & Africa,United Arab Emirates,Mid-Market,Lead Generation,12,8,7,4
+2025-06-01,Middle East & Africa,United Arab Emirates,Mid-Market,App Installs,12,8,5,3
+2025-06-01,Middle East & Africa,United Arab Emirates,Mid-Market,Catalog Sales,18,12,11,6
+2025-06-01,Middle East & Africa,United Arab Emirates,Enterprise,Conversions,23,18,18,12
+2025-06-01,Middle East & Africa,United Arab Emirates,Enterprise,Traffic,21,16,7,4
+2025-06-01,Middle East & Africa,United Arab Emirates,Enterprise,Lead Generation,24,19,15,9
+2025-06-01,Middle East & Africa,United Arab Emirates,Enterprise,App Installs,23,18,12,7
+2025-06-01,Middle East & Africa,United Arab Emirates,Enterprise,Catalog Sales,31,24,21,14
+2025-06-01,Middle East & Africa,United Arab Emirates,Agency,Conversions,26,17,17,10
+2025-06-01,Middle East & Africa,United Arab Emirates,Agency,Traffic,24,18,9,6
+2025-06-01,Middle East & Africa,United Arab Emirates,Agency,Lead Generation,23,15,13,8
+2025-06-01,Middle East & Africa,United Arab Emirates,Agency,App Installs,21,15,10,6
+2025-06-01,Middle East & Africa,United Arab Emirates,Agency,Catalog Sales,17,11,10,7
+2025-06-01,Middle East & Africa,Saudi Arabia,SMB,Conversions,12,5,5,3
+2025-06-01,Middle East & Africa,Saudi Arabia,SMB,Traffic,12,5,2,1
+2025-06-01,Middle East & Africa,Saudi Arabia,SMB,Lead Generation,12,5,4,3
+2025-06-01,Middle East & Africa,Saudi Arabia,SMB,App Installs,12,6,3,2
+2025-06-01,Middle East & Africa,Saudi Arabia,SMB,Catalog Sales,12,6,5,3
+2025-06-01,Middle East & Africa,Saudi Arabia,Mid-Market,Conversions,13,8,7,4
+2025-06-01,Middle East & Africa,Saudi Arabia,Mid-Market,Traffic,14,8,4,2
+2025-06-01,Middle East & Africa,Saudi Arabia,Mid-Market,Lead Generation,21,13,11,7
+2025-06-01,Middle East & Africa,Saudi Arabia,Mid-Market,App Installs,16,9,6,3
+2025-06-01,Middle East & Africa,Saudi Arabia,Mid-Market,Catalog Sales,16,9,8,4
+2025-06-01,Middle East & Africa,Saudi Arabia,Enterprise,Conversions,25,19,17,11
+2025-06-01,Middle East & Africa,Saudi Arabia,Enterprise,Traffic,33,25,12,6
+2025-06-01,Middle East & Africa,Saudi Arabia,Enterprise,Lead Generation,29,21,18,11
+2025-06-01,Middle East & Africa,Saudi Arabia,Enterprise,App Installs,33,22,15,9
+2025-06-01,Middle East & Africa,Saudi Arabia,Enterprise,Catalog Sales,30,23,19,12
+2025-06-01,Middle East & Africa,Saudi Arabia,Agency,Conversions,22,16,15,9
+2025-06-01,Middle East & Africa,Saudi Arabia,Agency,Traffic,21,13,6,4
+2025-06-01,Middle East & Africa,Saudi Arabia,Agency,Lead Generation,18,12,11,6
+2025-06-01,Middle East & Africa,Saudi Arabia,Agency,App Installs,24,15,9,6
+2025-06-01,Middle East & Africa,Saudi Arabia,Agency,Catalog Sales,21,15,12,8
+2025-06-01,Middle East & Africa,South Africa,SMB,Conversions,12,5,5,3
+2025-06-01,Middle East & Africa,South Africa,SMB,Traffic,12,5,2,1
+2025-06-01,Middle East & Africa,South Africa,SMB,Lead Generation,12,5,5,2
+2025-06-01,Middle East & Africa,South Africa,SMB,App Installs,12,5,3,2
+2025-06-01,Middle East & Africa,South Africa,SMB,Catalog Sales,12,5,4,2
+2025-06-01,Middle East & Africa,South Africa,Mid-Market,Conversions,14,7,7,4
+2025-06-01,Middle East & Africa,South Africa,Mid-Market,Traffic,12,6,2,1
+2025-06-01,Middle East & Africa,South Africa,Mid-Market,Lead Generation,12,7,5,3
+2025-06-01,Middle East & Africa,South Africa,Mid-Market,App Installs,17,9,5,3
+2025-06-01,Middle East & Africa,South Africa,Mid-Market,Catalog Sales,13,6,6,3
+2025-06-01,Middle East & Africa,South Africa,Enterprise,Conversions,27,17,16,10
+2025-06-01,Middle East & Africa,South Africa,Enterprise,Traffic,22,15,7,4
+2025-06-01,Middle East & Africa,South Africa,Enterprise,Lead Generation,24,17,13,7
+2025-06-01,Middle East & Africa,South Africa,Enterprise,App Installs,29,20,13,7
+2025-06-01,Middle East & Africa,South Africa,Enterprise,Catalog Sales,25,16,14,8
+2025-06-01,Middle East & Africa,South Africa,Agency,Conversions,23,15,14,8
+2025-06-01,Middle East & Africa,South Africa,Agency,Traffic,18,11,5,3
+2025-06-01,Middle East & Africa,South Africa,Agency,Lead Generation,23,13,11,7
+2025-06-01,Middle East & Africa,South Africa,Agency,App Installs,20,11,7,4
+2025-06-01,Middle East & Africa,South Africa,Agency,Catalog Sales,20,12,10,6
+2025-06-01,Asia Pacific,Japan,SMB,Conversions,12,6,6,3
+2025-06-01,Asia Pacific,Japan,SMB,Traffic,15,8,4,2
+2025-06-01,Asia Pacific,Japan,SMB,Lead Generation,12,6,5,3
+2025-06-01,Asia Pacific,Japan,SMB,App Installs,12,6,3,2
+2025-06-01,Asia Pacific,Japan,SMB,Catalog Sales,12,6,6,3
+2025-06-01,Asia Pacific,Japan,Mid-Market,Conversions,15,10,10,6
+2025-06-01,Asia Pacific,Japan,Mid-Market,Traffic,23,14,7,4
+2025-06-01,Asia Pacific,Japan,Mid-Market,Lead Generation,23,14,12,7
+2025-06-01,Asia Pacific,Japan,Mid-Market,App Installs,22,13,8,5
+2025-06-01,Asia Pacific,Japan,Mid-Market,Catalog Sales,25,16,13,8
+2025-06-01,Asia Pacific,Japan,Enterprise,Conversions,41,31,29,17
+2025-06-01,Asia Pacific,Japan,Enterprise,Traffic,43,33,15,9
+2025-06-01,Asia Pacific,Japan,Enterprise,Lead Generation,32,26,20,13
+2025-06-01,Asia Pacific,Japan,Enterprise,App Installs,40,28,17,11
+2025-06-01,Asia Pacific,Japan,Enterprise,Catalog Sales,34,26,21,14
+2025-06-01,Asia Pacific,Japan,Agency,Conversions,28,18,17,10
+2025-06-01,Asia Pacific,Japan,Agency,Traffic,24,16,7,4
+2025-06-01,Asia Pacific,Japan,Agency,Lead Generation,30,19,15,10
+2025-06-01,Asia Pacific,Japan,Agency,App Installs,29,20,12,8
+2025-06-01,Asia Pacific,Japan,Agency,Catalog Sales,29,19,18,11
+2025-06-01,Asia Pacific,South Korea,SMB,Conversions,12,6,6,3
+2025-06-01,Asia Pacific,South Korea,SMB,Traffic,12,6,3,1
+2025-06-01,Asia Pacific,South Korea,SMB,Lead Generation,13,6,5,3
+2025-06-01,Asia Pacific,South Korea,SMB,App Installs,13,6,4,2
+2025-06-01,Asia Pacific,South Korea,SMB,Catalog Sales,12,6,6,3
+2025-06-01,Asia Pacific,South Korea,Mid-Market,Conversions,23,13,12,7
+2025-06-01,Asia Pacific,South Korea,Mid-Market,Traffic,20,12,5,3
+2025-06-01,Asia Pacific,South Korea,Mid-Market,Lead Generation,20,12,11,7
+2025-06-01,Asia Pacific,South Korea,Mid-Market,App Installs,22,15,9,5
+2025-06-01,Asia Pacific,South Korea,Mid-Market,Catalog Sales,14,8,7,4
+2025-06-01,Asia Pacific,South Korea,Enterprise,Conversions,31,22,22,14
+2025-06-01,Asia Pacific,South Korea,Enterprise,Traffic,23,18,8,5
+2025-06-01,Asia Pacific,South Korea,Enterprise,Lead Generation,36,28,22,13
+2025-06-01,Asia Pacific,South Korea,Enterprise,App Installs,28,20,12,8
+2025-06-01,Asia Pacific,South Korea,Enterprise,Catalog Sales,34,27,23,14
+2025-06-01,Asia Pacific,South Korea,Agency,Conversions,21,14,14,9
+2025-06-01,Asia Pacific,South Korea,Agency,Traffic,22,16,7,4
+2025-06-01,Asia Pacific,South Korea,Agency,Lead Generation,22,16,12,7
+2025-06-01,Asia Pacific,South Korea,Agency,App Installs,22,15,9,6
+2025-06-01,Asia Pacific,South Korea,Agency,Catalog Sales,30,22,19,12
+2025-06-01,Asia Pacific,Australia,SMB,Conversions,12,6,5,3
+2025-06-01,Asia Pacific,Australia,SMB,Traffic,12,6,3,2
+2025-06-01,Asia Pacific,Australia,SMB,Lead Generation,12,6,5,3
+2025-06-01,Asia Pacific,Australia,SMB,App Installs,12,6,3,2
+2025-06-01,Asia Pacific,Australia,SMB,Catalog Sales,12,6,5,3
+2025-06-01,Asia Pacific,Australia,Mid-Market,Conversions,19,11,11,7
+2025-06-01,Asia Pacific,Australia,Mid-Market,Traffic,20,13,6,3
+2025-06-01,Asia Pacific,Australia,Mid-Market,Lead Generation,12,7,6,4
+2025-06-01,Asia Pacific,Australia,Mid-Market,App Installs,16,10,6,4
+2025-06-01,Asia Pacific,Australia,Mid-Market,Catalog Sales,15,9,8,5
+2025-06-01,Asia Pacific,Australia,Enterprise,Conversions,24,18,17,10
+2025-06-01,Asia Pacific,Australia,Enterprise,Traffic,26,21,9,5
+2025-06-01,Asia Pacific,Australia,Enterprise,Lead Generation,34,25,20,12
+2025-06-01,Asia Pacific,Australia,Enterprise,App Installs,32,24,14,9
+2025-06-01,Asia Pacific,Australia,Enterprise,Catalog Sales,25,20,16,10
+2025-06-01,Asia Pacific,Australia,Agency,Conversions,22,15,14,8
+2025-06-01,Asia Pacific,Australia,Agency,Traffic,25,16,7,4
+2025-06-01,Asia Pacific,Australia,Agency,Lead Generation,17,12,10,6
+2025-06-01,Asia Pacific,Australia,Agency,App Installs,17,13,7,5
+2025-06-01,Asia Pacific,Australia,Agency,Catalog Sales,16,11,9,6
+2025-06-01,Asia Pacific,Indonesia,SMB,Conversions,16,7,7,4
+2025-06-01,Asia Pacific,Indonesia,SMB,Traffic,12,5,2,1
+2025-06-01,Asia Pacific,Indonesia,SMB,Lead Generation,12,5,4,2
+2025-06-01,Asia Pacific,Indonesia,SMB,App Installs,17,8,5,3
+2025-06-01,Asia Pacific,Indonesia,SMB,Catalog Sales,16,7,6,3
+2025-06-01,Asia Pacific,Indonesia,Mid-Market,Conversions,25,13,12,7
+2025-06-01,Asia Pacific,Indonesia,Mid-Market,Traffic,25,14,6,4
+2025-06-01,Asia Pacific,Indonesia,Mid-Market,Lead Generation,28,14,12,7
+2025-06-01,Asia Pacific,Indonesia,Mid-Market,App Installs,23,12,8,5
+2025-06-01,Asia Pacific,Indonesia,Mid-Market,Catalog Sales,19,11,10,6
+2025-06-01,Asia Pacific,Indonesia,Enterprise,Conversions,41,30,29,19
+2025-06-01,Asia Pacific,Indonesia,Enterprise,Traffic,33,21,11,7
+2025-06-01,Asia Pacific,Indonesia,Enterprise,Lead Generation,35,23,18,11
+2025-06-01,Asia Pacific,Indonesia,Enterprise,App Installs,30,22,14,8
+2025-06-01,Asia Pacific,Indonesia,Enterprise,Catalog Sales,33,24,20,13
+2025-06-01,Asia Pacific,Indonesia,Agency,Conversions,25,16,15,8
+2025-06-01,Asia Pacific,Indonesia,Agency,Traffic,33,22,10,6
+2025-06-01,Asia Pacific,Indonesia,Agency,Lead Generation,26,15,12,7
+2025-06-01,Asia Pacific,Indonesia,Agency,App Installs,35,23,14,9
+2025-06-01,Asia Pacific,Indonesia,Agency,Catalog Sales,37,23,20,13
+2025-07-01,North America,United States,SMB,Conversions,17,10,9,5
+2025-07-01,North America,United States,SMB,Traffic,14,7,3,2
+2025-07-01,North America,United States,SMB,Lead Generation,21,11,8,5
+2025-07-01,North America,United States,SMB,App Installs,20,11,6,4
+2025-07-01,North America,United States,SMB,Catalog Sales,18,10,9,5
+2025-07-01,North America,United States,Mid-Market,Conversions,28,20,18,12
+2025-07-01,North America,United States,Mid-Market,Traffic,35,24,10,7
+2025-07-01,North America,United States,Mid-Market,Lead Generation,36,25,19,11
+2025-07-01,North America,United States,Mid-Market,App Installs,34,23,15,10
+2025-07-01,North America,United States,Mid-Market,Catalog Sales,33,21,17,10
+2025-07-01,North America,United States,Enterprise,Conversions,51,43,40,25
+2025-07-01,North America,United States,Enterprise,Traffic,65,54,26,17
+2025-07-01,North America,United States,Enterprise,Lead Generation,66,50,40,23
+2025-07-01,North America,United States,Enterprise,App Installs,56,43,26,15
+2025-07-01,North America,United States,Enterprise,Catalog Sales,54,46,42,27
+2025-07-01,North America,United States,Agency,Conversions,51,39,35,22
+2025-07-01,North America,United States,Agency,Traffic,51,38,19,11
+2025-07-01,North America,United States,Agency,Lead Generation,32,23,19,11
+2025-07-01,North America,United States,Agency,App Installs,37,29,19,12
+2025-07-01,North America,United States,Agency,Catalog Sales,39,32,26,16
+2025-07-01,North America,Canada,SMB,Conversions,12,6,5,3
+2025-07-01,North America,Canada,SMB,Traffic,12,6,2,1
+2025-07-01,North America,Canada,SMB,Lead Generation,12,6,5,3
+2025-07-01,North America,Canada,SMB,App Installs,12,6,4,2
+2025-07-01,North America,Canada,SMB,Catalog Sales,12,6,5,3
+2025-07-01,North America,Canada,Mid-Market,Conversions,14,8,8,5
+2025-07-01,North America,Canada,Mid-Market,Traffic,20,12,6,3
+2025-07-01,North America,Canada,Mid-Market,Lead Generation,17,10,8,5
+2025-07-01,North America,Canada,Mid-Market,App Installs,16,9,6,4
+2025-07-01,North America,Canada,Mid-Market,Catalog Sales,18,12,11,6
+2025-07-01,North America,Canada,Enterprise,Conversions,31,22,22,13
+2025-07-01,North America,Canada,Enterprise,Traffic,28,22,11,6
+2025-07-01,North America,Canada,Enterprise,Lead Generation,28,21,17,11
+2025-07-01,North America,Canada,Enterprise,App Installs,32,24,15,9
+2025-07-01,North America,Canada,Enterprise,Catalog Sales,28,21,19,12
+2025-07-01,North America,Canada,Agency,Conversions,24,18,16,10
+2025-07-01,North America,Canada,Agency,Traffic,18,13,6,4
+2025-07-01,North America,Canada,Agency,Lead Generation,17,12,10,5
+2025-07-01,North America,Canada,Agency,App Installs,19,13,8,5
+2025-07-01,North America,Canada,Agency,Catalog Sales,26,18,14,8
+2025-07-01,Europe,United Kingdom,SMB,Conversions,13,6,6,4
+2025-07-01,Europe,United Kingdom,SMB,Traffic,12,6,3,2
+2025-07-01,Europe,United Kingdom,SMB,Lead Generation,16,8,6,3
+2025-07-01,Europe,United Kingdom,SMB,App Installs,14,7,4,2
+2025-07-01,Europe,United Kingdom,SMB,Catalog Sales,14,8,7,4
+2025-07-01,Europe,United Kingdom,Mid-Market,Conversions,22,14,13,8
+2025-07-01,Europe,United Kingdom,Mid-Market,Traffic,19,13,6,4
+2025-07-01,Europe,United Kingdom,Mid-Market,Lead Generation,19,12,10,6
+2025-07-01,Europe,United Kingdom,Mid-Market,App Installs,17,10,7,4
+2025-07-01,Europe,United Kingdom,Mid-Market,Catalog Sales,23,16,14,9
+2025-07-01,Europe,United Kingdom,Enterprise,Conversions,46,38,37,24
+2025-07-01,Europe,United Kingdom,Enterprise,Traffic,45,34,15,9
+2025-07-01,Europe,United Kingdom,Enterprise,Lead Generation,32,23,20,12
+2025-07-01,Europe,United Kingdom,Enterprise,App Installs,33,25,16,10
+2025-07-01,Europe,United Kingdom,Enterprise,Catalog Sales,41,33,27,16
+2025-07-01,Europe,United Kingdom,Agency,Conversions,31,23,21,12
+2025-07-01,Europe,United Kingdom,Agency,Traffic,27,20,9,5
+2025-07-01,Europe,United Kingdom,Agency,Lead Generation,24,18,14,8
+2025-07-01,Europe,United Kingdom,Agency,App Installs,24,17,11,6
+2025-07-01,Europe,United Kingdom,Agency,Catalog Sales,22,17,14,8
+2025-07-01,Europe,Germany,SMB,Conversions,13,7,6,4
+2025-07-01,Europe,Germany,SMB,Traffic,13,7,3,1
+2025-07-01,Europe,Germany,SMB,Lead Generation,12,6,4,3
+2025-07-01,Europe,Germany,SMB,App Installs,14,7,4,2
+2025-07-01,Europe,Germany,SMB,Catalog Sales,13,6,5,3
+2025-07-01,Europe,Germany,Mid-Market,Conversions,19,11,10,6
+2025-07-01,Europe,Germany,Mid-Market,Traffic,17,10,5,3
+2025-07-01,Europe,Germany,Mid-Market,Lead Generation,21,12,10,6
+2025-07-01,Europe,Germany,Mid-Market,App Installs,16,9,6,3
+2025-07-01,Europe,Germany,Mid-Market,Catalog Sales,17,11,9,5
+2025-07-01,Europe,Germany,Enterprise,Conversions,26,18,17,11
+2025-07-01,Europe,Germany,Enterprise,Traffic,33,26,12,7
+2025-07-01,Europe,Germany,Enterprise,Lead Generation,27,20,16,9
+2025-07-01,Europe,Germany,Enterprise,App Installs,38,27,17,10
+2025-07-01,Europe,Germany,Enterprise,Catalog Sales,38,29,26,16
+2025-07-01,Europe,Germany,Agency,Conversions,24,16,16,11
+2025-07-01,Europe,Germany,Agency,Traffic,27,17,8,5
+2025-07-01,Europe,Germany,Agency,Lead Generation,26,18,14,9
+2025-07-01,Europe,Germany,Agency,App Installs,25,17,11,7
+2025-07-01,Europe,Germany,Agency,Catalog Sales,26,17,15,10
+2025-07-01,Europe,France,SMB,Conversions,12,6,6,3
+2025-07-01,Europe,France,SMB,Traffic,12,6,2,1
+2025-07-01,Europe,France,SMB,Lead Generation,12,6,5,3
+2025-07-01,Europe,France,SMB,App Installs,12,5,3,2
+2025-07-01,Europe,France,SMB,Catalog Sales,13,6,5,3
+2025-07-01,Europe,France,Mid-Market,Conversions,21,12,12,8
+2025-07-01,Europe,France,Mid-Market,Traffic,21,12,5,3
+2025-07-01,Europe,France,Mid-Market,Lead Generation,20,12,9,6
+2025-07-01,Europe,France,Mid-Market,App Installs,16,10,6,4
+2025-07-01,Europe,France,Mid-Market,Catalog Sales,22,12,11,7
+2025-07-01,Europe,France,Enterprise,Conversions,24,16,15,9
+2025-07-01,Europe,France,Enterprise,Traffic,25,19,9,5
+2025-07-01,Europe,France,Enterprise,Lead Generation,29,21,16,10
+2025-07-01,Europe,France,Enterprise,App Installs,37,26,17,9
+2025-07-01,Europe,France,Enterprise,Catalog Sales,34,23,20,13
+2025-07-01,Europe,France,Agency,Conversions,27,17,15,9
+2025-07-01,Europe,France,Agency,Traffic,26,18,8,5
+2025-07-01,Europe,France,Agency,Lead Generation,22,15,12,7
+2025-07-01,Europe,France,Agency,App Installs,19,13,8,5
+2025-07-01,Europe,France,Agency,Catalog Sales,28,17,15,9
+2025-07-01,Middle East & Africa,United Arab Emirates,SMB,Conversions,12,6,5,3
+2025-07-01,Middle East & Africa,United Arab Emirates,SMB,Traffic,12,6,3,1
+2025-07-01,Middle East & Africa,United Arab Emirates,SMB,Lead Generation,12,6,4,3
+2025-07-01,Middle East & Africa,United Arab Emirates,SMB,App Installs,12,6,4,2
+2025-07-01,Middle East & Africa,United Arab Emirates,SMB,Catalog Sales,12,6,6,3
+2025-07-01,Middle East & Africa,United Arab Emirates,Mid-Market,Conversions,17,11,11,6
+2025-07-01,Middle East & Africa,United Arab Emirates,Mid-Market,Traffic,12,8,4,2
+2025-07-01,Middle East & Africa,United Arab Emirates,Mid-Market,Lead Generation,17,11,9,5
+2025-07-01,Middle East & Africa,United Arab Emirates,Mid-Market,App Installs,12,7,4,2
+2025-07-01,Middle East & Africa,United Arab Emirates,Mid-Market,Catalog Sales,13,9,8,5
+2025-07-01,Middle East & Africa,United Arab Emirates,Enterprise,Conversions,20,14,15,10
+2025-07-01,Middle East & Africa,United Arab Emirates,Enterprise,Traffic,32,26,12,8
+2025-07-01,Middle East & Africa,United Arab Emirates,Enterprise,Lead Generation,29,24,20,13
+2025-07-01,Middle East & Africa,United Arab Emirates,Enterprise,App Installs,20,15,9,5
+2025-07-01,Middle East & Africa,United Arab Emirates,Enterprise,Catalog Sales,23,17,15,9
+2025-07-01,Middle East & Africa,United Arab Emirates,Agency,Conversions,22,15,14,9
+2025-07-01,Middle East & Africa,United Arab Emirates,Agency,Traffic,23,17,8,5
+2025-07-01,Middle East & Africa,United Arab Emirates,Agency,Lead Generation,20,14,12,7
+2025-07-01,Middle East & Africa,United Arab Emirates,Agency,App Installs,23,16,10,6
+2025-07-01,Middle East & Africa,United Arab Emirates,Agency,Catalog Sales,22,16,14,8
+2025-07-01,Middle East & Africa,Saudi Arabia,SMB,Conversions,12,5,5,3
+2025-07-01,Middle East & Africa,Saudi Arabia,SMB,Traffic,12,6,2,1
+2025-07-01,Middle East & Africa,Saudi Arabia,SMB,Lead Generation,12,6,5,3
+2025-07-01,Middle East & Africa,Saudi Arabia,SMB,App Installs,13,6,4,2
+2025-07-01,Middle East & Africa,Saudi Arabia,SMB,Catalog Sales,12,6,5,3
+2025-07-01,Middle East & Africa,Saudi Arabia,Mid-Market,Conversions,15,9,9,6
+2025-07-01,Middle East & Africa,Saudi Arabia,Mid-Market,Traffic,13,7,3,2
+2025-07-01,Middle East & Africa,Saudi Arabia,Mid-Market,Lead Generation,18,10,8,5
+2025-07-01,Middle East & Africa,Saudi Arabia,Mid-Market,App Installs,14,8,6,3
+2025-07-01,Middle East & Africa,Saudi Arabia,Mid-Market,Catalog Sales,16,9,7,4
+2025-07-01,Middle East & Africa,Saudi Arabia,Enterprise,Conversions,26,18,18,11
+2025-07-01,Middle East & Africa,Saudi Arabia,Enterprise,Traffic,23,18,8,4
+2025-07-01,Middle East & Africa,Saudi Arabia,Enterprise,Lead Generation,35,27,22,14
+2025-07-01,Middle East & Africa,Saudi Arabia,Enterprise,App Installs,27,19,11,7
+2025-07-01,Middle East & Africa,Saudi Arabia,Enterprise,Catalog Sales,34,25,22,12
+2025-07-01,Middle East & Africa,Saudi Arabia,Agency,Conversions,25,16,14,9
+2025-07-01,Middle East & Africa,Saudi Arabia,Agency,Traffic,25,15,7,5
+2025-07-01,Middle East & Africa,Saudi Arabia,Agency,Lead Generation,28,19,15,10
+2025-07-01,Middle East & Africa,Saudi Arabia,Agency,App Installs,28,20,12,7
+2025-07-01,Middle East & Africa,Saudi Arabia,Agency,Catalog Sales,24,17,15,9
+2025-07-01,Middle East & Africa,South Africa,SMB,Conversions,12,5,5,3
+2025-07-01,Middle East & Africa,South Africa,SMB,Traffic,12,5,2,1
+2025-07-01,Middle East & Africa,South Africa,SMB,Lead Generation,12,5,4,2
+2025-07-01,Middle East & Africa,South Africa,SMB,App Installs,12,5,3,2
+2025-07-01,Middle East & Africa,South Africa,SMB,Catalog Sales,12,5,5,3
+2025-07-01,Middle East & Africa,South Africa,Mid-Market,Conversions,13,7,7,4
+2025-07-01,Middle East & Africa,South Africa,Mid-Market,Traffic,13,6,3,2
+2025-07-01,Middle East & Africa,South Africa,Mid-Market,Lead Generation,14,7,5,3
+2025-07-01,Middle East & Africa,South Africa,Mid-Market,App Installs,12,6,4,2
+2025-07-01,Middle East & Africa,South Africa,Mid-Market,Catalog Sales,12,6,6,3
+2025-07-01,Middle East & Africa,South Africa,Enterprise,Conversions,27,17,17,10
+2025-07-01,Middle East & Africa,South Africa,Enterprise,Traffic,26,17,7,4
+2025-07-01,Middle East & Africa,South Africa,Enterprise,Lead Generation,27,16,13,9
+2025-07-01,Middle East & Africa,South Africa,Enterprise,App Installs,23,15,10,7
+2025-07-01,Middle East & Africa,South Africa,Enterprise,Catalog Sales,28,19,16,9
+2025-07-01,Middle East & Africa,South Africa,Agency,Conversions,22,14,12,7
+2025-07-01,Middle East & Africa,South Africa,Agency,Traffic,15,8,4,2
+2025-07-01,Middle East & Africa,South Africa,Agency,Lead Generation,16,9,7,4
+2025-07-01,Middle East & Africa,South Africa,Agency,App Installs,19,10,6,4
+2025-07-01,Middle East & Africa,South Africa,Agency,Catalog Sales,17,9,8,4
+2025-07-01,Asia Pacific,Japan,SMB,Conversions,12,6,6,3
+2025-07-01,Asia Pacific,Japan,SMB,Traffic,12,6,2,1
+2025-07-01,Asia Pacific,Japan,SMB,Lead Generation,12,6,6,3
+2025-07-01,Asia Pacific,Japan,SMB,App Installs,15,8,5,3
+2025-07-01,Asia Pacific,Japan,SMB,Catalog Sales,14,7,6,3
+2025-07-01,Asia Pacific,Japan,Mid-Market,Conversions,21,13,12,7
+2025-07-01,Asia Pacific,Japan,Mid-Market,Traffic,25,15,6,4
+2025-07-01,Asia Pacific,Japan,Mid-Market,Lead Generation,24,15,13,9
+2025-07-01,Asia Pacific,Japan,Mid-Market,App Installs,22,14,9,5
+2025-07-01,Asia Pacific,Japan,Mid-Market,Catalog Sales,23,15,12,7
+2025-07-01,Asia Pacific,Japan,Enterprise,Conversions,41,32,29,18
+2025-07-01,Asia Pacific,Japan,Enterprise,Traffic,28,20,9,5
+2025-07-01,Asia Pacific,Japan,Enterprise,Lead Generation,33,24,20,12
+2025-07-01,Asia Pacific,Japan,Enterprise,App Installs,42,30,19,12
+2025-07-01,Asia Pacific,Japan,Enterprise,Catalog Sales,42,32,30,17
+2025-07-01,Asia Pacific,Japan,Agency,Conversions,33,24,25,15
+2025-07-01,Asia Pacific,Japan,Agency,Traffic,28,21,9,5
+2025-07-01,Asia Pacific,Japan,Agency,Lead Generation,24,17,13,8
+2025-07-01,Asia Pacific,Japan,Agency,App Installs,21,15,9,6
+2025-07-01,Asia Pacific,Japan,Agency,Catalog Sales,27,19,17,11
+2025-07-01,Asia Pacific,South Korea,SMB,Conversions,12,6,6,3
+2025-07-01,Asia Pacific,South Korea,SMB,Traffic,12,5,2,1
+2025-07-01,Asia Pacific,South Korea,SMB,Lead Generation,12,6,5,3
+2025-07-01,Asia Pacific,South Korea,SMB,App Installs,12,6,3,2
+2025-07-01,Asia Pacific,South Korea,SMB,Catalog Sales,12,6,4,3
+2025-07-01,Asia Pacific,South Korea,Mid-Market,Conversions,15,10,9,5
+2025-07-01,Asia Pacific,South Korea,Mid-Market,Traffic,19,13,6,3
+2025-07-01,Asia Pacific,South Korea,Mid-Market,Lead Generation,22,15,13,8
+2025-07-01,Asia Pacific,South Korea,Mid-Market,App Installs,18,10,6,4
+2025-07-01,Asia Pacific,South Korea,Mid-Market,Catalog Sales,14,9,8,5
+2025-07-01,Asia Pacific,South Korea,Enterprise,Conversions,31,22,22,14
+2025-07-01,Asia Pacific,South Korea,Enterprise,Traffic,33,27,12,7
+2025-07-01,Asia Pacific,South Korea,Enterprise,Lead Generation,26,18,14,9
+2025-07-01,Asia Pacific,South Korea,Enterprise,App Installs,33,26,15,9
+2025-07-01,Asia Pacific,South Korea,Enterprise,Catalog Sales,34,25,22,13
+2025-07-01,Asia Pacific,South Korea,Agency,Conversions,20,15,15,8
+2025-07-01,Asia Pacific,South Korea,Agency,Traffic,23,16,7,4
+2025-07-01,Asia Pacific,South Korea,Agency,Lead Generation,19,13,11,7
+2025-07-01,Asia Pacific,South Korea,Agency,App Installs,21,16,10,5
+2025-07-01,Asia Pacific,South Korea,Agency,Catalog Sales,26,18,14,9
+2025-07-01,Asia Pacific,Australia,SMB,Conversions,12,6,6,3
+2025-07-01,Asia Pacific,Australia,SMB,Traffic,12,6,2,1
+2025-07-01,Asia Pacific,Australia,SMB,Lead Generation,12,6,5,3
+2025-07-01,Asia Pacific,Australia,SMB,App Installs,12,6,4,2
+2025-07-01,Asia Pacific,Australia,SMB,Catalog Sales,12,6,6,3
+2025-07-01,Asia Pacific,Australia,Mid-Market,Conversions,14,9,9,6
+2025-07-01,Asia Pacific,Australia,Mid-Market,Traffic,14,9,4,2
+2025-07-01,Asia Pacific,Australia,Mid-Market,Lead Generation,17,11,8,5
+2025-07-01,Asia Pacific,Australia,Mid-Market,App Installs,18,12,8,5
+2025-07-01,Asia Pacific,Australia,Mid-Market,Catalog Sales,17,11,10,6
+2025-07-01,Asia Pacific,Australia,Enterprise,Conversions,33,27,25,15
+2025-07-01,Asia Pacific,Australia,Enterprise,Traffic,20,14,6,3
+2025-07-01,Asia Pacific,Australia,Enterprise,Lead Generation,28,21,17,11
+2025-07-01,Asia Pacific,Australia,Enterprise,App Installs,31,25,15,9
+2025-07-01,Asia Pacific,Australia,Enterprise,Catalog Sales,28,20,19,11
+2025-07-01,Asia Pacific,Australia,Agency,Conversions,18,13,13,8
+2025-07-01,Asia Pacific,Australia,Agency,Traffic,17,12,6,3
+2025-07-01,Asia Pacific,Australia,Agency,Lead Generation,20,14,12,8
+2025-07-01,Asia Pacific,Australia,Agency,App Installs,18,13,8,5
+2025-07-01,Asia Pacific,Australia,Agency,Catalog Sales,26,17,15,10
+2025-07-01,Asia Pacific,Indonesia,SMB,Conversions,12,5,5,3
+2025-07-01,Asia Pacific,Indonesia,SMB,Traffic,14,6,2,1
+2025-07-01,Asia Pacific,Indonesia,SMB,Lead Generation,12,5,4,2
+2025-07-01,Asia Pacific,Indonesia,SMB,App Installs,17,8,5,3
+2025-07-01,Asia Pacific,Indonesia,SMB,Catalog Sales,17,8,7,4
+2025-07-01,Asia Pacific,Indonesia,Mid-Market,Conversions,24,13,12,7
+2025-07-01,Asia Pacific,Indonesia,Mid-Market,Traffic,23,12,5,3
+2025-07-01,Asia Pacific,Indonesia,Mid-Market,Lead Generation,21,11,9,5
+2025-07-01,Asia Pacific,Indonesia,Mid-Market,App Installs,25,13,8,5
+2025-07-01,Asia Pacific,Indonesia,Mid-Market,Catalog Sales,29,15,13,8
+2025-07-01,Asia Pacific,Indonesia,Enterprise,Conversions,34,23,22,14
+2025-07-01,Asia Pacific,Indonesia,Enterprise,Traffic,42,28,13,8
+2025-07-01,Asia Pacific,Indonesia,Enterprise,Lead Generation,35,24,20,13
+2025-07-01,Asia Pacific,Indonesia,Enterprise,App Installs,49,36,22,13
+2025-07-01,Asia Pacific,Indonesia,Enterprise,Catalog Sales,46,30,25,16
+2025-07-01,Asia Pacific,Indonesia,Agency,Conversions,34,20,19,11
+2025-07-01,Asia Pacific,Indonesia,Agency,Traffic,25,14,7,4
+2025-07-01,Asia Pacific,Indonesia,Agency,Lead Generation,32,20,15,8
+2025-07-01,Asia Pacific,Indonesia,Agency,App Installs,34,21,14,8
+2025-07-01,Asia Pacific,Indonesia,Agency,Catalog Sales,33,20,16,10
+2025-08-01,North America,United States,SMB,Conversions,16,9,8,5
+2025-08-01,North America,United States,SMB,Traffic,15,8,4,2
+2025-08-01,North America,United States,SMB,Lead Generation,24,13,10,6
+2025-08-01,North America,United States,SMB,App Installs,20,12,7,4
+2025-08-01,North America,United States,SMB,Catalog Sales,21,12,11,7
+2025-08-01,North America,United States,Mid-Market,Conversions,35,25,25,16
+2025-08-01,North America,United States,Mid-Market,Traffic,38,27,13,7
+2025-08-01,North America,United States,Mid-Market,Lead Generation,31,22,17,10
+2025-08-01,North America,United States,Mid-Market,App Installs,28,17,10,6
+2025-08-01,North America,United States,Mid-Market,Catalog Sales,26,18,15,9
+2025-08-01,North America,United States,Enterprise,Conversions,50,40,38,24
+2025-08-01,North America,United States,Enterprise,Traffic,60,45,20,12
+2025-08-01,North America,United States,Enterprise,Lead Generation,64,56,46,31
+2025-08-01,North America,United States,Enterprise,App Installs,60,52,34,20
+2025-08-01,North America,United States,Enterprise,Catalog Sales,66,54,49,32
+2025-08-01,North America,United States,Agency,Conversions,44,32,32,21
+2025-08-01,North America,United States,Agency,Traffic,44,32,15,9
+2025-08-01,North America,United States,Agency,Lead Generation,39,29,25,15
+2025-08-01,North America,United States,Agency,App Installs,54,39,25,16
+2025-08-01,North America,United States,Agency,Catalog Sales,54,39,34,20
+2025-08-01,North America,Canada,SMB,Conversions,12,6,6,3
+2025-08-01,North America,Canada,SMB,Traffic,12,6,3,2
+2025-08-01,North America,Canada,SMB,Lead Generation,12,6,5,3
+2025-08-01,North America,Canada,SMB,App Installs,12,6,4,2
+2025-08-01,North America,Canada,SMB,Catalog Sales,12,6,5,3
+2025-08-01,North America,Canada,Mid-Market,Conversions,21,13,12,7
+2025-08-01,North America,Canada,Mid-Market,Traffic,21,14,6,4
+2025-08-01,North America,Canada,Mid-Market,Lead Generation,15,9,7,4
+2025-08-01,North America,Canada,Mid-Market,App Installs,16,11,7,4
+2025-08-01,North America,Canada,Mid-Market,Catalog Sales,19,12,10,6
+2025-08-01,North America,Canada,Enterprise,Conversions,30,23,23,14
+2025-08-01,North America,Canada,Enterprise,Traffic,23,19,9,5
+2025-08-01,North America,Canada,Enterprise,Lead Generation,22,16,13,7
+2025-08-01,North America,Canada,Enterprise,App Installs,30,23,14,8
+2025-08-01,North America,Canada,Enterprise,Catalog Sales,34,28,24,14
+2025-08-01,North America,Canada,Agency,Conversions,22,15,15,9
+2025-08-01,North America,Canada,Agency,Traffic,23,17,8,5
+2025-08-01,North America,Canada,Agency,Lead Generation,28,20,15,9
+2025-08-01,North America,Canada,Agency,App Installs,22,15,9,6
+2025-08-01,North America,Canada,Agency,Catalog Sales,21,15,13,8
+2025-08-01,Europe,United Kingdom,SMB,Conversions,12,6,5,3
+2025-08-01,Europe,United Kingdom,SMB,Traffic,15,8,4,2
+2025-08-01,Europe,United Kingdom,SMB,Lead Generation,12,6,5,3
+2025-08-01,Europe,United Kingdom,SMB,App Installs,13,7,4,2
+2025-08-01,Europe,United Kingdom,SMB,Catalog Sales,14,7,6,4
+2025-08-01,Europe,United Kingdom,Mid-Market,Conversions,26,16,14,9
+2025-08-01,Europe,United Kingdom,Mid-Market,Traffic,21,15,7,4
+2025-08-01,Europe,United Kingdom,Mid-Market,Lead Generation,17,11,10,6
+2025-08-01,Europe,United Kingdom,Mid-Market,App Installs,27,17,10,6
+2025-08-01,Europe,United Kingdom,Mid-Market,Catalog Sales,25,18,16,10
+2025-08-01,Europe,United Kingdom,Enterprise,Conversions,32,24,24,14
+2025-08-01,Europe,United Kingdom,Enterprise,Traffic,31,26,12,7
+2025-08-01,Europe,United Kingdom,Enterprise,Lead Generation,31,23,19,12
+2025-08-01,Europe,United Kingdom,Enterprise,App Installs,41,32,19,11
+2025-08-01,Europe,United Kingdom,Enterprise,Catalog Sales,46,38,35,23
+2025-08-01,Europe,United Kingdom,Agency,Conversions,29,20,19,11
+2025-08-01,Europe,United Kingdom,Agency,Traffic,28,21,9,6
+2025-08-01,Europe,United Kingdom,Agency,Lead Generation,24,18,16,9
+2025-08-01,Europe,United Kingdom,Agency,App Installs,27,18,11,7
+2025-08-01,Europe,United Kingdom,Agency,Catalog Sales,27,20,17,10
+2025-08-01,Europe,Germany,SMB,Conversions,14,7,7,4
+2025-08-01,Europe,Germany,SMB,Traffic,15,8,3,2
+2025-08-01,Europe,Germany,SMB,Lead Generation,12,5,4,2
+2025-08-01,Europe,Germany,SMB,App Installs,12,6,4,2
+2025-08-01,Europe,Germany,SMB,Catalog Sales,13,7,6,3
+2025-08-01,Europe,Germany,Mid-Market,Conversions,16,9,9,5
+2025-08-01,Europe,Germany,Mid-Market,Traffic,21,12,6,3
+2025-08-01,Europe,Germany,Mid-Market,Lead Generation,15,10,8,5
+2025-08-01,Europe,Germany,Mid-Market,App Installs,19,12,8,5
+2025-08-01,Europe,Germany,Mid-Market,Catalog Sales,19,12,10,6
+2025-08-01,Europe,Germany,Enterprise,Conversions,31,23,21,12
+2025-08-01,Europe,Germany,Enterprise,Traffic,40,29,13,8
+2025-08-01,Europe,Germany,Enterprise,Lead Generation,36,26,22,13
+2025-08-01,Europe,Germany,Enterprise,App Installs,26,18,11,7
+2025-08-01,Europe,Germany,Enterprise,Catalog Sales,34,26,23,13
+2025-08-01,Europe,Germany,Agency,Conversions,28,21,21,13
+2025-08-01,Europe,Germany,Agency,Traffic,29,21,10,6
+2025-08-01,Europe,Germany,Agency,Lead Generation,27,20,15,10
+2025-08-01,Europe,Germany,Agency,App Installs,22,14,10,6
+2025-08-01,Europe,Germany,Agency,Catalog Sales,32,22,20,12
+2025-08-01,Europe,France,SMB,Conversions,13,6,5,3
+2025-08-01,Europe,France,SMB,Traffic,12,6,3,1
+2025-08-01,Europe,France,SMB,Lead Generation,13,6,5,3
+2025-08-01,Europe,France,SMB,App Installs,12,5,3,2
+2025-08-01,Europe,France,SMB,Catalog Sales,13,6,5,3
+2025-08-01,Europe,France,Mid-Market,Conversions,19,10,9,5
+2025-08-01,Europe,France,Mid-Market,Traffic,18,11,5,3
+2025-08-01,Europe,France,Mid-Market,Lead Generation,16,10,8,5
+2025-08-01,Europe,France,Mid-Market,App Installs,14,9,5,3
+2025-08-01,Europe,France,Mid-Market,Catalog Sales,17,10,8,5
+2025-08-01,Europe,France,Enterprise,Conversions,23,15,13,8
+2025-08-01,Europe,France,Enterprise,Traffic,33,22,10,6
+2025-08-01,Europe,France,Enterprise,Lead Generation,33,25,19,13
+2025-08-01,Europe,France,Enterprise,App Installs,28,21,14,9
+2025-08-01,Europe,France,Enterprise,Catalog Sales,25,17,15,9
+2025-08-01,Europe,France,Agency,Conversions,27,17,16,10
+2025-08-01,Europe,France,Agency,Traffic,25,18,9,5
+2025-08-01,Europe,France,Agency,Lead Generation,29,18,15,9
+2025-08-01,Europe,France,Agency,App Installs,24,15,10,6
+2025-08-01,Europe,France,Agency,Catalog Sales,21,13,12,7
+2025-08-01,Middle East & Africa,United Arab Emirates,SMB,Conversions,12,6,5,3
+2025-08-01,Middle East & Africa,United Arab Emirates,SMB,Traffic,12,7,3,2
+2025-08-01,Middle East & Africa,United Arab Emirates,SMB,Lead Generation,12,6,5,2
+2025-08-01,Middle East & Africa,United Arab Emirates,SMB,App Installs,12,6,3,2
+2025-08-01,Middle East & Africa,United Arab Emirates,SMB,Catalog Sales,12,6,5,3
+2025-08-01,Middle East & Africa,United Arab Emirates,Mid-Market,Conversions,17,12,11,7
+2025-08-01,Middle East & Africa,United Arab Emirates,Mid-Market,Traffic,13,8,3,2
+2025-08-01,Middle East & Africa,United Arab Emirates,Mid-Market,Lead Generation,13,8,6,3
+2025-08-01,Middle East & Africa,United Arab Emirates,Mid-Market,App Installs,17,12,7,4
+2025-08-01,Middle East & Africa,United Arab Emirates,Mid-Market,Catalog Sales,14,9,8,5
+2025-08-01,Middle East & Africa,United Arab Emirates,Enterprise,Conversions,33,24,24,16
+2025-08-01,Middle East & Africa,United Arab Emirates,Enterprise,Traffic,31,25,12,8
+2025-08-01,Middle East & Africa,United Arab Emirates,Enterprise,Lead Generation,22,17,14,8
+2025-08-01,Middle East & Africa,United Arab Emirates,Enterprise,App Installs,25,19,12,8
+2025-08-01,Middle East & Africa,United Arab Emirates,Enterprise,Catalog Sales,30,23,22,13
+2025-08-01,Middle East & Africa,United Arab Emirates,Agency,Conversions,16,11,10,6
+2025-08-01,Middle East & Africa,United Arab Emirates,Agency,Traffic,21,16,7,4
+2025-08-01,Middle East & Africa,United Arab Emirates,Agency,Lead Generation,24,16,13,8
+2025-08-01,Middle East & Africa,United Arab Emirates,Agency,App Installs,16,10,6,4
+2025-08-01,Middle East & Africa,United Arab Emirates,Agency,Catalog Sales,24,16,13,8
+2025-08-01,Middle East & Africa,Saudi Arabia,SMB,Conversions,13,6,6,3
+2025-08-01,Middle East & Africa,Saudi Arabia,SMB,Traffic,12,6,3,1
+2025-08-01,Middle East & Africa,Saudi Arabia,SMB,Lead Generation,12,6,5,3
+2025-08-01,Middle East & Africa,Saudi Arabia,SMB,App Installs,12,5,3,2
+2025-08-01,Middle East & Africa,Saudi Arabia,SMB,Catalog Sales,12,5,5,3
+2025-08-01,Middle East & Africa,Saudi Arabia,Mid-Market,Conversions,16,9,9,5
+2025-08-01,Middle East & Africa,Saudi Arabia,Mid-Market,Traffic,14,8,3,2
+2025-08-01,Middle East & Africa,Saudi Arabia,Mid-Market,Lead Generation,15,9,7,5
+2025-08-01,Middle East & Africa,Saudi Arabia,Mid-Market,App Installs,20,12,7,4
+2025-08-01,Middle East & Africa,Saudi Arabia,Mid-Market,Catalog Sales,20,11,9,6
+2025-08-01,Middle East & Africa,Saudi Arabia,Enterprise,Conversions,33,24,23,14
+2025-08-01,Middle East & Africa,Saudi Arabia,Enterprise,Traffic,24,18,8,4
+2025-08-01,Middle East & Africa,Saudi Arabia,Enterprise,Lead Generation,25,18,14,9
+2025-08-01,Middle East & Africa,Saudi Arabia,Enterprise,App Installs,23,18,10,7
+2025-08-01,Middle East & Africa,Saudi Arabia,Enterprise,Catalog Sales,37,26,22,13
+2025-08-01,Middle East & Africa,Saudi Arabia,Agency,Conversions,19,12,11,7
+2025-08-01,Middle East & Africa,Saudi Arabia,Agency,Traffic,28,20,9,6
+2025-08-01,Middle East & Africa,Saudi Arabia,Agency,Lead Generation,25,17,14,9
+2025-08-01,Middle East & Africa,Saudi Arabia,Agency,App Installs,29,20,12,7
+2025-08-01,Middle East & Africa,Saudi Arabia,Agency,Catalog Sales,26,18,14,9
+2025-08-01,Middle East & Africa,South Africa,SMB,Conversions,12,5,4,3
+2025-08-01,Middle East & Africa,South Africa,SMB,Traffic,12,6,3,1
+2025-08-01,Middle East & Africa,South Africa,SMB,Lead Generation,12,5,4,3
+2025-08-01,Middle East & Africa,South Africa,SMB,App Installs,12,6,3,2
+2025-08-01,Middle East & Africa,South Africa,SMB,Catalog Sales,12,5,5,3
+2025-08-01,Middle East & Africa,South Africa,Mid-Market,Conversions,12,6,5,3
+2025-08-01,Middle East & Africa,South Africa,Mid-Market,Traffic,16,9,4,2
+2025-08-01,Middle East & Africa,South Africa,Mid-Market,Lead Generation,14,8,6,3
+2025-08-01,Middle East & Africa,South Africa,Mid-Market,App Installs,16,9,6,3
+2025-08-01,Middle East & Africa,South Africa,Mid-Market,Catalog Sales,14,8,7,4
+2025-08-01,Middle East & Africa,South Africa,Enterprise,Conversions,20,13,13,7
+2025-08-01,Middle East & Africa,South Africa,Enterprise,Traffic,21,13,6,4
+2025-08-01,Middle East & Africa,South Africa,Enterprise,Lead Generation,25,16,14,8
+2025-08-01,Middle East & Africa,South Africa,Enterprise,App Installs,24,16,10,6
+2025-08-01,Middle East & Africa,South Africa,Enterprise,Catalog Sales,27,18,17,11
+2025-08-01,Middle East & Africa,South Africa,Agency,Conversions,14,9,8,5
+2025-08-01,Middle East & Africa,South Africa,Agency,Traffic,19,10,5,3
+2025-08-01,Middle East & Africa,South Africa,Agency,Lead Generation,18,10,8,5
+2025-08-01,Middle East & Africa,South Africa,Agency,App Installs,22,13,8,5
+2025-08-01,Middle East & Africa,South Africa,Agency,Catalog Sales,15,9,7,4
+2025-08-01,Asia Pacific,Japan,SMB,Conversions,12,6,6,3
+2025-08-01,Asia Pacific,Japan,SMB,Traffic,13,7,3,2
+2025-08-01,Asia Pacific,Japan,SMB,Lead Generation,15,8,6,4
+2025-08-01,Asia Pacific,Japan,SMB,App Installs,12,5,4,2
+2025-08-01,Asia Pacific,Japan,SMB,Catalog Sales,12,6,5,3
+2025-08-01,Asia Pacific,Japan,Mid-Market,Conversions,20,13,12,7
+2025-08-01,Asia Pacific,Japan,Mid-Market,Traffic,23,15,8,4
+2025-08-01,Asia Pacific,Japan,Mid-Market,Lead Generation,23,14,12,8
+2025-08-01,Asia Pacific,Japan,Mid-Market,App Installs,18,11,7,4
+2025-08-01,Asia Pacific,Japan,Mid-Market,Catalog Sales,15,9,7,5
+2025-08-01,Asia Pacific,Japan,Enterprise,Conversions,43,35,31,18
+2025-08-01,Asia Pacific,Japan,Enterprise,Traffic,29,22,10,6
+2025-08-01,Asia Pacific,Japan,Enterprise,Lead Generation,27,20,17,10
+2025-08-01,Asia Pacific,Japan,Enterprise,App Installs,31,22,15,9
+2025-08-01,Asia Pacific,Japan,Enterprise,Catalog Sales,38,28,24,15
+2025-08-01,Asia Pacific,Japan,Agency,Conversions,25,18,17,11
+2025-08-01,Asia Pacific,Japan,Agency,Traffic,30,20,8,5
+2025-08-01,Asia Pacific,Japan,Agency,Lead Generation,24,16,13,8
+2025-08-01,Asia Pacific,Japan,Agency,App Installs,29,20,12,8
+2025-08-01,Asia Pacific,Japan,Agency,Catalog Sales,31,23,21,12
+2025-08-01,Asia Pacific,South Korea,SMB,Conversions,12,6,5,3
+2025-08-01,Asia Pacific,South Korea,SMB,Traffic,12,6,3,2
+2025-08-01,Asia Pacific,South Korea,SMB,Lead Generation,12,6,5,3
+2025-08-01,Asia Pacific,South Korea,SMB,App Installs,13,6,4,2
+2025-08-01,Asia Pacific,South Korea,SMB,Catalog Sales,12,6,5,3
+2025-08-01,Asia Pacific,South Korea,Mid-Market,Conversions,21,13,14,8
+2025-08-01,Asia Pacific,South Korea,Mid-Market,Traffic,15,10,4,2
+2025-08-01,Asia Pacific,South Korea,Mid-Market,Lead Generation,18,11,8,5
+2025-08-01,Asia Pacific,South Korea,Mid-Market,App Installs,20,13,9,6
+2025-08-01,Asia Pacific,South Korea,Mid-Market,Catalog Sales,18,12,10,6
+2025-08-01,Asia Pacific,South Korea,Enterprise,Conversions,34,25,24,15
+2025-08-01,Asia Pacific,South Korea,Enterprise,Traffic,37,26,12,7
+2025-08-01,Asia Pacific,South Korea,Enterprise,Lead Generation,23,18,15,9
+2025-08-01,Asia Pacific,South Korea,Enterprise,App Installs,39,31,19,11
+2025-08-01,Asia Pacific,South Korea,Enterprise,Catalog Sales,33,26,24,14
+2025-08-01,Asia Pacific,South Korea,Agency,Conversions,19,13,14,9
+2025-08-01,Asia Pacific,South Korea,Agency,Traffic,27,20,9,6
+2025-08-01,Asia Pacific,South Korea,Agency,Lead Generation,28,19,15,9
+2025-08-01,Asia Pacific,South Korea,Agency,App Installs,26,19,12,8
+2025-08-01,Asia Pacific,South Korea,Agency,Catalog Sales,25,19,16,9
+2025-08-01,Asia Pacific,Australia,SMB,Conversions,12,6,6,4
+2025-08-01,Asia Pacific,Australia,SMB,Traffic,12,6,3,1
+2025-08-01,Asia Pacific,Australia,SMB,Lead Generation,12,6,5,3
+2025-08-01,Asia Pacific,Australia,SMB,App Installs,12,6,3,2
+2025-08-01,Asia Pacific,Australia,SMB,Catalog Sales,12,6,5,3
+2025-08-01,Asia Pacific,Australia,Mid-Market,Conversions,19,13,12,7
+2025-08-01,Asia Pacific,Australia,Mid-Market,Traffic,15,10,5,3
+2025-08-01,Asia Pacific,Australia,Mid-Market,Lead Generation,15,9,7,4
+2025-08-01,Asia Pacific,Australia,Mid-Market,App Installs,13,9,5,3
+2025-08-01,Asia Pacific,Australia,Mid-Market,Catalog Sales,13,9,7,4
+2025-08-01,Asia Pacific,Australia,Enterprise,Conversions,22,18,18,12
+2025-08-01,Asia Pacific,Australia,Enterprise,Traffic,27,20,9,5
+2025-08-01,Asia Pacific,Australia,Enterprise,Lead Generation,32,23,19,12
+2025-08-01,Asia Pacific,Australia,Enterprise,App Installs,24,18,11,7
+2025-08-01,Asia Pacific,Australia,Enterprise,Catalog Sales,25,19,18,11
+2025-08-01,Asia Pacific,Australia,Agency,Conversions,21,16,15,9
+2025-08-01,Asia Pacific,Australia,Agency,Traffic,20,14,6,4
+2025-08-01,Asia Pacific,Australia,Agency,Lead Generation,20,14,12,7
+2025-08-01,Asia Pacific,Australia,Agency,App Installs,21,15,10,6
+2025-08-01,Asia Pacific,Australia,Agency,Catalog Sales,18,12,10,6
+2025-08-01,Asia Pacific,Indonesia,SMB,Conversions,16,7,7,4
+2025-08-01,Asia Pacific,Indonesia,SMB,Traffic,13,6,2,1
+2025-08-01,Asia Pacific,Indonesia,SMB,Lead Generation,13,5,4,3
+2025-08-01,Asia Pacific,Indonesia,SMB,App Installs,17,8,4,3
+2025-08-01,Asia Pacific,Indonesia,SMB,Catalog Sales,13,6,5,3
+2025-08-01,Asia Pacific,Indonesia,Mid-Market,Conversions,18,10,9,6
+2025-08-01,Asia Pacific,Indonesia,Mid-Market,Traffic,23,12,5,3
+2025-08-01,Asia Pacific,Indonesia,Mid-Market,Lead Generation,23,13,10,6
+2025-08-01,Asia Pacific,Indonesia,Mid-Market,App Installs,23,12,8,5
+2025-08-01,Asia Pacific,Indonesia,Mid-Market,Catalog Sales,19,10,9,5
+2025-08-01,Asia Pacific,Indonesia,Enterprise,Conversions,41,28,26,17
+2025-08-01,Asia Pacific,Indonesia,Enterprise,Traffic,31,20,9,5
+2025-08-01,Asia Pacific,Indonesia,Enterprise,Lead Generation,42,30,24,15
+2025-08-01,Asia Pacific,Indonesia,Enterprise,App Installs,37,27,16,10
+2025-08-01,Asia Pacific,Indonesia,Enterprise,Catalog Sales,36,23,20,12
+2025-08-01,Asia Pacific,Indonesia,Agency,Conversions,29,19,19,11
+2025-08-01,Asia Pacific,Indonesia,Agency,Traffic,34,21,9,5
+2025-08-01,Asia Pacific,Indonesia,Agency,Lead Generation,32,20,17,10
+2025-08-01,Asia Pacific,Indonesia,Agency,App Installs,31,19,12,7
+2025-08-01,Asia Pacific,Indonesia,Agency,Catalog Sales,37,24,20,12
+2025-09-01,North America,United States,SMB,Conversions,15,8,8,5
+2025-09-01,North America,United States,SMB,Traffic,21,11,5,3
+2025-09-01,North America,United States,SMB,Lead Generation,24,13,11,7
+2025-09-01,North America,United States,SMB,App Installs,15,9,5,3
+2025-09-01,North America,United States,SMB,Catalog Sales,23,12,11,7
+2025-09-01,North America,United States,Mid-Market,Conversions,35,23,21,12
+2025-09-01,North America,United States,Mid-Market,Traffic,34,24,12,7
+2025-09-01,North America,United States,Mid-Market,Lead Generation,34,24,20,12
+2025-09-01,North America,United States,Mid-Market,App Installs,27,18,10,6
+2025-09-01,North America,United States,Mid-Market,Catalog Sales,29,18,15,10
+2025-09-01,North America,United States,Enterprise,Conversions,43,33,33,21
+2025-09-01,North America,United States,Enterprise,Traffic,56,45,23,13
+2025-09-01,North America,United States,Enterprise,Lead Generation,68,58,49,29
+2025-09-01,North America,United States,Enterprise,App Installs,68,53,35,23
+2025-09-01,North America,United States,Enterprise,Catalog Sales,52,40,36,22
+2025-09-01,North America,United States,Agency,Conversions,35,24,23,15
+2025-09-01,North America,United States,Agency,Traffic,45,36,18,11
+2025-09-01,North America,United States,Agency,Lead Generation,38,27,22,14
+2025-09-01,North America,United States,Agency,App Installs,54,39,25,16
+2025-09-01,North America,United States,Agency,Catalog Sales,42,32,28,17
+2025-09-01,North America,Canada,SMB,Conversions,12,6,5,3
+2025-09-01,North America,Canada,SMB,Traffic,12,6,3,1
+2025-09-01,North America,Canada,SMB,Lead Generation,12,6,4,3
+2025-09-01,North America,Canada,SMB,App Installs,12,6,4,2
+2025-09-01,North America,Canada,SMB,Catalog Sales,12,6,5,3
+2025-09-01,North America,Canada,Mid-Market,Conversions,16,10,10,6
+2025-09-01,North America,Canada,Mid-Market,Traffic,18,12,6,3
+2025-09-01,North America,Canada,Mid-Market,Lead Generation,18,11,10,6
+2025-09-01,North America,Canada,Mid-Market,App Installs,16,10,7,4
+2025-09-01,North America,Canada,Mid-Market,Catalog Sales,14,9,8,5
+2025-09-01,North America,Canada,Enterprise,Conversions,36,29,27,17
+2025-09-01,North America,Canada,Enterprise,Traffic,36,30,14,8
+2025-09-01,North America,Canada,Enterprise,Lead Generation,34,28,23,14
+2025-09-01,North America,Canada,Enterprise,App Installs,28,21,13,8
+2025-09-01,North America,Canada,Enterprise,Catalog Sales,29,21,17,10
+2025-09-01,North America,Canada,Agency,Conversions,26,20,19,11
+2025-09-01,North America,Canada,Agency,Traffic,23,15,7,4
+2025-09-01,North America,Canada,Agency,Lead Generation,26,18,15,8
+2025-09-01,North America,Canada,Agency,App Installs,29,20,11,7
+2025-09-01,North America,Canada,Agency,Catalog Sales,24,18,15,9
+2025-09-01,Europe,United Kingdom,SMB,Conversions,14,7,7,4
+2025-09-01,Europe,United Kingdom,SMB,Traffic,14,7,3,2
+2025-09-01,Europe,United Kingdom,SMB,Lead Generation,13,7,6,3
+2025-09-01,Europe,United Kingdom,SMB,App Installs,12,6,4,2
+2025-09-01,Europe,United Kingdom,SMB,Catalog Sales,14,8,7,4
+2025-09-01,Europe,United Kingdom,Mid-Market,Conversions,24,16,16,9
+2025-09-01,Europe,United Kingdom,Mid-Market,Traffic,25,17,8,5
+2025-09-01,Europe,United Kingdom,Mid-Market,Lead Generation,26,18,15,10
+2025-09-01,Europe,United Kingdom,Mid-Market,App Installs,16,9,6,3
+2025-09-01,Europe,United Kingdom,Mid-Market,Catalog Sales,24,17,14,9
+2025-09-01,Europe,United Kingdom,Enterprise,Conversions,44,35,34,22
+2025-09-01,Europe,United Kingdom,Enterprise,Traffic,38,32,14,8
+2025-09-01,Europe,United Kingdom,Enterprise,Lead Generation,31,23,20,13
+2025-09-01,Europe,United Kingdom,Enterprise,App Installs,40,32,21,13
+2025-09-01,Europe,United Kingdom,Enterprise,Catalog Sales,30,24,20,13
+2025-09-01,Europe,United Kingdom,Agency,Conversions,28,19,19,11
+2025-09-01,Europe,United Kingdom,Agency,Traffic,29,22,10,6
+2025-09-01,Europe,United Kingdom,Agency,Lead Generation,34,23,19,12
+2025-09-01,Europe,United Kingdom,Agency,App Installs,23,17,11,6
+2025-09-01,Europe,United Kingdom,Agency,Catalog Sales,23,15,14,8
+2025-09-01,Europe,Germany,SMB,Conversions,13,6,6,4
+2025-09-01,Europe,Germany,SMB,Traffic,12,6,3,1
+2025-09-01,Europe,Germany,SMB,Lead Generation,14,7,5,3
+2025-09-01,Europe,Germany,SMB,App Installs,13,6,4,2
+2025-09-01,Europe,Germany,SMB,Catalog Sales,12,5,4,3
+2025-09-01,Europe,Germany,Mid-Market,Conversions,18,11,11,7
+2025-09-01,Europe,Germany,Mid-Market,Traffic,24,16,8,5
+2025-09-01,Europe,Germany,Mid-Market,Lead Generation,21,14,10,6
+2025-09-01,Europe,Germany,Mid-Market,App Installs,19,13,7,4
+2025-09-01,Europe,Germany,Mid-Market,Catalog Sales,23,13,12,8
+2025-09-01,Europe,Germany,Enterprise,Conversions,38,28,25,16
+2025-09-01,Europe,Germany,Enterprise,Traffic,39,30,15,9
+2025-09-01,Europe,Germany,Enterprise,Lead Generation,32,23,20,12
+2025-09-01,Europe,Germany,Enterprise,App Installs,35,26,16,10
+2025-09-01,Europe,Germany,Enterprise,Catalog Sales,27,19,16,10
+2025-09-01,Europe,Germany,Agency,Conversions,25,16,15,10
+2025-09-01,Europe,Germany,Agency,Traffic,23,16,8,5
+2025-09-01,Europe,Germany,Agency,Lead Generation,24,17,14,8
+2025-09-01,Europe,Germany,Agency,App Installs,31,23,14,8
+2025-09-01,Europe,Germany,Agency,Catalog Sales,23,15,13,8
+2025-09-01,Europe,France,SMB,Conversions,13,6,6,3
+2025-09-01,Europe,France,SMB,Traffic,13,6,3,2
+2025-09-01,Europe,France,SMB,Lead Generation,12,6,4,3
+2025-09-01,Europe,France,SMB,App Installs,12,6,4,2
+2025-09-01,Europe,France,SMB,Catalog Sales,13,6,6,4
+2025-09-01,Europe,France,Mid-Market,Conversions,16,10,10,6
+2025-09-01,Europe,France,Mid-Market,Traffic,20,12,5,3
+2025-09-01,Europe,France,Mid-Market,Lead Generation,19,12,10,6
+2025-09-01,Europe,France,Mid-Market,App Installs,18,10,6,3
+2025-09-01,Europe,France,Mid-Market,Catalog Sales,18,11,9,6
+2025-09-01,Europe,France,Enterprise,Conversions,34,24,22,13
+2025-09-01,Europe,France,Enterprise,Traffic,25,17,7,5
+2025-09-01,Europe,France,Enterprise,Lead Generation,33,24,21,12
+2025-09-01,Europe,France,Enterprise,App Installs,24,16,10,6
+2025-09-01,Europe,France,Enterprise,Catalog Sales,37,25,21,13
+2025-09-01,Europe,France,Agency,Conversions,19,13,12,7
+2025-09-01,Europe,France,Agency,Traffic,29,20,9,5
+2025-09-01,Europe,France,Agency,Lead Generation,19,12,9,5
+2025-09-01,Europe,France,Agency,App Installs,27,18,12,7
+2025-09-01,Europe,France,Agency,Catalog Sales,29,20,17,11
+2025-09-01,Middle East & Africa,United Arab Emirates,SMB,Conversions,12,7,6,4
+2025-09-01,Middle East & Africa,United Arab Emirates,SMB,Traffic,12,6,3,1
+2025-09-01,Middle East & Africa,United Arab Emirates,SMB,Lead Generation,12,6,5,3
+2025-09-01,Middle East & Africa,United Arab Emirates,SMB,App Installs,12,6,4,2
+2025-09-01,Middle East & Africa,United Arab Emirates,SMB,Catalog Sales,12,6,5,3
+2025-09-01,Middle East & Africa,United Arab Emirates,Mid-Market,Conversions,15,9,8,5
+2025-09-01,Middle East & Africa,United Arab Emirates,Mid-Market,Traffic,13,8,3,2
+2025-09-01,Middle East & Africa,United Arab Emirates,Mid-Market,Lead Generation,13,8,7,4
+2025-09-01,Middle East & Africa,United Arab Emirates,Mid-Market,App Installs,15,9,6,3
+2025-09-01,Middle East & Africa,United Arab Emirates,Mid-Market,Catalog Sales,18,12,11,7
+2025-09-01,Middle East & Africa,United Arab Emirates,Enterprise,Conversions,23,16,16,11
+2025-09-01,Middle East & Africa,United Arab Emirates,Enterprise,Traffic,25,19,9,5
+2025-09-01,Middle East & Africa,United Arab Emirates,Enterprise,Lead Generation,26,21,18,11
+2025-09-01,Middle East & Africa,United Arab Emirates,Enterprise,App Installs,26,19,12,7
+2025-09-01,Middle East & Africa,United Arab Emirates,Enterprise,Catalog Sales,23,18,15,10
+2025-09-01,Middle East & Africa,United Arab Emirates,Agency,Conversions,21,14,13,8
+2025-09-01,Middle East & Africa,United Arab Emirates,Agency,Traffic,18,13,6,4
+2025-09-01,Middle East & Africa,United Arab Emirates,Agency,Lead Generation,20,14,12,7
+2025-09-01,Middle East & Africa,United Arab Emirates,Agency,App Installs,25,19,11,7
+2025-09-01,Middle East & Africa,United Arab Emirates,Agency,Catalog Sales,21,16,13,7
+2025-09-01,Middle East & Africa,Saudi Arabia,SMB,Conversions,12,5,5,3
+2025-09-01,Middle East & Africa,Saudi Arabia,SMB,Traffic,12,6,3,1
+2025-09-01,Middle East & Africa,Saudi Arabia,SMB,Lead Generation,12,6,5,3
+2025-09-01,Middle East & Africa,Saudi Arabia,SMB,App Installs,12,6,4,2
+2025-09-01,Middle East & Africa,Saudi Arabia,SMB,Catalog Sales,13,7,6,3
+2025-09-01,Middle East & Africa,Saudi Arabia,Mid-Market,Conversions,14,8,8,5
+2025-09-01,Middle East & Africa,Saudi Arabia,Mid-Market,Traffic,21,12,5,3
+2025-09-01,Middle East & Africa,Saudi Arabia,Mid-Market,Lead Generation,19,11,10,6
+2025-09-01,Middle East & Africa,Saudi Arabia,Mid-Market,App Installs,18,11,7,4
+2025-09-01,Middle East & Africa,Saudi Arabia,Mid-Market,Catalog Sales,17,10,8,5
+2025-09-01,Middle East & Africa,Saudi Arabia,Enterprise,Conversions,27,18,17,11
+2025-09-01,Middle East & Africa,Saudi Arabia,Enterprise,Traffic,23,17,7,4
+2025-09-01,Middle East & Africa,Saudi Arabia,Enterprise,Lead Generation,23,17,14,9
+2025-09-01,Middle East & Africa,Saudi Arabia,Enterprise,App Installs,33,22,15,9
+2025-09-01,Middle East & Africa,Saudi Arabia,Enterprise,Catalog Sales,30,23,21,14
+2025-09-01,Middle East & Africa,Saudi Arabia,Agency,Conversions,19,13,12,8
+2025-09-01,Middle East & Africa,Saudi Arabia,Agency,Traffic,17,11,5,3
+2025-09-01,Middle East & Africa,Saudi Arabia,Agency,Lead Generation,18,12,10,6
+2025-09-01,Middle East & Africa,Saudi Arabia,Agency,App Installs,27,19,11,7
+2025-09-01,Middle East & Africa,Saudi Arabia,Agency,Catalog Sales,19,13,11,6
+2025-09-01,Middle East & Africa,South Africa,SMB,Conversions,12,5,5,3
+2025-09-01,Middle East & Africa,South Africa,SMB,Traffic,12,5,2,1
+2025-09-01,Middle East & Africa,South Africa,SMB,Lead Generation,12,5,4,2
+2025-09-01,Middle East & Africa,South Africa,SMB,App Installs,12,5,3,2
+2025-09-01,Middle East & Africa,South Africa,SMB,Catalog Sales,12,5,5,3
+2025-09-01,Middle East & Africa,South Africa,Mid-Market,Conversions,13,7,6,3
+2025-09-01,Middle East & Africa,South Africa,Mid-Market,Traffic,16,8,3,2
+2025-09-01,Middle East & Africa,South Africa,Mid-Market,Lead Generation,15,8,6,4
+2025-09-01,Middle East & Africa,South Africa,Mid-Market,App Installs,12,6,4,2
+2025-09-01,Middle East & Africa,South Africa,Mid-Market,Catalog Sales,12,6,6,4
+2025-09-01,Middle East & Africa,South Africa,Enterprise,Conversions,20,13,12,7
+2025-09-01,Middle East & Africa,South Africa,Enterprise,Traffic,28,19,9,5
+2025-09-01,Middle East & Africa,South Africa,Enterprise,Lead Generation,18,12,11,6
+2025-09-01,Middle East & Africa,South Africa,Enterprise,App Installs,27,18,11,7
+2025-09-01,Middle East & Africa,South Africa,Enterprise,Catalog Sales,25,16,15,9
+2025-09-01,Middle East & Africa,South Africa,Agency,Conversions,19,11,11,6
+2025-09-01,Middle East & Africa,South Africa,Agency,Traffic,15,9,4,2
+2025-09-01,Middle East & Africa,South Africa,Agency,Lead Generation,21,12,10,6
+2025-09-01,Middle East & Africa,South Africa,Agency,App Installs,19,12,8,5
+2025-09-01,Middle East & Africa,South Africa,Agency,Catalog Sales,15,9,8,5
+2025-09-01,Asia Pacific,Japan,SMB,Conversions,12,6,6,3
+2025-09-01,Asia Pacific,Japan,SMB,Traffic,12,6,2,1
+2025-09-01,Asia Pacific,Japan,SMB,Lead Generation,12,6,5,3
+2025-09-01,Asia Pacific,Japan,SMB,App Installs,12,6,3,2
+2025-09-01,Asia Pacific,Japan,SMB,Catalog Sales,15,7,6,3
+2025-09-01,Asia Pacific,Japan,Mid-Market,Conversions,23,15,13,8
+2025-09-01,Asia Pacific,Japan,Mid-Market,Traffic,19,12,5,3
+2025-09-01,Asia Pacific,Japan,Mid-Market,Lead Generation,20,13,10,6
+2025-09-01,Asia Pacific,Japan,Mid-Market,App Installs,16,10,6,4
+2025-09-01,Asia Pacific,Japan,Mid-Market,Catalog Sales,16,10,9,6
+2025-09-01,Asia Pacific,Japan,Enterprise,Conversions,36,28,25,16
+2025-09-01,Asia Pacific,Japan,Enterprise,Traffic,37,26,12,7
+2025-09-01,Asia Pacific,Japan,Enterprise,Lead Generation,33,26,22,13
+2025-09-01,Asia Pacific,Japan,Enterprise,App Installs,40,33,21,13
+2025-09-01,Asia Pacific,Japan,Enterprise,Catalog Sales,41,33,28,18
+2025-09-01,Asia Pacific,Japan,Agency,Conversions,21,15,14,8
+2025-09-01,Asia Pacific,Japan,Agency,Traffic,27,18,8,4
+2025-09-01,Asia Pacific,Japan,Agency,Lead Generation,20,14,11,6
+2025-09-01,Asia Pacific,Japan,Agency,App Installs,20,14,9,5
+2025-09-01,Asia Pacific,Japan,Agency,Catalog Sales,25,17,15,10
+2025-09-01,Asia Pacific,South Korea,SMB,Conversions,13,7,7,5
+2025-09-01,Asia Pacific,South Korea,SMB,Traffic,12,6,3,1
+2025-09-01,Asia Pacific,South Korea,SMB,Lead Generation,12,5,4,2
+2025-09-01,Asia Pacific,South Korea,SMB,App Installs,12,6,4,2
+2025-09-01,Asia Pacific,South Korea,SMB,Catalog Sales,13,6,6,4
+2025-09-01,Asia Pacific,South Korea,Mid-Market,Conversions,19,12,11,7
+2025-09-01,Asia Pacific,South Korea,Mid-Market,Traffic,17,10,4,3
+2025-09-01,Asia Pacific,South Korea,Mid-Market,Lead Generation,21,13,11,7
+2025-09-01,Asia Pacific,South Korea,Mid-Market,App Installs,22,13,9,6
+2025-09-01,Asia Pacific,South Korea,Mid-Market,Catalog Sales,14,8,7,4
+2025-09-01,Asia Pacific,South Korea,Enterprise,Conversions,34,26,24,14
+2025-09-01,Asia Pacific,South Korea,Enterprise,Traffic,39,30,14,9
+2025-09-01,Asia Pacific,South Korea,Enterprise,Lead Generation,33,24,20,13
+2025-09-01,Asia Pacific,South Korea,Enterprise,App Installs,35,29,19,11
+2025-09-01,Asia Pacific,South Korea,Enterprise,Catalog Sales,25,18,17,11
+2025-09-01,Asia Pacific,South Korea,Agency,Conversions,25,17,15,9
+2025-09-01,Asia Pacific,South Korea,Agency,Traffic,25,17,7,5
+2025-09-01,Asia Pacific,South Korea,Agency,Lead Generation,25,18,16,10
+2025-09-01,Asia Pacific,South Korea,Agency,App Installs,23,17,11,7
+2025-09-01,Asia Pacific,South Korea,Agency,Catalog Sales,28,18,15,9
+2025-09-01,Asia Pacific,Australia,SMB,Conversions,12,7,6,3
+2025-09-01,Asia Pacific,Australia,SMB,Traffic,12,6,2,1
+2025-09-01,Asia Pacific,Australia,SMB,Lead Generation,12,6,5,3
+2025-09-01,Asia Pacific,Australia,SMB,App Installs,12,6,4,2
+2025-09-01,Asia Pacific,Australia,SMB,Catalog Sales,12,6,6,3
+2025-09-01,Asia Pacific,Australia,Mid-Market,Conversions,14,8,8,5
+2025-09-01,Asia Pacific,Australia,Mid-Market,Traffic,20,14,7,4
+2025-09-01,Asia Pacific,Australia,Mid-Market,Lead Generation,17,11,8,5
+2025-09-01,Asia Pacific,Australia,Mid-Market,App Installs,15,9,6,3
+2025-09-01,Asia Pacific,Australia,Mid-Market,Catalog Sales,14,9,8,5
+2025-09-01,Asia Pacific,Australia,Enterprise,Conversions,28,22,21,12
+2025-09-01,Asia Pacific,Australia,Enterprise,Traffic,23,19,8,5
+2025-09-01,Asia Pacific,Australia,Enterprise,Lead Generation,31,24,21,13
+2025-09-01,Asia Pacific,Australia,Enterprise,App Installs,23,18,12,8
+2025-09-01,Asia Pacific,Australia,Enterprise,Catalog Sales,32,26,23,14
+2025-09-01,Asia Pacific,Australia,Agency,Conversions,19,12,12,8
+2025-09-01,Asia Pacific,Australia,Agency,Traffic,17,12,6,3
+2025-09-01,Asia Pacific,Australia,Agency,Lead Generation,25,19,15,9
+2025-09-01,Asia Pacific,Australia,Agency,App Installs,25,19,12,7
+2025-09-01,Asia Pacific,Australia,Agency,Catalog Sales,17,11,10,6
+2025-09-01,Asia Pacific,Indonesia,SMB,Conversions,14,6,6,4
+2025-09-01,Asia Pacific,Indonesia,SMB,Traffic,17,8,4,2
+2025-09-01,Asia Pacific,Indonesia,SMB,Lead Generation,12,5,4,2
+2025-09-01,Asia Pacific,Indonesia,SMB,App Installs,15,6,4,2
+2025-09-01,Asia Pacific,Indonesia,SMB,Catalog Sales,14,6,5,3
+2025-09-01,Asia Pacific,Indonesia,Mid-Market,Conversions,19,10,9,6
+2025-09-01,Asia Pacific,Indonesia,Mid-Market,Traffic,20,10,4,2
+2025-09-01,Asia Pacific,Indonesia,Mid-Market,Lead Generation,21,11,9,5
+2025-09-01,Asia Pacific,Indonesia,Mid-Market,App Installs,28,15,9,6
+2025-09-01,Asia Pacific,Indonesia,Mid-Market,Catalog Sales,25,13,11,7
+2025-09-01,Asia Pacific,Indonesia,Enterprise,Conversions,33,24,22,13
+2025-09-01,Asia Pacific,Indonesia,Enterprise,Traffic,33,24,11,7
+2025-09-01,Asia Pacific,Indonesia,Enterprise,Lead Generation,38,26,23,14
+2025-09-01,Asia Pacific,Indonesia,Enterprise,App Installs,33,22,14,8
+2025-09-01,Asia Pacific,Indonesia,Enterprise,Catalog Sales,36,24,21,13
+2025-09-01,Asia Pacific,Indonesia,Agency,Conversions,39,25,22,15
+2025-09-01,Asia Pacific,Indonesia,Agency,Traffic,31,19,9,5
+2025-09-01,Asia Pacific,Indonesia,Agency,Lead Generation,30,18,14,9
+2025-09-01,Asia Pacific,Indonesia,Agency,App Installs,35,22,14,9
+2025-09-01,Asia Pacific,Indonesia,Agency,Catalog Sales,35,21,18,10
+2025-10-01,North America,United States,SMB,Conversions,24,12,12,8
+2025-10-01,North America,United States,SMB,Traffic,20,10,5,3
+2025-10-01,North America,United States,SMB,Lead Generation,22,11,9,6
+2025-10-01,North America,United States,SMB,App Installs,15,9,5,3
+2025-10-01,North America,United States,SMB,Catalog Sales,19,10,9,5
+2025-10-01,North America,United States,Mid-Market,Conversions,25,18,16,9
+2025-10-01,North America,United States,Mid-Market,Traffic,25,16,7,4
+2025-10-01,North America,United States,Mid-Market,Lead Generation,26,16,12,8
+2025-10-01,North America,United States,Mid-Market,App Installs,27,17,10,6
+2025-10-01,North America,United States,Mid-Market,Catalog Sales,25,18,16,10
+2025-10-01,North America,United States,Enterprise,Conversions,63,52,47,29
+2025-10-01,North America,United States,Enterprise,Traffic,64,48,23,15
+2025-10-01,North America,United States,Enterprise,Lead Generation,54,43,35,23
+2025-10-01,North America,United States,Enterprise,App Installs,58,46,30,17
+2025-10-01,North America,United States,Enterprise,Catalog Sales,54,41,38,25
+2025-10-01,North America,United States,Agency,Conversions,51,36,34,21
+2025-10-01,North America,United States,Agency,Traffic,36,27,13,8
+2025-10-01,North America,United States,Agency,Lead Generation,41,29,24,16
+2025-10-01,North America,United States,Agency,App Installs,50,39,26,17
+2025-10-01,North America,United States,Agency,Catalog Sales,47,35,32,19
+2025-10-01,North America,Canada,SMB,Conversions,12,6,6,3
+2025-10-01,North America,Canada,SMB,Traffic,13,6,3,2
+2025-10-01,North America,Canada,SMB,Lead Generation,12,6,6,3
+2025-10-01,North America,Canada,SMB,App Installs,12,6,3,2
+2025-10-01,North America,Canada,SMB,Catalog Sales,12,7,5,3
+2025-10-01,North America,Canada,Mid-Market,Conversions,16,10,10,6
+2025-10-01,North America,Canada,Mid-Market,Traffic,13,8,4,2
+2025-10-01,North America,Canada,Mid-Market,Lead Generation,15,9,8,5
+2025-10-01,North America,Canada,Mid-Market,App Installs,20,14,9,5
+2025-10-01,North America,Canada,Mid-Market,Catalog Sales,16,10,9,6
+2025-10-01,North America,Canada,Enterprise,Conversions,26,20,20,12
+2025-10-01,North America,Canada,Enterprise,Traffic,22,17,8,5
+2025-10-01,North America,Canada,Enterprise,Lead Generation,33,26,22,13
+2025-10-01,North America,Canada,Enterprise,App Installs,31,24,16,10
+2025-10-01,North America,Canada,Enterprise,Catalog Sales,33,26,22,14
+2025-10-01,North America,Canada,Agency,Conversions,20,14,14,9
+2025-10-01,North America,Canada,Agency,Traffic,28,21,9,5
+2025-10-01,North America,Canada,Agency,Lead Generation,22,16,12,7
+2025-10-01,North America,Canada,Agency,App Installs,28,20,12,7
+2025-10-01,North America,Canada,Agency,Catalog Sales,26,18,16,10
+2025-10-01,Europe,United Kingdom,SMB,Conversions,13,7,7,4
+2025-10-01,Europe,United Kingdom,SMB,Traffic,13,7,3,2
+2025-10-01,Europe,United Kingdom,SMB,Lead Generation,14,7,6,4
+2025-10-01,Europe,United Kingdom,SMB,App Installs,12,6,4,2
+2025-10-01,Europe,United Kingdom,SMB,Catalog Sales,12,6,5,3
+2025-10-01,Europe,United Kingdom,Mid-Market,Conversions,22,14,13,8
+2025-10-01,Europe,United Kingdom,Mid-Market,Traffic,20,12,6,4
+2025-10-01,Europe,United Kingdom,Mid-Market,Lead Generation,22,14,12,7
+2025-10-01,Europe,United Kingdom,Mid-Market,App Installs,22,14,10,6
+2025-10-01,Europe,United Kingdom,Mid-Market,Catalog Sales,24,17,14,9
+2025-10-01,Europe,United Kingdom,Enterprise,Conversions,41,32,33,20
+2025-10-01,Europe,United Kingdom,Enterprise,Traffic,38,28,13,8
+2025-10-01,Europe,United Kingdom,Enterprise,Lead Generation,46,36,31,18
+2025-10-01,Europe,United Kingdom,Enterprise,App Installs,41,34,21,13
+2025-10-01,Europe,United Kingdom,Enterprise,Catalog Sales,36,27,23,14
+2025-10-01,Europe,United Kingdom,Agency,Conversions,25,18,16,9
+2025-10-01,Europe,United Kingdom,Agency,Traffic,28,22,10,6
+2025-10-01,Europe,United Kingdom,Agency,Lead Generation,37,27,22,14
+2025-10-01,Europe,United Kingdom,Agency,App Installs,36,27,18,11
+2025-10-01,Europe,United Kingdom,Agency,Catalog Sales,30,22,21,13
+2025-10-01,Europe,Germany,SMB,Conversions,12,6,5,3
+2025-10-01,Europe,Germany,SMB,Traffic,13,7,3,1
+2025-10-01,Europe,Germany,SMB,Lead Generation,12,6,5,3
+2025-10-01,Europe,Germany,SMB,App Installs,14,7,4,2
+2025-10-01,Europe,Germany,SMB,Catalog Sales,12,6,5,3
+2025-10-01,Europe,Germany,Mid-Market,Conversions,22,13,12,8
+2025-10-01,Europe,Germany,Mid-Market,Traffic,15,10,4,3
+2025-10-01,Europe,Germany,Mid-Market,Lead Generation,15,9,8,4
+2025-10-01,Europe,Germany,Mid-Market,App Installs,17,10,7,4
+2025-10-01,Europe,Germany,Mid-Market,Catalog Sales,23,13,11,6
+2025-10-01,Europe,Germany,Enterprise,Conversions,26,20,19,12
+2025-10-01,Europe,Germany,Enterprise,Traffic,30,23,11,7
+2025-10-01,Europe,Germany,Enterprise,Lead Generation,33,25,22,14
+2025-10-01,Europe,Germany,Enterprise,App Installs,31,22,15,9
+2025-10-01,Europe,Germany,Enterprise,Catalog Sales,35,26,23,15
+2025-10-01,Europe,Germany,Agency,Conversions,26,19,17,11
+2025-10-01,Europe,Germany,Agency,Traffic,26,19,9,6
+2025-10-01,Europe,Germany,Agency,Lead Generation,27,20,16,9
+2025-10-01,Europe,Germany,Agency,App Installs,24,16,11,6
+2025-10-01,Europe,Germany,Agency,Catalog Sales,32,22,19,12
+2025-10-01,Europe,France,SMB,Conversions,12,6,6,3
+2025-10-01,Europe,France,SMB,Traffic,12,6,3,1
+2025-10-01,Europe,France,SMB,Lead Generation,12,6,5,3
+2025-10-01,Europe,France,SMB,App Installs,12,6,4,2
+2025-10-01,Europe,France,SMB,Catalog Sales,12,6,5,3
+2025-10-01,Europe,France,Mid-Market,Conversions,16,10,10,6
+2025-10-01,Europe,France,Mid-Market,Traffic,17,10,5,3
+2025-10-01,Europe,France,Mid-Market,Lead Generation,22,13,10,6
+2025-10-01,Europe,France,Mid-Market,App Installs,17,9,6,4
+2025-10-01,Europe,France,Mid-Market,Catalog Sales,14,8,7,4
+2025-10-01,Europe,France,Enterprise,Conversions,29,19,17,10
+2025-10-01,Europe,France,Enterprise,Traffic,36,27,13,8
+2025-10-01,Europe,France,Enterprise,Lead Generation,26,17,14,9
+2025-10-01,Europe,France,Enterprise,App Installs,27,19,13,7
+2025-10-01,Europe,France,Enterprise,Catalog Sales,32,21,18,10
+2025-10-01,Europe,France,Agency,Conversions,24,15,14,8
+2025-10-01,Europe,France,Agency,Traffic,27,17,9,5
+2025-10-01,Europe,France,Agency,Lead Generation,18,12,10,6
+2025-10-01,Europe,France,Agency,App Installs,22,15,9,6
+2025-10-01,Europe,France,Agency,Catalog Sales,21,13,13,7
+2025-10-01,Middle East & Africa,United Arab Emirates,SMB,Conversions,12,6,6,3
+2025-10-01,Middle East & Africa,United Arab Emirates,SMB,Traffic,12,6,3,2
+2025-10-01,Middle East & Africa,United Arab Emirates,SMB,Lead Generation,12,6,5,3
+2025-10-01,Middle East & Africa,United Arab Emirates,SMB,App Installs,12,6,4,2
+2025-10-01,Middle East & Africa,United Arab Emirates,SMB,Catalog Sales,12,6,6,3
+2025-10-01,Middle East & Africa,United Arab Emirates,Mid-Market,Conversions,16,10,9,5
+2025-10-01,Middle East & Africa,United Arab Emirates,Mid-Market,Traffic,15,10,5,3
+2025-10-01,Middle East & Africa,United Arab Emirates,Mid-Market,Lead Generation,19,12,10,6
+2025-10-01,Middle East & Africa,United Arab Emirates,Mid-Market,App Installs,18,12,7,4
+2025-10-01,Middle East & Africa,United Arab Emirates,Mid-Market,Catalog Sales,18,12,10,6
+2025-10-01,Middle East & Africa,United Arab Emirates,Enterprise,Conversions,31,23,22,13
+2025-10-01,Middle East & Africa,United Arab Emirates,Enterprise,Traffic,31,25,12,7
+2025-10-01,Middle East & Africa,United Arab Emirates,Enterprise,Lead Generation,27,21,17,10
+2025-10-01,Middle East & Africa,United Arab Emirates,Enterprise,App Installs,28,22,14,8
+2025-10-01,Middle East & Africa,United Arab Emirates,Enterprise,Catalog Sales,23,18,15,10
+2025-10-01,Middle East & Africa,United Arab Emirates,Agency,Conversions,19,14,14,9
+2025-10-01,Middle East & Africa,United Arab Emirates,Agency,Traffic,16,12,5,3
+2025-10-01,Middle East & Africa,United Arab Emirates,Agency,Lead Generation,23,16,12,8
+2025-10-01,Middle East & Africa,United Arab Emirates,Agency,App Installs,15,10,7,4
+2025-10-01,Middle East & Africa,United Arab Emirates,Agency,Catalog Sales,24,17,15,10
+2025-10-01,Middle East & Africa,Saudi Arabia,SMB,Conversions,12,6,6,3
+2025-10-01,Middle East & Africa,Saudi Arabia,SMB,Traffic,12,6,2,1
+2025-10-01,Middle East & Africa,Saudi Arabia,SMB,Lead Generation,12,5,4,2
+2025-10-01,Middle East & Africa,Saudi Arabia,SMB,App Installs,12,5,3,2
+2025-10-01,Middle East & Africa,Saudi Arabia,SMB,Catalog Sales,12,5,5,3
+2025-10-01,Middle East & Africa,Saudi Arabia,Mid-Market,Conversions,13,7,7,4
+2025-10-01,Middle East & Africa,Saudi Arabia,Mid-Market,Traffic,13,7,3,2
+2025-10-01,Middle East & Africa,Saudi Arabia,Mid-Market,Lead Generation,21,13,11,7
+2025-10-01,Middle East & Africa,Saudi Arabia,Mid-Market,App Installs,20,11,7,4
+2025-10-01,Middle East & Africa,Saudi Arabia,Mid-Market,Catalog Sales,13,7,6,4
+2025-10-01,Middle East & Africa,Saudi Arabia,Enterprise,Conversions,23,16,16,10
+2025-10-01,Middle East & Africa,Saudi Arabia,Enterprise,Traffic,37,25,11,7
+2025-10-01,Middle East & Africa,Saudi Arabia,Enterprise,Lead Generation,34,26,23,14
+2025-10-01,Middle East & Africa,Saudi Arabia,Enterprise,App Installs,24,18,10,6
+2025-10-01,Middle East & Africa,Saudi Arabia,Enterprise,Catalog Sales,31,23,20,12
+2025-10-01,Middle East & Africa,Saudi Arabia,Agency,Conversions,28,18,16,10
+2025-10-01,Middle East & Africa,Saudi Arabia,Agency,Traffic,26,16,7,5
+2025-10-01,Middle East & Africa,Saudi Arabia,Agency,Lead Generation,28,18,15,9
+2025-10-01,Middle East & Africa,Saudi Arabia,Agency,App Installs,18,12,7,4
+2025-10-01,Middle East & Africa,Saudi Arabia,Agency,Catalog Sales,20,14,11,7
+2025-10-01,Middle East & Africa,South Africa,SMB,Conversions,12,5,5,3
+2025-10-01,Middle East & Africa,South Africa,SMB,Traffic,12,5,2,1
+2025-10-01,Middle East & Africa,South Africa,SMB,Lead Generation,12,5,5,3
+2025-10-01,Middle East & Africa,South Africa,SMB,App Installs,12,5,3,2
+2025-10-01,Middle East & Africa,South Africa,SMB,Catalog Sales,12,6,5,3
+2025-10-01,Middle East & Africa,South Africa,Mid-Market,Conversions,12,6,6,4
+2025-10-01,Middle East & Africa,South Africa,Mid-Market,Traffic,12,6,3,2
+2025-10-01,Middle East & Africa,South Africa,Mid-Market,Lead Generation,15,7,6,4
+2025-10-01,Middle East & Africa,South Africa,Mid-Market,App Installs,12,6,3,2
+2025-10-01,Middle East & Africa,South Africa,Mid-Market,Catalog Sales,14,7,6,3
+2025-10-01,Middle East & Africa,South Africa,Enterprise,Conversions,21,15,14,9
+2025-10-01,Middle East & Africa,South Africa,Enterprise,Traffic,22,15,7,4
+2025-10-01,Middle East & Africa,South Africa,Enterprise,Lead Generation,25,16,14,8
+2025-10-01,Middle East & Africa,South Africa,Enterprise,App Installs,26,17,11,6
+2025-10-01,Middle East & Africa,South Africa,Enterprise,Catalog Sales,26,18,15,10
+2025-10-01,Middle East & Africa,South Africa,Agency,Conversions,18,11,9,5
+2025-10-01,Middle East & Africa,South Africa,Agency,Traffic,23,14,6,4
+2025-10-01,Middle East & Africa,South Africa,Agency,Lead Generation,19,12,10,6
+2025-10-01,Middle East & Africa,South Africa,Agency,App Installs,15,8,5,3
+2025-10-01,Middle East & Africa,South Africa,Agency,Catalog Sales,21,12,10,6
+2025-10-01,Asia Pacific,Japan,SMB,Conversions,12,6,5,3
+2025-10-01,Asia Pacific,Japan,SMB,Traffic,12,6,2,1
+2025-10-01,Asia Pacific,Japan,SMB,Lead Generation,13,6,5,3
+2025-10-01,Asia Pacific,Japan,SMB,App Installs,12,6,4,2
+2025-10-01,Asia Pacific,Japan,SMB,Catalog Sales,12,6,4,3
+2025-10-01,Asia Pacific,Japan,Mid-Market,Conversions,25,16,15,9
+2025-10-01,Asia Pacific,Japan,Mid-Market,Traffic,23,15,7,4
+2025-10-01,Asia Pacific,Japan,Mid-Market,Lead Generation,19,12,11,7
+2025-10-01,Asia Pacific,Japan,Mid-Market,App Installs,21,13,8,5
+2025-10-01,Asia Pacific,Japan,Mid-Market,Catalog Sales,22,13,12,8
+2025-10-01,Asia Pacific,Japan,Enterprise,Conversions,40,28,25,15
+2025-10-01,Asia Pacific,Japan,Enterprise,Traffic,42,33,15,9
+2025-10-01,Asia Pacific,Japan,Enterprise,Lead Generation,28,20,16,10
+2025-10-01,Asia Pacific,Japan,Enterprise,App Installs,28,21,13,8
+2025-10-01,Asia Pacific,Japan,Enterprise,Catalog Sales,42,32,27,17
+2025-10-01,Asia Pacific,Japan,Agency,Conversions,24,16,15,9
+2025-10-01,Asia Pacific,Japan,Agency,Traffic,28,21,10,6
+2025-10-01,Asia Pacific,Japan,Agency,Lead Generation,21,14,13,8
+2025-10-01,Asia Pacific,Japan,Agency,App Installs,33,25,14,9
+2025-10-01,Asia Pacific,Japan,Agency,Catalog Sales,23,16,14,8
+2025-10-01,Asia Pacific,South Korea,SMB,Conversions,12,6,5,3
+2025-10-01,Asia Pacific,South Korea,SMB,Traffic,12,6,2,1
+2025-10-01,Asia Pacific,South Korea,SMB,Lead Generation,13,6,5,3
+2025-10-01,Asia Pacific,South Korea,SMB,App Installs,12,6,4,2
+2025-10-01,Asia Pacific,South Korea,SMB,Catalog Sales,12,6,5,3
+2025-10-01,Asia Pacific,South Korea,Mid-Market,Conversions,16,9,8,5
+2025-10-01,Asia Pacific,South Korea,Mid-Market,Traffic,17,11,5,3
+2025-10-01,Asia Pacific,South Korea,Mid-Market,Lead Generation,20,13,11,7
+2025-10-01,Asia Pacific,South Korea,Mid-Market,App Installs,21,14,9,6
+2025-10-01,Asia Pacific,South Korea,Mid-Market,Catalog Sales,18,11,9,5
+2025-10-01,Asia Pacific,South Korea,Enterprise,Conversions,39,30,30,19
+2025-10-01,Asia Pacific,South Korea,Enterprise,Traffic,28,22,9,6
+2025-10-01,Asia Pacific,South Korea,Enterprise,Lead Generation,28,22,17,11
+2025-10-01,Asia Pacific,South Korea,Enterprise,App Installs,35,26,17,10
+2025-10-01,Asia Pacific,South Korea,Enterprise,Catalog Sales,36,27,24,15
+2025-10-01,Asia Pacific,South Korea,Agency,Conversions,21,14,13,8
+2025-10-01,Asia Pacific,South Korea,Agency,Traffic,27,18,8,5
+2025-10-01,Asia Pacific,South Korea,Agency,Lead Generation,23,16,13,7
+2025-10-01,Asia Pacific,South Korea,Agency,App Installs,27,19,13,8
+2025-10-01,Asia Pacific,South Korea,Agency,Catalog Sales,19,12,10,6
+2025-10-01,Asia Pacific,Australia,SMB,Conversions,12,6,6,3
+2025-10-01,Asia Pacific,Australia,SMB,Traffic,12,6,3,2
+2025-10-01,Asia Pacific,Australia,SMB,Lead Generation,12,6,5,3
+2025-10-01,Asia Pacific,Australia,SMB,App Installs,12,6,4,2
+2025-10-01,Asia Pacific,Australia,SMB,Catalog Sales,12,6,5,3
+2025-10-01,Asia Pacific,Australia,Mid-Market,Conversions,18,11,11,6
+2025-10-01,Asia Pacific,Australia,Mid-Market,Traffic,13,9,4,2
+2025-10-01,Asia Pacific,Australia,Mid-Market,Lead Generation,15,10,7,4
+2025-10-01,Asia Pacific,Australia,Mid-Market,App Installs,14,9,6,3
+2025-10-01,Asia Pacific,Australia,Mid-Market,Catalog Sales,18,12,10,7
+2025-10-01,Asia Pacific,Australia,Enterprise,Conversions,21,16,14,9
+2025-10-01,Asia Pacific,Australia,Enterprise,Traffic,33,27,13,8
+2025-10-01,Asia Pacific,Australia,Enterprise,Lead Generation,31,24,19,11
+2025-10-01,Asia Pacific,Australia,Enterprise,App Installs,31,26,15,9
+2025-10-01,Asia Pacific,Australia,Enterprise,Catalog Sales,29,23,21,13
+2025-10-01,Asia Pacific,Australia,Agency,Conversions,21,14,13,7
+2025-10-01,Asia Pacific,Australia,Agency,Traffic,21,14,6,4
+2025-10-01,Asia Pacific,Australia,Agency,Lead Generation,23,15,13,8
+2025-10-01,Asia Pacific,Australia,Agency,App Installs,24,18,12,8
+2025-10-01,Asia Pacific,Australia,Agency,Catalog Sales,27,19,15,9
+2025-10-01,Asia Pacific,Indonesia,SMB,Conversions,12,5,5,3
+2025-10-01,Asia Pacific,Indonesia,SMB,Traffic,12,5,2,1
+2025-10-01,Asia Pacific,Indonesia,SMB,Lead Generation,12,5,4,3
+2025-10-01,Asia Pacific,Indonesia,SMB,App Installs,13,5,3,2
+2025-10-01,Asia Pacific,Indonesia,SMB,Catalog Sales,13,6,5,3
+2025-10-01,Asia Pacific,Indonesia,Mid-Market,Conversions,20,11,11,7
+2025-10-01,Asia Pacific,Indonesia,Mid-Market,Traffic,20,11,5,3
+2025-10-01,Asia Pacific,Indonesia,Mid-Market,Lead Generation,18,10,8,5
+2025-10-01,Asia Pacific,Indonesia,Mid-Market,App Installs,25,14,9,5
+2025-10-01,Asia Pacific,Indonesia,Mid-Market,Catalog Sales,24,13,11,7
+2025-10-01,Asia Pacific,Indonesia,Enterprise,Conversions,47,31,28,18
+2025-10-01,Asia Pacific,Indonesia,Enterprise,Traffic,35,23,11,6
+2025-10-01,Asia Pacific,Indonesia,Enterprise,Lead Generation,39,26,22,14
+2025-10-01,Asia Pacific,Indonesia,Enterprise,App Installs,45,28,18,11
+2025-10-01,Asia Pacific,Indonesia,Enterprise,Catalog Sales,38,26,24,14
+2025-10-01,Asia Pacific,Indonesia,Agency,Conversions,34,21,19,12
+2025-10-01,Asia Pacific,Indonesia,Agency,Traffic,39,23,11,7
+2025-10-01,Asia Pacific,Indonesia,Agency,Lead Generation,39,23,19,11
+2025-10-01,Asia Pacific,Indonesia,Agency,App Installs,32,20,13,9
+2025-10-01,Asia Pacific,Indonesia,Agency,Catalog Sales,34,20,17,10
+2025-11-01,North America,United States,SMB,Conversions,18,9,9,5
+2025-11-01,North America,United States,SMB,Traffic,17,9,4,2
+2025-11-01,North America,United States,SMB,Lead Generation,21,11,9,6
+2025-11-01,North America,United States,SMB,App Installs,23,13,8,5
+2025-11-01,North America,United States,SMB,Catalog Sales,22,11,11,6
+2025-11-01,North America,United States,Mid-Market,Conversions,32,23,23,15
+2025-11-01,North America,United States,Mid-Market,Traffic,32,22,11,7
+2025-11-01,North America,United States,Mid-Market,Lead Generation,27,19,16,9
+2025-11-01,North America,United States,Mid-Market,App Installs,28,19,12,7
+2025-11-01,North America,United States,Mid-Market,Catalog Sales,28,18,15,9
+2025-11-01,North America,United States,Enterprise,Conversions,65,50,50,32
+2025-11-01,North America,United States,Enterprise,Traffic,53,45,20,13
+2025-11-01,North America,United States,Enterprise,Lead Generation,42,32,28,18
+2025-11-01,North America,United States,Enterprise,App Installs,44,34,22,13
+2025-11-01,North America,United States,Enterprise,Catalog Sales,44,36,33,21
+2025-11-01,North America,United States,Agency,Conversions,41,31,30,20
+2025-11-01,North America,United States,Agency,Traffic,36,27,13,8
+2025-11-01,North America,United States,Agency,Lead Generation,49,37,28,19
+2025-11-01,North America,United States,Agency,App Installs,37,27,17,11
+2025-11-01,North America,United States,Agency,Catalog Sales,34,26,23,15
+2025-11-01,North America,Canada,SMB,Conversions,12,6,6,3
+2025-11-01,North America,Canada,SMB,Traffic,12,6,2,1
+2025-11-01,North America,Canada,SMB,Lead Generation,12,6,5,3
+2025-11-01,North America,Canada,SMB,App Installs,12,6,4,2
+2025-11-01,North America,Canada,SMB,Catalog Sales,12,6,5,3
+2025-11-01,North America,Canada,Mid-Market,Conversions,20,13,13,7
+2025-11-01,North America,Canada,Mid-Market,Traffic,14,9,4,2
+2025-11-01,North America,Canada,Mid-Market,Lead Generation,14,9,7,4
+2025-11-01,North America,Canada,Mid-Market,App Installs,20,12,8,5
+2025-11-01,North America,Canada,Mid-Market,Catalog Sales,14,9,8,5
+2025-11-01,North America,Canada,Enterprise,Conversions,31,25,25,17
+2025-11-01,North America,Canada,Enterprise,Traffic,25,18,9,5
+2025-11-01,North America,Canada,Enterprise,Lead Generation,28,23,19,12
+2025-11-01,North America,Canada,Enterprise,App Installs,32,23,14,8
+2025-11-01,North America,Canada,Enterprise,Catalog Sales,30,24,21,12
+2025-11-01,North America,Canada,Agency,Conversions,22,14,15,8
+2025-11-01,North America,Canada,Agency,Traffic,25,17,8,4
+2025-11-01,North America,Canada,Agency,Lead Generation,27,21,18,11
+2025-11-01,North America,Canada,Agency,App Installs,25,19,11,6
+2025-11-01,North America,Canada,Agency,Catalog Sales,17,11,10,6
+2025-11-01,Europe,United Kingdom,SMB,Conversions,12,7,6,4
+2025-11-01,Europe,United Kingdom,SMB,Traffic,12,6,2,1
+2025-11-01,Europe,United Kingdom,SMB,Lead Generation,12,6,5,3
+2025-11-01,Europe,United Kingdom,SMB,App Installs,14,7,4,2
+2025-11-01,Europe,United Kingdom,SMB,Catalog Sales,12,7,5,3
+2025-11-01,Europe,United Kingdom,Mid-Market,Conversions,18,11,10,6
+2025-11-01,Europe,United Kingdom,Mid-Market,Traffic,17,11,5,3
+2025-11-01,Europe,United Kingdom,Mid-Market,Lead Generation,17,10,8,5
+2025-11-01,Europe,United Kingdom,Mid-Market,App Installs,22,15,9,5
+2025-11-01,Europe,United Kingdom,Mid-Market,Catalog Sales,23,15,12,8
+2025-11-01,Europe,United Kingdom,Enterprise,Conversions,43,36,36,21
+2025-11-01,Europe,United Kingdom,Enterprise,Traffic,40,29,14,9
+2025-11-01,Europe,United Kingdom,Enterprise,Lead Generation,44,34,30,18
+2025-11-01,Europe,United Kingdom,Enterprise,App Installs,30,23,14,9
+2025-11-01,Europe,United Kingdom,Enterprise,Catalog Sales,38,29,25,17
+2025-11-01,Europe,United Kingdom,Agency,Conversions,29,20,20,12
+2025-11-01,Europe,United Kingdom,Agency,Traffic,30,22,10,7
+2025-11-01,Europe,United Kingdom,Agency,Lead Generation,23,16,13,7
+2025-11-01,Europe,United Kingdom,Agency,App Installs,29,19,12,7
+2025-11-01,Europe,United Kingdom,Agency,Catalog Sales,30,22,19,12
+2025-11-01,Europe,Germany,SMB,Conversions,12,6,6,3
+2025-11-01,Europe,Germany,SMB,Traffic,12,6,2,1
+2025-11-01,Europe,Germany,SMB,Lead Generation,12,6,5,3
+2025-11-01,Europe,Germany,SMB,App Installs,12,5,4,2
+2025-11-01,Europe,Germany,SMB,Catalog Sales,12,6,5,3
+2025-11-01,Europe,Germany,Mid-Market,Conversions,20,12,12,7
+2025-11-01,Europe,Germany,Mid-Market,Traffic,18,11,5,2
+2025-11-01,Europe,Germany,Mid-Market,Lead Generation,15,9,7,5
+2025-11-01,Europe,Germany,Mid-Market,App Installs,15,8,5,3
+2025-11-01,Europe,Germany,Mid-Market,Catalog Sales,22,13,11,7
+2025-11-01,Europe,Germany,Enterprise,Conversions,29,21,20,13
+2025-11-01,Europe,Germany,Enterprise,Traffic,27,21,9,6
+2025-11-01,Europe,Germany,Enterprise,Lead Generation,30,24,19,12
+2025-11-01,Europe,Germany,Enterprise,App Installs,42,32,19,12
+2025-11-01,Europe,Germany,Enterprise,Catalog Sales,37,29,24,15
+2025-11-01,Europe,Germany,Agency,Conversions,27,19,18,11
+2025-11-01,Europe,Germany,Agency,Traffic,24,18,8,4
+2025-11-01,Europe,Germany,Agency,Lead Generation,24,18,15,9
+2025-11-01,Europe,Germany,Agency,App Installs,27,20,12,8
+2025-11-01,Europe,Germany,Agency,Catalog Sales,23,16,13,9
+2025-11-01,Europe,France,SMB,Conversions,12,6,6,3
+2025-11-01,Europe,France,SMB,Traffic,12,6,2,1
+2025-11-01,Europe,France,SMB,Lead Generation,12,6,5,3
+2025-11-01,Europe,France,SMB,App Installs,12,5,4,2
+2025-11-01,Europe,France,SMB,Catalog Sales,12,5,5,3
+2025-11-01,Europe,France,Mid-Market,Conversions,14,8,8,5
+2025-11-01,Europe,France,Mid-Market,Traffic,18,11,5,3
+2025-11-01,Europe,France,Mid-Market,Lead Generation,14,9,8,4
+2025-11-01,Europe,France,Mid-Market,App Installs,15,9,5,3
+2025-11-01,Europe,France,Mid-Market,Catalog Sales,16,9,8,4
+2025-11-01,Europe,France,Enterprise,Conversions,38,26,25,15
+2025-11-01,Europe,France,Enterprise,Traffic,27,21,9,5
+2025-11-01,Europe,France,Enterprise,Lead Generation,25,19,14,9
+2025-11-01,Europe,France,Enterprise,App Installs,28,20,14,8
+2025-11-01,Europe,France,Enterprise,Catalog Sales,30,23,21,13
+2025-11-01,Europe,France,Agency,Conversions,27,18,18,11
+2025-11-01,Europe,France,Agency,Traffic,26,16,8,5
+2025-11-01,Europe,France,Agency,Lead Generation,28,20,16,10
+2025-11-01,Europe,France,Agency,App Installs,21,13,9,5
+2025-11-01,Europe,France,Agency,Catalog Sales,29,19,17,10
+2025-11-01,Middle East & Africa,United Arab Emirates,SMB,Conversions,12,6,5,3
+2025-11-01,Middle East & Africa,United Arab Emirates,SMB,Traffic,12,6,2,1
+2025-11-01,Middle East & Africa,United Arab Emirates,SMB,Lead Generation,12,7,5,3
+2025-11-01,Middle East & Africa,United Arab Emirates,SMB,App Installs,12,6,4,2
+2025-11-01,Middle East & Africa,United Arab Emirates,SMB,Catalog Sales,12,6,5,3
+2025-11-01,Middle East & Africa,United Arab Emirates,Mid-Market,Conversions,17,11,11,7
+2025-11-01,Middle East & Africa,United Arab Emirates,Mid-Market,Traffic,13,9,4,2
+2025-11-01,Middle East & Africa,United Arab Emirates,Mid-Market,Lead Generation,15,9,7,5
+2025-11-01,Middle East & Africa,United Arab Emirates,Mid-Market,App Installs,16,10,6,4
+2025-11-01,Middle East & Africa,United Arab Emirates,Mid-Market,Catalog Sales,16,9,8,4
+2025-11-01,Middle East & Africa,United Arab Emirates,Enterprise,Conversions,23,18,16,10
+2025-11-01,Middle East & Africa,United Arab Emirates,Enterprise,Traffic,20,16,7,4
+2025-11-01,Middle East & Africa,United Arab Emirates,Enterprise,Lead Generation,22,17,15,10
+2025-11-01,Middle East & Africa,United Arab Emirates,Enterprise,App Installs,23,18,11,6
+2025-11-01,Middle East & Africa,United Arab Emirates,Enterprise,Catalog Sales,28,21,17,10
+2025-11-01,Middle East & Africa,United Arab Emirates,Agency,Conversions,17,12,11,7
+2025-11-01,Middle East & Africa,United Arab Emirates,Agency,Traffic,17,11,5,3
+2025-11-01,Middle East & Africa,United Arab Emirates,Agency,Lead Generation,23,16,13,8
+2025-11-01,Middle East & Africa,United Arab Emirates,Agency,App Installs,20,13,9,5
+2025-11-01,Middle East & Africa,United Arab Emirates,Agency,Catalog Sales,25,17,14,8
+2025-11-01,Middle East & Africa,Saudi Arabia,SMB,Conversions,12,5,5,3
+2025-11-01,Middle East & Africa,Saudi Arabia,SMB,Traffic,12,6,2,1
+2025-11-01,Middle East & Africa,Saudi Arabia,SMB,Lead Generation,13,6,5,3
+2025-11-01,Middle East & Africa,Saudi Arabia,SMB,App Installs,12,5,3,2
+2025-11-01,Middle East & Africa,Saudi Arabia,SMB,Catalog Sales,12,6,5,3
+2025-11-01,Middle East & Africa,Saudi Arabia,Mid-Market,Conversions,18,11,10,6
+2025-11-01,Middle East & Africa,Saudi Arabia,Mid-Market,Traffic,20,11,5,3
+2025-11-01,Middle East & Africa,Saudi Arabia,Mid-Market,Lead Generation,14,8,7,4
+2025-11-01,Middle East & Africa,Saudi Arabia,Mid-Market,App Installs,14,8,5,3
+2025-11-01,Middle East & Africa,Saudi Arabia,Mid-Market,Catalog Sales,19,12,10,6
+2025-11-01,Middle East & Africa,Saudi Arabia,Enterprise,Conversions,37,27,25,16
+2025-11-01,Middle East & Africa,Saudi Arabia,Enterprise,Traffic,30,21,9,6
+2025-11-01,Middle East & Africa,Saudi Arabia,Enterprise,Lead Generation,31,22,19,12
+2025-11-01,Middle East & Africa,Saudi Arabia,Enterprise,App Installs,23,16,10,6
+2025-11-01,Middle East & Africa,Saudi Arabia,Enterprise,Catalog Sales,26,18,17,9
+2025-11-01,Middle East & Africa,Saudi Arabia,Agency,Conversions,18,13,12,7
+2025-11-01,Middle East & Africa,Saudi Arabia,Agency,Traffic,19,13,6,3
+2025-11-01,Middle East & Africa,Saudi Arabia,Agency,Lead Generation,25,15,12,8
+2025-11-01,Middle East & Africa,Saudi Arabia,Agency,App Installs,26,16,10,6
+2025-11-01,Middle East & Africa,Saudi Arabia,Agency,Catalog Sales,25,16,15,9
+2025-11-01,Middle East & Africa,South Africa,SMB,Conversions,12,5,5,3
+2025-11-01,Middle East & Africa,South Africa,SMB,Traffic,12,5,3,1
+2025-11-01,Middle East & Africa,South Africa,SMB,Lead Generation,12,5,4,2
+2025-11-01,Middle East & Africa,South Africa,SMB,App Installs,12,5,3,2
+2025-11-01,Middle East & Africa,South Africa,SMB,Catalog Sales,12,5,4,3
+2025-11-01,Middle East & Africa,South Africa,Mid-Market,Conversions,15,8,7,4
+2025-11-01,Middle East & Africa,South Africa,Mid-Market,Traffic,13,7,3,2
+2025-11-01,Middle East & Africa,South Africa,Mid-Market,Lead Generation,12,6,5,3
+2025-11-01,Middle East & Africa,South Africa,Mid-Market,App Installs,16,9,6,3
+2025-11-01,Middle East & Africa,South Africa,Mid-Market,Catalog Sales,15,8,7,4
+2025-11-01,Middle East & Africa,South Africa,Enterprise,Conversions,25,17,17,11
+2025-11-01,Middle East & Africa,South Africa,Enterprise,Traffic,18,12,6,3
+2025-11-01,Middle East & Africa,South Africa,Enterprise,Lead Generation,24,15,11,7
+2025-11-01,Middle East & Africa,South Africa,Enterprise,App Installs,22,15,9,6
+2025-11-01,Middle East & Africa,South Africa,Enterprise,Catalog Sales,29,18,16,9
+2025-11-01,Middle East & Africa,South Africa,Agency,Conversions,18,11,10,6
+2025-11-01,Middle East & Africa,South Africa,Agency,Traffic,15,9,4,2
+2025-11-01,Middle East & Africa,South Africa,Agency,Lead Generation,21,13,11,6
+2025-11-01,Middle East & Africa,South Africa,Agency,App Installs,19,12,8,4
+2025-11-01,Middle East & Africa,South Africa,Agency,Catalog Sales,21,13,12,7
+2025-11-01,Asia Pacific,Japan,SMB,Conversions,15,8,8,5
+2025-11-01,Asia Pacific,Japan,SMB,Traffic,12,6,2,1
+2025-11-01,Asia Pacific,Japan,SMB,Lead Generation,12,6,5,3
+2025-11-01,Asia Pacific,Japan,SMB,App Installs,12,6,4,2
+2025-11-01,Asia Pacific,Japan,SMB,Catalog Sales,13,7,6,4
+2025-11-01,Asia Pacific,Japan,Mid-Market,Conversions,19,12,11,7
+2025-11-01,Asia Pacific,Japan,Mid-Market,Traffic,24,16,7,5
+2025-11-01,Asia Pacific,Japan,Mid-Market,Lead Generation,22,14,11,7
+2025-11-01,Asia Pacific,Japan,Mid-Market,App Installs,17,10,7,4
+2025-11-01,Asia Pacific,Japan,Mid-Market,Catalog Sales,24,14,12,7
+2025-11-01,Asia Pacific,Japan,Enterprise,Conversions,36,27,28,18
+2025-11-01,Asia Pacific,Japan,Enterprise,Traffic,35,26,12,7
+2025-11-01,Asia Pacific,Japan,Enterprise,Lead Generation,31,22,18,11
+2025-11-01,Asia Pacific,Japan,Enterprise,App Installs,41,30,20,13
+2025-11-01,Asia Pacific,Japan,Enterprise,Catalog Sales,42,33,31,20
+2025-11-01,Asia Pacific,Japan,Agency,Conversions,23,17,16,9
+2025-11-01,Asia Pacific,Japan,Agency,Traffic,28,18,9,6
+2025-11-01,Asia Pacific,Japan,Agency,Lead Generation,31,21,17,11
+2025-11-01,Asia Pacific,Japan,Agency,App Installs,23,17,10,7
+2025-11-01,Asia Pacific,Japan,Agency,Catalog Sales,26,17,16,9
+2025-11-01,Asia Pacific,South Korea,SMB,Conversions,12,6,5,3
+2025-11-01,Asia Pacific,South Korea,SMB,Traffic,12,6,2,1
+2025-11-01,Asia Pacific,South Korea,SMB,Lead Generation,13,6,5,3
+2025-11-01,Asia Pacific,South Korea,SMB,App Installs,12,6,4,2
+2025-11-01,Asia Pacific,South Korea,SMB,Catalog Sales,12,6,5,3
+2025-11-01,Asia Pacific,South Korea,Mid-Market,Conversions,15,9,9,5
+2025-11-01,Asia Pacific,South Korea,Mid-Market,Traffic,15,9,4,2
+2025-11-01,Asia Pacific,South Korea,Mid-Market,Lead Generation,20,12,9,6
+2025-11-01,Asia Pacific,South Korea,Mid-Market,App Installs,22,15,9,6
+2025-11-01,Asia Pacific,South Korea,Mid-Market,Catalog Sales,18,10,9,6
+2025-11-01,Asia Pacific,South Korea,Enterprise,Conversions,39,30,27,18
+2025-11-01,Asia Pacific,South Korea,Enterprise,Traffic,36,27,11,7
+2025-11-01,Asia Pacific,South Korea,Enterprise,Lead Generation,28,21,16,10
+2025-11-01,Asia Pacific,South Korea,Enterprise,App Installs,37,28,17,10
+2025-11-01,Asia Pacific,South Korea,Enterprise,Catalog Sales,39,29,26,17
+2025-11-01,Asia Pacific,South Korea,Agency,Conversions,21,14,14,8
+2025-11-01,Asia Pacific,South Korea,Agency,Traffic,24,16,7,4
+2025-11-01,Asia Pacific,South Korea,Agency,Lead Generation,30,20,18,10
+2025-11-01,Asia Pacific,South Korea,Agency,App Installs,19,13,8,5
+2025-11-01,Asia Pacific,South Korea,Agency,Catalog Sales,28,20,18,11
+2025-11-01,Asia Pacific,Australia,SMB,Conversions,12,6,6,4
+2025-11-01,Asia Pacific,Australia,SMB,Traffic,12,6,3,1
+2025-11-01,Asia Pacific,Australia,SMB,Lead Generation,12,6,6,3
+2025-11-01,Asia Pacific,Australia,SMB,App Installs,12,7,4,3
+2025-11-01,Asia Pacific,Australia,SMB,Catalog Sales,12,6,5,3
+2025-11-01,Asia Pacific,Australia,Mid-Market,Conversions,15,10,9,6
+2025-11-01,Asia Pacific,Australia,Mid-Market,Traffic,16,11,4,2
+2025-11-01,Asia Pacific,Australia,Mid-Market,Lead Generation,14,9,7,4
+2025-11-01,Asia Pacific,Australia,Mid-Market,App Installs,19,12,8,5
+2025-11-01,Asia Pacific,Australia,Mid-Market,Catalog Sales,18,12,11,6
+2025-11-01,Asia Pacific,Australia,Enterprise,Conversions,30,22,21,12
+2025-11-01,Asia Pacific,Australia,Enterprise,Traffic,26,21,11,7
+2025-11-01,Asia Pacific,Australia,Enterprise,Lead Generation,29,22,17,10
+2025-11-01,Asia Pacific,Australia,Enterprise,App Installs,28,22,13,8
+2025-11-01,Asia Pacific,Australia,Enterprise,Catalog Sales,23,17,14,9
+2025-11-01,Asia Pacific,Australia,Agency,Conversions,16,12,11,7
+2025-11-01,Asia Pacific,Australia,Agency,Traffic,24,16,7,4
+2025-11-01,Asia Pacific,Australia,Agency,Lead Generation,20,14,12,7
+2025-11-01,Asia Pacific,Australia,Agency,App Installs,19,13,8,5
+2025-11-01,Asia Pacific,Australia,Agency,Catalog Sales,23,17,14,9
+2025-11-01,Asia Pacific,Indonesia,SMB,Conversions,17,8,8,5
+2025-11-01,Asia Pacific,Indonesia,SMB,Traffic,16,8,3,2
+2025-11-01,Asia Pacific,Indonesia,SMB,Lead Generation,16,7,6,3
+2025-11-01,Asia Pacific,Indonesia,SMB,App Installs,13,6,3,2
+2025-11-01,Asia Pacific,Indonesia,SMB,Catalog Sales,12,6,5,3
+2025-11-01,Asia Pacific,Indonesia,Mid-Market,Conversions,20,12,11,6
+2025-11-01,Asia Pacific,Indonesia,Mid-Market,Traffic,25,15,6,4
+2025-11-01,Asia Pacific,Indonesia,Mid-Market,Lead Generation,17,10,8,5
+2025-11-01,Asia Pacific,Indonesia,Mid-Market,App Installs,28,15,9,6
+2025-11-01,Asia Pacific,Indonesia,Mid-Market,Catalog Sales,26,15,13,8
+2025-11-01,Asia Pacific,Indonesia,Enterprise,Conversions,34,23,23,14
+2025-11-01,Asia Pacific,Indonesia,Enterprise,Traffic,44,30,13,8
+2025-11-01,Asia Pacific,Indonesia,Enterprise,Lead Generation,48,33,28,17
+2025-11-01,Asia Pacific,Indonesia,Enterprise,App Installs,32,23,15,8
+2025-11-01,Asia Pacific,Indonesia,Enterprise,Catalog Sales,46,33,27,17
+2025-11-01,Asia Pacific,Indonesia,Agency,Conversions,35,20,19,11
+2025-11-01,Asia Pacific,Indonesia,Agency,Traffic,29,19,9,5
+2025-11-01,Asia Pacific,Indonesia,Agency,Lead Generation,35,21,17,10
+2025-11-01,Asia Pacific,Indonesia,Agency,App Installs,36,23,14,8
+2025-11-01,Asia Pacific,Indonesia,Agency,Catalog Sales,25,15,13,7
+2025-12-01,North America,United States,SMB,Conversions,16,9,9,5
+2025-12-01,North America,United States,SMB,Traffic,17,9,4,2
+2025-12-01,North America,United States,SMB,Lead Generation,14,8,6,3
+2025-12-01,North America,United States,SMB,App Installs,23,13,8,5
+2025-12-01,North America,United States,SMB,Catalog Sales,23,12,10,6
+2025-12-01,North America,United States,Mid-Market,Conversions,35,23,23,15
+2025-12-01,North America,United States,Mid-Market,Traffic,32,21,10,6
+2025-12-01,North America,United States,Mid-Market,Lead Generation,38,27,22,14
+2025-12-01,North America,United States,Mid-Market,App Installs,36,25,16,10
+2025-12-01,North America,United States,Mid-Market,Catalog Sales,28,19,16,10
+2025-12-01,North America,United States,Enterprise,Conversions,58,49,45,29
+2025-12-01,North America,United States,Enterprise,Traffic,63,55,25,16
+2025-12-01,North America,United States,Enterprise,Lead Generation,52,41,35,23
+2025-12-01,North America,United States,Enterprise,App Installs,68,55,37,22
+2025-12-01,North America,United States,Enterprise,Catalog Sales,62,53,44,29
+2025-12-01,North America,United States,Agency,Conversions,42,31,28,18
+2025-12-01,North America,United States,Agency,Traffic,36,27,13,8
+2025-12-01,North America,United States,Agency,Lead Generation,54,39,33,20
+2025-12-01,North America,United States,Agency,App Installs,36,26,17,9
+2025-12-01,North America,United States,Agency,Catalog Sales,42,30,28,16
+2025-12-01,North America,Canada,SMB,Conversions,12,6,6,3
+2025-12-01,North America,Canada,SMB,Traffic,12,6,3,1
+2025-12-01,North America,Canada,SMB,Lead Generation,12,7,5,3
+2025-12-01,North America,Canada,SMB,App Installs,12,7,4,2
+2025-12-01,North America,Canada,SMB,Catalog Sales,12,6,6,3
+2025-12-01,North America,Canada,Mid-Market,Conversions,17,11,11,7
+2025-12-01,North America,Canada,Mid-Market,Traffic,16,10,4,2
+2025-12-01,North America,Canada,Mid-Market,Lead Generation,14,8,7,4
+2025-12-01,North America,Canada,Mid-Market,App Installs,17,10,6,3
+2025-12-01,North America,Canada,Mid-Market,Catalog Sales,18,11,9,5
+2025-12-01,North America,Canada,Enterprise,Conversions,26,21,21,13
+2025-12-01,North America,Canada,Enterprise,Traffic,29,22,9,5
+2025-12-01,North America,Canada,Enterprise,Lead Generation,24,19,17,11
+2025-12-01,North America,Canada,Enterprise,App Installs,31,23,15,10
+2025-12-01,North America,Canada,Enterprise,Catalog Sales,25,18,15,9
+2025-12-01,North America,Canada,Agency,Conversions,22,14,13,9
+2025-12-01,North America,Canada,Agency,Traffic,21,14,7,4
+2025-12-01,North America,Canada,Agency,Lead Generation,25,17,14,9
+2025-12-01,North America,Canada,Agency,App Installs,18,12,7,4
+2025-12-01,North America,Canada,Agency,Catalog Sales,22,17,14,9
+2025-12-01,Europe,United Kingdom,SMB,Conversions,16,9,9,6
+2025-12-01,Europe,United Kingdom,SMB,Traffic,12,6,3,1
+2025-12-01,Europe,United Kingdom,SMB,Lead Generation,12,7,6,3
+2025-12-01,Europe,United Kingdom,SMB,App Installs,14,7,5,3
+2025-12-01,Europe,United Kingdom,SMB,Catalog Sales,15,8,7,4
+2025-12-01,Europe,United Kingdom,Mid-Market,Conversions,22,14,13,8
+2025-12-01,Europe,United Kingdom,Mid-Market,Traffic,25,17,8,5
+2025-12-01,Europe,United Kingdom,Mid-Market,Lead Generation,21,14,11,7
+2025-12-01,Europe,United Kingdom,Mid-Market,App Installs,26,16,10,6
+2025-12-01,Europe,United Kingdom,Mid-Market,Catalog Sales,17,11,9,5
+2025-12-01,Europe,United Kingdom,Enterprise,Conversions,33,28,28,17
+2025-12-01,Europe,United Kingdom,Enterprise,Traffic,44,33,15,9
+2025-12-01,Europe,United Kingdom,Enterprise,Lead Generation,37,27,22,13
+2025-12-01,Europe,United Kingdom,Enterprise,App Installs,43,34,23,14
+2025-12-01,Europe,United Kingdom,Enterprise,Catalog Sales,41,31,28,18
+2025-12-01,Europe,United Kingdom,Agency,Conversions,30,23,22,13
+2025-12-01,Europe,United Kingdom,Agency,Traffic,22,16,7,4
+2025-12-01,Europe,United Kingdom,Agency,Lead Generation,24,18,14,9
+2025-12-01,Europe,United Kingdom,Agency,App Installs,28,21,12,8
+2025-12-01,Europe,United Kingdom,Agency,Catalog Sales,28,20,16,10
+2025-12-01,Europe,Germany,SMB,Conversions,14,6,6,3
+2025-12-01,Europe,Germany,SMB,Traffic,12,6,2,1
+2025-12-01,Europe,Germany,SMB,Lead Generation,12,6,4,2
+2025-12-01,Europe,Germany,SMB,App Installs,12,6,3,2
+2025-12-01,Europe,Germany,SMB,Catalog Sales,14,7,6,3
+2025-12-01,Europe,Germany,Mid-Market,Conversions,24,14,14,9
+2025-12-01,Europe,Germany,Mid-Market,Traffic,24,16,8,5
+2025-12-01,Europe,Germany,Mid-Market,Lead Generation,15,9,7,4
+2025-12-01,Europe,Germany,Mid-Market,App Installs,15,10,6,4
+2025-12-01,Europe,Germany,Mid-Market,Catalog Sales,20,13,11,6
+2025-12-01,Europe,Germany,Enterprise,Conversions,39,28,25,16
+2025-12-01,Europe,Germany,Enterprise,Traffic,35,28,14,9
+2025-12-01,Europe,Germany,Enterprise,Lead Generation,41,29,23,14
+2025-12-01,Europe,Germany,Enterprise,App Installs,36,27,16,9
+2025-12-01,Europe,Germany,Enterprise,Catalog Sales,39,30,26,15
+2025-12-01,Europe,Germany,Agency,Conversions,28,18,18,11
+2025-12-01,Europe,Germany,Agency,Traffic,28,19,9,5
+2025-12-01,Europe,Germany,Agency,Lead Generation,24,17,13,8
+2025-12-01,Europe,Germany,Agency,App Installs,27,19,11,7
+2025-12-01,Europe,Germany,Agency,Catalog Sales,29,20,17,10
+2025-12-01,Europe,France,SMB,Conversions,12,6,6,3
+2025-12-01,Europe,France,SMB,Traffic,12,6,3,2
+2025-12-01,Europe,France,SMB,Lead Generation,13,6,6,3
+2025-12-01,Europe,France,SMB,App Installs,12,6,4,2
+2025-12-01,Europe,France,SMB,Catalog Sales,12,5,5,3
+2025-12-01,Europe,France,Mid-Market,Conversions,16,9,9,6
+2025-12-01,Europe,France,Mid-Market,Traffic,14,8,3,2
+2025-12-01,Europe,France,Mid-Market,Lead Generation,14,8,7,4
+2025-12-01,Europe,France,Mid-Market,App Installs,17,10,7,4
+2025-12-01,Europe,France,Mid-Market,Catalog Sales,20,13,10,6
+2025-12-01,Europe,France,Enterprise,Conversions,26,18,19,11
+2025-12-01,Europe,France,Enterprise,Traffic,37,27,13,8
+2025-12-01,Europe,France,Enterprise,Lead Generation,25,18,14,9
+2025-12-01,Europe,France,Enterprise,App Installs,27,19,12,8
+2025-12-01,Europe,France,Enterprise,Catalog Sales,37,26,21,12
+2025-12-01,Europe,France,Agency,Conversions,30,19,18,12
+2025-12-01,Europe,France,Agency,Traffic,24,17,8,5
+2025-12-01,Europe,France,Agency,Lead Generation,25,16,14,9
+2025-12-01,Europe,France,Agency,App Installs,18,11,7,4
+2025-12-01,Europe,France,Agency,Catalog Sales,23,14,12,7
+2025-12-01,Middle East & Africa,United Arab Emirates,SMB,Conversions,12,6,6,3
+2025-12-01,Middle East & Africa,United Arab Emirates,SMB,Traffic,12,6,3,1
+2025-12-01,Middle East & Africa,United Arab Emirates,SMB,Lead Generation,12,6,5,3
+2025-12-01,Middle East & Africa,United Arab Emirates,SMB,App Installs,12,6,3,2
+2025-12-01,Middle East & Africa,United Arab Emirates,SMB,Catalog Sales,12,6,6,4
+2025-12-01,Middle East & Africa,United Arab Emirates,Mid-Market,Conversions,18,12,11,7
+2025-12-01,Middle East & Africa,United Arab Emirates,Mid-Market,Traffic,19,12,6,4
+2025-12-01,Middle East & Africa,United Arab Emirates,Mid-Market,Lead Generation,12,8,6,4
+2025-12-01,Middle East & Africa,United Arab Emirates,Mid-Market,App Installs,16,10,6,4
+2025-12-01,Middle East & Africa,United Arab Emirates,Mid-Market,Catalog Sales,13,8,7,4
+2025-12-01,Middle East & Africa,United Arab Emirates,Enterprise,Conversions,25,19,20,12
+2025-12-01,Middle East & Africa,United Arab Emirates,Enterprise,Traffic,27,22,11,7
+2025-12-01,Middle East & Africa,United Arab Emirates,Enterprise,Lead Generation,25,20,18,11
+2025-12-01,Middle East & Africa,United Arab Emirates,Enterprise,App Installs,26,19,12,8
+2025-12-01,Middle East & Africa,United Arab Emirates,Enterprise,Catalog Sales,23,17,14,8
+2025-12-01,Middle East & Africa,United Arab Emirates,Agency,Conversions,26,19,19,11
+2025-12-01,Middle East & Africa,United Arab Emirates,Agency,Traffic,20,14,7,4
+2025-12-01,Middle East & Africa,United Arab Emirates,Agency,Lead Generation,17,12,9,5
+2025-12-01,Middle East & Africa,United Arab Emirates,Agency,App Installs,19,14,9,6
+2025-12-01,Middle East & Africa,United Arab Emirates,Agency,Catalog Sales,18,13,11,6
+2025-12-01,Middle East & Africa,Saudi Arabia,SMB,Conversions,12,6,5,3
+2025-12-01,Middle East & Africa,Saudi Arabia,SMB,Traffic,12,5,2,1
+2025-12-01,Middle East & Africa,Saudi Arabia,SMB,Lead Generation,13,6,5,3
+2025-12-01,Middle East & Africa,Saudi Arabia,SMB,App Installs,12,6,4,2
+2025-12-01,Middle East & Africa,Saudi Arabia,SMB,Catalog Sales,12,6,5,3
+2025-12-01,Middle East & Africa,Saudi Arabia,Mid-Market,Conversions,16,10,9,6
+2025-12-01,Middle East & Africa,Saudi Arabia,Mid-Market,Traffic,18,12,5,3
+2025-12-01,Middle East & Africa,Saudi Arabia,Mid-Market,Lead Generation,15,8,7,4
+2025-12-01,Middle East & Africa,Saudi Arabia,Mid-Market,App Installs,13,7,4,2
+2025-12-01,Middle East & Africa,Saudi Arabia,Mid-Market,Catalog Sales,14,8,6,3
+2025-12-01,Middle East & Africa,Saudi Arabia,Enterprise,Conversions,34,23,22,14
+2025-12-01,Middle East & Africa,Saudi Arabia,Enterprise,Traffic,27,19,10,6
+2025-12-01,Middle East & Africa,Saudi Arabia,Enterprise,Lead Generation,31,21,19,12
+2025-12-01,Middle East & Africa,Saudi Arabia,Enterprise,App Installs,31,21,13,8
+2025-12-01,Middle East & Africa,Saudi Arabia,Enterprise,Catalog Sales,36,25,21,12
+2025-12-01,Middle East & Africa,Saudi Arabia,Agency,Conversions,23,17,16,10
+2025-12-01,Middle East & Africa,Saudi Arabia,Agency,Traffic,22,14,6,3
+2025-12-01,Middle East & Africa,Saudi Arabia,Agency,Lead Generation,28,19,15,10
+2025-12-01,Middle East & Africa,Saudi Arabia,Agency,App Installs,29,19,11,6
+2025-12-01,Middle East & Africa,Saudi Arabia,Agency,Catalog Sales,19,12,10,6
+2025-12-01,Middle East & Africa,South Africa,SMB,Conversions,12,5,4,3
+2025-12-01,Middle East & Africa,South Africa,SMB,Traffic,12,5,2,1
+2025-12-01,Middle East & Africa,South Africa,SMB,Lead Generation,12,5,4,2
+2025-12-01,Middle East & Africa,South Africa,SMB,App Installs,12,5,3,1
+2025-12-01,Middle East & Africa,South Africa,SMB,Catalog Sales,12,5,4,3
+2025-12-01,Middle East & Africa,South Africa,Mid-Market,Conversions,12,6,6,4
+2025-12-01,Middle East & Africa,South Africa,Mid-Market,Traffic,12,7,3,2
+2025-12-01,Middle East & Africa,South Africa,Mid-Market,Lead Generation,16,9,7,4
+2025-12-01,Middle East & Africa,South Africa,Mid-Market,App Installs,16,9,6,4
+2025-12-01,Middle East & Africa,South Africa,Mid-Market,Catalog Sales,12,6,6,3
+2025-12-01,Middle East & Africa,South Africa,Enterprise,Conversions,21,13,13,7
+2025-12-01,Middle East & Africa,South Africa,Enterprise,Traffic,19,12,5,3
+2025-12-01,Middle East & Africa,South Africa,Enterprise,Lead Generation,23,14,11,7
+2025-12-01,Middle East & Africa,South Africa,Enterprise,App Installs,20,13,8,5
+2025-12-01,Middle East & Africa,South Africa,Enterprise,Catalog Sales,22,15,13,8
+2025-12-01,Middle East & Africa,South Africa,Agency,Conversions,19,11,11,7
+2025-12-01,Middle East & Africa,South Africa,Agency,Traffic,17,11,5,3
+2025-12-01,Middle East & Africa,South Africa,Agency,Lead Generation,18,11,9,5
+2025-12-01,Middle East & Africa,South Africa,Agency,App Installs,16,9,5,3
+2025-12-01,Middle East & Africa,South Africa,Agency,Catalog Sales,18,12,11,6
+2025-12-01,Asia Pacific,Japan,SMB,Conversions,14,7,7,4
+2025-12-01,Asia Pacific,Japan,SMB,Traffic,15,8,3,2
+2025-12-01,Asia Pacific,Japan,SMB,Lead Generation,13,6,5,3
+2025-12-01,Asia Pacific,Japan,SMB,App Installs,12,6,4,2
+2025-12-01,Asia Pacific,Japan,SMB,Catalog Sales,13,6,6,4
+2025-12-01,Asia Pacific,Japan,Mid-Market,Conversions,21,12,12,7
+2025-12-01,Asia Pacific,Japan,Mid-Market,Traffic,15,10,5,3
+2025-12-01,Asia Pacific,Japan,Mid-Market,Lead Generation,18,12,9,6
+2025-12-01,Asia Pacific,Japan,Mid-Market,App Installs,17,11,7,5
+2025-12-01,Asia Pacific,Japan,Mid-Market,Catalog Sales,25,17,13,9
+2025-12-01,Asia Pacific,Japan,Enterprise,Conversions,35,26,25,15
+2025-12-01,Asia Pacific,Japan,Enterprise,Traffic,40,30,13,7
+2025-12-01,Asia Pacific,Japan,Enterprise,Lead Generation,27,20,16,10
+2025-12-01,Asia Pacific,Japan,Enterprise,App Installs,41,29,19,12
+2025-12-01,Asia Pacific,Japan,Enterprise,Catalog Sales,42,32,29,17
+2025-12-01,Asia Pacific,Japan,Agency,Conversions,34,23,22,13
+2025-12-01,Asia Pacific,Japan,Agency,Traffic,22,14,6,4
+2025-12-01,Asia Pacific,Japan,Agency,Lead Generation,21,14,11,7
+2025-12-01,Asia Pacific,Japan,Agency,App Installs,31,21,14,9
+2025-12-01,Asia Pacific,Japan,Agency,Catalog Sales,25,19,17,11
+2025-12-01,Asia Pacific,South Korea,SMB,Conversions,13,6,6,4
+2025-12-01,Asia Pacific,South Korea,SMB,Traffic,12,6,2,1
+2025-12-01,Asia Pacific,South Korea,SMB,Lead Generation,12,6,5,2
+2025-12-01,Asia Pacific,South Korea,SMB,App Installs,12,6,4,2
+2025-12-01,Asia Pacific,South Korea,SMB,Catalog Sales,12,6,5,3
+2025-12-01,Asia Pacific,South Korea,Mid-Market,Conversions,21,12,12,8
+2025-12-01,Asia Pacific,South Korea,Mid-Market,Traffic,16,10,4,2
+2025-12-01,Asia Pacific,South Korea,Mid-Market,Lead Generation,19,11,9,6
+2025-12-01,Asia Pacific,South Korea,Mid-Market,App Installs,16,9,5,3
+2025-12-01,Asia Pacific,South Korea,Mid-Market,Catalog Sales,22,15,14,8
+2025-12-01,Asia Pacific,South Korea,Enterprise,Conversions,36,27,24,15
+2025-12-01,Asia Pacific,South Korea,Enterprise,Traffic,36,25,12,7
+2025-12-01,Asia Pacific,South Korea,Enterprise,Lead Generation,28,22,19,11
+2025-12-01,Asia Pacific,South Korea,Enterprise,App Installs,33,23,15,9
+2025-12-01,Asia Pacific,South Korea,Enterprise,Catalog Sales,38,29,25,16
+2025-12-01,Asia Pacific,South Korea,Agency,Conversions,21,14,12,8
+2025-12-01,Asia Pacific,South Korea,Agency,Traffic,18,12,5,3
+2025-12-01,Asia Pacific,South Korea,Agency,Lead Generation,24,17,15,9
+2025-12-01,Asia Pacific,South Korea,Agency,App Installs,20,14,9,6
+2025-12-01,Asia Pacific,South Korea,Agency,Catalog Sales,21,15,14,8
+2025-12-01,Asia Pacific,Australia,SMB,Conversions,12,6,5,3
+2025-12-01,Asia Pacific,Australia,SMB,Traffic,12,6,3,1
+2025-12-01,Asia Pacific,Australia,SMB,Lead Generation,12,6,6,3
+2025-12-01,Asia Pacific,Australia,SMB,App Installs,12,6,4,2
+2025-12-01,Asia Pacific,Australia,SMB,Catalog Sales,12,6,5,3
+2025-12-01,Asia Pacific,Australia,Mid-Market,Conversions,13,9,8,5
+2025-12-01,Asia Pacific,Australia,Mid-Market,Traffic,15,9,4,2
+2025-12-01,Asia Pacific,Australia,Mid-Market,Lead Generation,19,12,10,6
+2025-12-01,Asia Pacific,Australia,Mid-Market,App Installs,18,12,7,4
+2025-12-01,Asia Pacific,Australia,Mid-Market,Catalog Sales,15,10,8,5
+2025-12-01,Asia Pacific,Australia,Enterprise,Conversions,32,24,21,13
+2025-12-01,Asia Pacific,Australia,Enterprise,Traffic,34,27,12,7
+2025-12-01,Asia Pacific,Australia,Enterprise,Lead Generation,32,25,21,14
+2025-12-01,Asia Pacific,Australia,Enterprise,App Installs,32,23,14,8
+2025-12-01,Asia Pacific,Australia,Enterprise,Catalog Sales,26,22,18,11
+2025-12-01,Asia Pacific,Australia,Agency,Conversions,20,15,13,8
+2025-12-01,Asia Pacific,Australia,Agency,Traffic,21,14,7,4
+2025-12-01,Asia Pacific,Australia,Agency,Lead Generation,20,14,12,8
+2025-12-01,Asia Pacific,Australia,Agency,App Installs,24,18,11,7
+2025-12-01,Asia Pacific,Australia,Agency,Catalog Sales,21,15,13,8
+2025-12-01,Asia Pacific,Indonesia,SMB,Conversions,13,6,6,3
+2025-12-01,Asia Pacific,Indonesia,SMB,Traffic,16,7,3,1
+2025-12-01,Asia Pacific,Indonesia,SMB,Lead Generation,13,6,5,3
+2025-12-01,Asia Pacific,Indonesia,SMB,App Installs,17,7,4,2
+2025-12-01,Asia Pacific,Indonesia,SMB,Catalog Sales,14,6,5,3
+2025-12-01,Asia Pacific,Indonesia,Mid-Market,Conversions,18,10,10,6
+2025-12-01,Asia Pacific,Indonesia,Mid-Market,Traffic,21,11,5,3
+2025-12-01,Asia Pacific,Indonesia,Mid-Market,Lead Generation,26,16,12,7
+2025-12-01,Asia Pacific,Indonesia,Mid-Market,App Installs,28,15,9,6
+2025-12-01,Asia Pacific,Indonesia,Mid-Market,Catalog Sales,18,9,8,5
+2025-12-01,Asia Pacific,Indonesia,Enterprise,Conversions,30,19,17,11
+2025-12-01,Asia Pacific,Indonesia,Enterprise,Traffic,41,27,12,7
+2025-12-01,Asia Pacific,Indonesia,Enterprise,Lead Generation,40,28,23,14
+2025-12-01,Asia Pacific,Indonesia,Enterprise,App Installs,38,25,15,9
+2025-12-01,Asia Pacific,Indonesia,Enterprise,Catalog Sales,40,29,24,15
+2025-12-01,Asia Pacific,Indonesia,Agency,Conversions,25,16,15,9
+2025-12-01,Asia Pacific,Indonesia,Agency,Traffic,33,22,11,7
+2025-12-01,Asia Pacific,Indonesia,Agency,Lead Generation,33,19,16,10
+2025-12-01,Asia Pacific,Indonesia,Agency,App Installs,27,17,10,6
+2025-12-01,Asia Pacific,Indonesia,Agency,Catalog Sales,32,19,16,10

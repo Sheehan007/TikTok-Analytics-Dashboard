@@ -1,0 +1,371 @@
+campaign_id,advertiser_id,campaign_name,campaign_objective,ad_product,launch_week,status
+CMP00001,ADV0001,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-01-13,Active
+CMP00002,ADV0002,Smart Performance Campaign Catalog Sales 1,Catalog Sales,Smart Performance Campaign,2025-02-03,Paused
+CMP00003,ADV0002,Spark Ads Traffic 2,Traffic,Spark Ads,2025-01-27,Active
+CMP00004,ADV0002,Lead Gen Forms Lead Generation 3,Lead Generation,Lead Gen Forms,2025-01-20,Paused
+CMP00005,ADV0002,Lead Gen Forms Lead Generation 4,Lead Generation,Lead Gen Forms,2025-01-13,Active
+CMP00006,ADV0003,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-03-10,Active
+CMP00007,ADV0003,Spark Ads Conversions 2,Conversions,Spark Ads,2025-02-24,Active
+CMP00008,ADV0003,Smart Performance Campaign Conversions 3,Conversions,Smart Performance Campaign,2025-02-24,Active
+CMP00009,ADV0004,Smart Performance Campaign Traffic 1,Traffic,Smart Performance Campaign,2025-01-06,Active
+CMP00010,ADV0004,Spark Ads Conversions 2,Conversions,Spark Ads,2025-01-27,Active
+CMP00011,ADV0004,Catalog Ads Catalog Sales 3,Catalog Sales,Catalog Ads,2025-03-24,Active
+CMP00012,ADV0005,Spark Ads Catalog Sales 1,Catalog Sales,Spark Ads,2025-03-24,Active
+CMP00013,ADV0005,Smart Performance Campaign Catalog Sales 2,Catalog Sales,Smart Performance Campaign,2025-04-07,Active
+CMP00014,ADV0005,Smart Performance Campaign App Installs 3,App Installs,Smart Performance Campaign,2025-02-24,Paused
+CMP00015,ADV0006,Smart Performance Campaign App Installs 1,App Installs,Smart Performance Campaign,2025-03-10,Active
+CMP00016,ADV0007,App Promotion Traffic 1,Traffic,App Promotion,2025-03-31,Active
+CMP00017,ADV0007,Smart Performance Campaign Lead Generation 2,Lead Generation,Smart Performance Campaign,2025-01-13,Active
+CMP00018,ADV0008,Spark Ads Lead Generation 1,Lead Generation,Spark Ads,2025-02-03,Active
+CMP00019,ADV0008,Lead Gen Forms Lead Generation 2,Lead Generation,Lead Gen Forms,2025-01-06,Active
+CMP00020,ADV0008,Catalog Ads Conversions 3,Conversions,Catalog Ads,2025-03-10,Active
+CMP00021,ADV0009,Smart Performance Campaign App Installs 1,App Installs,Smart Performance Campaign,2025-04-07,Active
+CMP00022,ADV0009,Smart Performance Campaign Traffic 2,Traffic,Smart Performance Campaign,2025-01-06,Active
+CMP00023,ADV0010,Spark Ads App Installs 1,App Installs,Spark Ads,2025-01-06,Active
+CMP00024,ADV0011,Lead Gen Forms Lead Generation 1,Lead Generation,Lead Gen Forms,2025-01-20,Active
+CMP00025,ADV0011,Spark Ads Traffic 2,Traffic,Spark Ads,2025-01-13,Active
+CMP00026,ADV0011,Spark Ads Catalog Sales 3,Catalog Sales,Spark Ads,2025-02-24,Active
+CMP00027,ADV0012,Smart Performance Campaign Catalog Sales 1,Catalog Sales,Smart Performance Campaign,2025-04-07,Paused
+CMP00028,ADV0012,Smart Performance Campaign Lead Generation 2,Lead Generation,Smart Performance Campaign,2025-01-13,Active
+CMP00029,ADV0013,Spark Ads Lead Generation 1,Lead Generation,Spark Ads,2025-02-24,Active
+CMP00030,ADV0014,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-03-31,Active
+CMP00031,ADV0014,Catalog Ads Conversions 2,Conversions,Catalog Ads,2025-01-13,Active
+CMP00032,ADV0015,Spark Ads Conversions 1,Conversions,Spark Ads,2025-03-03,Active
+CMP00033,ADV0015,Lead Gen Forms Lead Generation 2,Lead Generation,Lead Gen Forms,2025-02-17,Active
+CMP00034,ADV0015,Smart Performance Campaign Catalog Sales 3,Catalog Sales,Smart Performance Campaign,2025-03-31,Active
+CMP00035,ADV0016,Smart Performance Campaign Lead Generation 1,Lead Generation,Smart Performance Campaign,2025-03-31,Active
+CMP00036,ADV0016,Spark Ads Conversions 2,Conversions,Spark Ads,2025-02-24,Active
+CMP00037,ADV0017,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-03-24,Active
+CMP00038,ADV0018,App Promotion Traffic 1,Traffic,App Promotion,2025-03-03,Active
+CMP00039,ADV0018,Spark Ads Conversions 2,Conversions,Spark Ads,2025-03-17,Active
+CMP00040,ADV0018,Smart Performance Campaign App Installs 3,App Installs,Smart Performance Campaign,2025-02-17,Active
+CMP00041,ADV0019,App Promotion Traffic 1,Traffic,App Promotion,2025-03-10,Active
+CMP00042,ADV0020,Smart Performance Campaign Catalog Sales 1,Catalog Sales,Smart Performance Campaign,2025-04-07,Active
+CMP00043,ADV0021,Lead Gen Forms Lead Generation 1,Lead Generation,Lead Gen Forms,2025-03-24,Active
+CMP00044,ADV0022,Catalog Ads Catalog Sales 1,Catalog Sales,Catalog Ads,2025-01-20,Active
+CMP00045,ADV0022,App Promotion Traffic 2,Traffic,App Promotion,2025-01-13,Active
+CMP00046,ADV0022,Spark Ads Traffic 3,Traffic,Spark Ads,2025-01-06,Active
+CMP00047,ADV0023,Spark Ads App Installs 1,App Installs,Spark Ads,2025-03-10,Active
+CMP00048,ADV0023,Spark Ads Lead Generation 2,Lead Generation,Spark Ads,2025-01-20,Paused
+CMP00049,ADV0023,App Promotion Traffic 3,Traffic,App Promotion,2025-03-10,Active
+CMP00050,ADV0024,Smart Performance Campaign Traffic 1,Traffic,Smart Performance Campaign,2025-03-24,Active
+CMP00051,ADV0024,Spark Ads Conversions 2,Conversions,Spark Ads,2025-01-20,Active
+CMP00052,ADV0025,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-01-27,Active
+CMP00053,ADV0026,Smart Performance Campaign App Installs 1,App Installs,Smart Performance Campaign,2025-02-17,Active
+CMP00054,ADV0026,App Promotion Traffic 2,Traffic,App Promotion,2025-03-17,Active
+CMP00055,ADV0027,App Promotion Traffic 1,Traffic,App Promotion,2025-02-03,Active
+CMP00056,ADV0027,Catalog Ads Catalog Sales 2,Catalog Sales,Catalog Ads,2025-01-20,Active
+CMP00057,ADV0027,Spark Ads Catalog Sales 3,Catalog Sales,Spark Ads,2025-01-27,Active
+CMP00058,ADV0028,Spark Ads Conversions 1,Conversions,Spark Ads,2025-01-06,Active
+CMP00059,ADV0028,Spark Ads Lead Generation 2,Lead Generation,Spark Ads,2025-03-17,Active
+CMP00060,ADV0029,Spark Ads Catalog Sales 1,Catalog Sales,Spark Ads,2025-02-10,Active
+CMP00061,ADV0030,Smart Performance Campaign Traffic 1,Traffic,Smart Performance Campaign,2025-02-10,Active
+CMP00062,ADV0030,Spark Ads Catalog Sales 2,Catalog Sales,Spark Ads,2025-01-06,Active
+CMP00063,ADV0031,App Promotion App Installs 1,App Installs,App Promotion,2025-03-17,Active
+CMP00064,ADV0031,Catalog Ads Conversions 2,Conversions,Catalog Ads,2025-01-13,Active
+CMP00065,ADV0031,Spark Ads Catalog Sales 3,Catalog Sales,Spark Ads,2025-01-20,Active
+CMP00066,ADV0032,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-03-17,Active
+CMP00067,ADV0033,Smart Performance Campaign Catalog Sales 1,Catalog Sales,Smart Performance Campaign,2025-03-31,Active
+CMP00068,ADV0034,Smart Performance Campaign Lead Generation 1,Lead Generation,Smart Performance Campaign,2025-03-31,Active
+CMP00069,ADV0034,Spark Ads Traffic 2,Traffic,Spark Ads,2025-02-24,Paused
+CMP00070,ADV0034,Smart Performance Campaign Lead Generation 3,Lead Generation,Smart Performance Campaign,2025-03-24,Active
+CMP00071,ADV0035,Spark Ads Conversions 1,Conversions,Spark Ads,2025-03-03,Active
+CMP00072,ADV0035,Lead Gen Forms Lead Generation 2,Lead Generation,Lead Gen Forms,2025-03-17,Active
+CMP00073,ADV0035,Catalog Ads Conversions 3,Conversions,Catalog Ads,2025-03-03,Active
+CMP00074,ADV0036,Catalog Ads Catalog Sales 1,Catalog Sales,Catalog Ads,2025-01-06,Active
+CMP00075,ADV0036,Smart Performance Campaign Traffic 2,Traffic,Smart Performance Campaign,2025-01-20,Active
+CMP00076,ADV0036,Smart Performance Campaign App Installs 3,App Installs,Smart Performance Campaign,2025-01-06,Active
+CMP00077,ADV0036,Smart Performance Campaign Lead Generation 4,Lead Generation,Smart Performance Campaign,2025-03-24,Active
+CMP00078,ADV0037,Spark Ads Traffic 1,Traffic,Spark Ads,2025-03-10,Active
+CMP00079,ADV0037,Smart Performance Campaign Conversions 2,Conversions,Smart Performance Campaign,2025-01-13,Active
+CMP00080,ADV0038,App Promotion Traffic 1,Traffic,App Promotion,2025-01-06,Active
+CMP00081,ADV0038,Spark Ads Traffic 2,Traffic,Spark Ads,2025-04-07,Active
+CMP00082,ADV0039,Smart Performance Campaign Traffic 1,Traffic,Smart Performance Campaign,2025-01-06,Paused
+CMP00083,ADV0040,Spark Ads Lead Generation 1,Lead Generation,Spark Ads,2025-02-03,Active
+CMP00084,ADV0041,Spark Ads Traffic 1,Traffic,Spark Ads,2025-03-03,Active
+CMP00085,ADV0041,App Promotion Traffic 2,Traffic,App Promotion,2025-03-17,Active
+CMP00086,ADV0042,Spark Ads Lead Generation 1,Lead Generation,Spark Ads,2025-03-31,Active
+CMP00087,ADV0043,Spark Ads App Installs 1,App Installs,Spark Ads,2025-01-27,Active
+CMP00088,ADV0043,Smart Performance Campaign Lead Generation 2,Lead Generation,Smart Performance Campaign,2025-03-10,Active
+CMP00089,ADV0044,Spark Ads Conversions 1,Conversions,Spark Ads,2025-03-31,Active
+CMP00090,ADV0044,Spark Ads Conversions 2,Conversions,Spark Ads,2025-03-31,Active
+CMP00091,ADV0044,Catalog Ads Conversions 3,Conversions,Catalog Ads,2025-02-17,Active
+CMP00092,ADV0045,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-02-17,Paused
+CMP00093,ADV0045,Catalog Ads Conversions 2,Conversions,Catalog Ads,2025-01-06,Active
+CMP00094,ADV0046,Smart Performance Campaign Catalog Sales 1,Catalog Sales,Smart Performance Campaign,2025-02-24,Active
+CMP00095,ADV0046,Spark Ads Conversions 2,Conversions,Spark Ads,2025-01-27,Active
+CMP00096,ADV0046,Spark Ads Conversions 3,Conversions,Spark Ads,2025-01-13,Paused
+CMP00097,ADV0047,Spark Ads Traffic 1,Traffic,Spark Ads,2025-03-24,Active
+CMP00098,ADV0047,Catalog Ads Conversions 2,Conversions,Catalog Ads,2025-02-17,Active
+CMP00099,ADV0048,Spark Ads Catalog Sales 1,Catalog Sales,Spark Ads,2025-04-07,Active
+CMP00100,ADV0049,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-03-03,Active
+CMP00101,ADV0049,Catalog Ads Catalog Sales 2,Catalog Sales,Catalog Ads,2025-03-10,Paused
+CMP00102,ADV0050,Spark Ads Conversions 1,Conversions,Spark Ads,2025-01-20,Active
+CMP00103,ADV0051,Smart Performance Campaign Traffic 1,Traffic,Smart Performance Campaign,2025-03-31,Active
+CMP00104,ADV0052,Lead Gen Forms Lead Generation 1,Lead Generation,Lead Gen Forms,2025-02-17,Active
+CMP00105,ADV0052,App Promotion Traffic 2,Traffic,App Promotion,2025-03-10,Active
+CMP00106,ADV0053,App Promotion Traffic 1,Traffic,App Promotion,2025-01-06,Active
+CMP00107,ADV0053,Catalog Ads Catalog Sales 2,Catalog Sales,Catalog Ads,2025-03-10,Active
+CMP00108,ADV0054,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-01-06,Active
+CMP00109,ADV0054,Spark Ads Lead Generation 2,Lead Generation,Spark Ads,2025-03-03,Paused
+CMP00110,ADV0054,Catalog Ads Catalog Sales 3,Catalog Sales,Catalog Ads,2025-03-03,Active
+CMP00111,ADV0055,App Promotion App Installs 1,App Installs,App Promotion,2025-01-20,Active
+CMP00112,ADV0055,Smart Performance Campaign Traffic 2,Traffic,Smart Performance Campaign,2025-03-17,Active
+CMP00113,ADV0055,Lead Gen Forms Lead Generation 3,Lead Generation,Lead Gen Forms,2025-03-17,Active
+CMP00114,ADV0055,Smart Performance Campaign Catalog Sales 4,Catalog Sales,Smart Performance Campaign,2025-03-31,Active
+CMP00115,ADV0056,Smart Performance Campaign Traffic 1,Traffic,Smart Performance Campaign,2025-03-10,Active
+CMP00116,ADV0056,Catalog Ads Catalog Sales 2,Catalog Sales,Catalog Ads,2025-02-10,Active
+CMP00117,ADV0057,Spark Ads Catalog Sales 1,Catalog Sales,Spark Ads,2025-03-24,Active
+CMP00118,ADV0057,Spark Ads Catalog Sales 2,Catalog Sales,Spark Ads,2025-04-07,Paused
+CMP00119,ADV0058,Lead Gen Forms Lead Generation 1,Lead Generation,Lead Gen Forms,2025-03-10,Active
+CMP00120,ADV0059,Catalog Ads Catalog Sales 1,Catalog Sales,Catalog Ads,2025-01-06,Active
+CMP00121,ADV0060,Spark Ads Traffic 1,Traffic,Spark Ads,2025-01-06,Active
+CMP00122,ADV0060,Smart Performance Campaign Lead Generation 2,Lead Generation,Smart Performance Campaign,2025-02-17,Active
+CMP00123,ADV0060,Catalog Ads Conversions 3,Conversions,Catalog Ads,2025-02-03,Active
+CMP00124,ADV0061,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-03-03,Active
+CMP00125,ADV0061,Catalog Ads Conversions 2,Conversions,Catalog Ads,2025-01-13,Active
+CMP00126,ADV0061,Spark Ads Catalog Sales 3,Catalog Sales,Spark Ads,2025-01-27,Active
+CMP00127,ADV0062,Spark Ads Conversions 1,Conversions,Spark Ads,2025-03-31,Active
+CMP00128,ADV0062,Smart Performance Campaign Conversions 2,Conversions,Smart Performance Campaign,2025-03-31,Active
+CMP00129,ADV0062,Spark Ads Traffic 3,Traffic,Spark Ads,2025-02-17,Active
+CMP00130,ADV0062,Spark Ads Lead Generation 4,Lead Generation,Spark Ads,2025-02-24,Active
+CMP00131,ADV0063,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-02-10,Active
+CMP00132,ADV0064,App Promotion App Installs 1,App Installs,App Promotion,2025-01-27,Active
+CMP00133,ADV0065,Spark Ads Catalog Sales 1,Catalog Sales,Spark Ads,2025-01-20,Active
+CMP00134,ADV0065,Spark Ads Conversions 2,Conversions,Spark Ads,2025-01-06,Active
+CMP00135,ADV0066,Spark Ads Lead Generation 1,Lead Generation,Spark Ads,2025-01-13,Active
+CMP00136,ADV0067,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-01-20,Active
+CMP00137,ADV0067,Smart Performance Campaign Conversions 2,Conversions,Smart Performance Campaign,2025-01-06,Active
+CMP00138,ADV0068,App Promotion App Installs 1,App Installs,App Promotion,2025-01-06,Active
+CMP00139,ADV0068,Smart Performance Campaign Lead Generation 2,Lead Generation,Smart Performance Campaign,2025-03-24,Active
+CMP00140,ADV0068,Smart Performance Campaign Conversions 3,Conversions,Smart Performance Campaign,2025-02-10,Active
+CMP00141,ADV0069,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-03-10,Active
+CMP00142,ADV0069,Spark Ads Conversions 2,Conversions,Spark Ads,2025-03-24,Active
+CMP00143,ADV0070,Spark Ads Lead Generation 1,Lead Generation,Spark Ads,2025-01-27,Active
+CMP00144,ADV0070,Spark Ads App Installs 2,App Installs,Spark Ads,2025-02-03,Active
+CMP00145,ADV0071,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-01-06,Active
+CMP00146,ADV0072,Smart Performance Campaign Lead Generation 1,Lead Generation,Smart Performance Campaign,2025-01-27,Paused
+CMP00147,ADV0072,Lead Gen Forms Lead Generation 2,Lead Generation,Lead Gen Forms,2025-02-10,Active
+CMP00148,ADV0073,Smart Performance Campaign Traffic 1,Traffic,Smart Performance Campaign,2025-02-03,Active
+CMP00149,ADV0073,Catalog Ads Catalog Sales 2,Catalog Sales,Catalog Ads,2025-01-13,Active
+CMP00150,ADV0073,Spark Ads Lead Generation 3,Lead Generation,Spark Ads,2025-01-13,Active
+CMP00151,ADV0074,App Promotion App Installs 1,App Installs,App Promotion,2025-01-27,Active
+CMP00152,ADV0074,Smart Performance Campaign Conversions 2,Conversions,Smart Performance Campaign,2025-01-20,Active
+CMP00153,ADV0075,App Promotion App Installs 1,App Installs,App Promotion,2025-03-24,Active
+CMP00154,ADV0075,App Promotion App Installs 2,App Installs,App Promotion,2025-02-17,Active
+CMP00155,ADV0075,Lead Gen Forms Lead Generation 3,Lead Generation,Lead Gen Forms,2025-01-06,Active
+CMP00156,ADV0076,Lead Gen Forms Lead Generation 1,Lead Generation,Lead Gen Forms,2025-03-10,Active
+CMP00157,ADV0077,Smart Performance Campaign App Installs 1,App Installs,Smart Performance Campaign,2025-03-10,Active
+CMP00158,ADV0077,Smart Performance Campaign Traffic 2,Traffic,Smart Performance Campaign,2025-03-03,Active
+CMP00159,ADV0077,Spark Ads Conversions 3,Conversions,Spark Ads,2025-01-20,Active
+CMP00160,ADV0078,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-04-07,Active
+CMP00161,ADV0078,Spark Ads Lead Generation 2,Lead Generation,Spark Ads,2025-03-03,Active
+CMP00162,ADV0078,Spark Ads Catalog Sales 3,Catalog Sales,Spark Ads,2025-02-03,Active
+CMP00163,ADV0079,Smart Performance Campaign Lead Generation 1,Lead Generation,Smart Performance Campaign,2025-03-24,Active
+CMP00164,ADV0079,Spark Ads App Installs 2,App Installs,Spark Ads,2025-01-20,Active
+CMP00165,ADV0079,Spark Ads Conversions 3,Conversions,Spark Ads,2025-02-03,Active
+CMP00166,ADV0080,Smart Performance Campaign App Installs 1,App Installs,Smart Performance Campaign,2025-01-27,Active
+CMP00167,ADV0080,App Promotion Traffic 2,Traffic,App Promotion,2025-01-20,Active
+CMP00168,ADV0080,Spark Ads App Installs 3,App Installs,Spark Ads,2025-01-27,Active
+CMP00169,ADV0081,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-02-10,Active
+CMP00170,ADV0082,Spark Ads App Installs 1,App Installs,Spark Ads,2025-01-13,Active
+CMP00171,ADV0082,Catalog Ads Conversions 2,Conversions,Catalog Ads,2025-02-24,Active
+CMP00172,ADV0082,Smart Performance Campaign App Installs 3,App Installs,Smart Performance Campaign,2025-04-07,Active
+CMP00173,ADV0083,Smart Performance Campaign Traffic 1,Traffic,Smart Performance Campaign,2025-01-06,Active
+CMP00174,ADV0083,Spark Ads Traffic 2,Traffic,Spark Ads,2025-02-17,Active
+CMP00175,ADV0084,Lead Gen Forms Lead Generation 1,Lead Generation,Lead Gen Forms,2025-03-10,Active
+CMP00176,ADV0085,Spark Ads Conversions 1,Conversions,Spark Ads,2025-03-31,Active
+CMP00177,ADV0085,App Promotion App Installs 2,App Installs,App Promotion,2025-01-06,Active
+CMP00178,ADV0086,App Promotion App Installs 1,App Installs,App Promotion,2025-01-27,Active
+CMP00179,ADV0086,Spark Ads Catalog Sales 2,Catalog Sales,Spark Ads,2025-02-03,Active
+CMP00180,ADV0086,Smart Performance Campaign Lead Generation 3,Lead Generation,Smart Performance Campaign,2025-02-10,Active
+CMP00181,ADV0087,Spark Ads Catalog Sales 1,Catalog Sales,Spark Ads,2025-01-13,Active
+CMP00182,ADV0087,Spark Ads Conversions 2,Conversions,Spark Ads,2025-02-17,Paused
+CMP00183,ADV0087,Catalog Ads Conversions 3,Conversions,Catalog Ads,2025-02-24,Active
+CMP00184,ADV0088,Spark Ads App Installs 1,App Installs,Spark Ads,2025-04-07,Active
+CMP00185,ADV0089,Catalog Ads Catalog Sales 1,Catalog Sales,Catalog Ads,2025-02-17,Active
+CMP00186,ADV0089,Smart Performance Campaign App Installs 2,App Installs,Smart Performance Campaign,2025-01-27,Active
+CMP00187,ADV0090,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-02-10,Paused
+CMP00188,ADV0090,Smart Performance Campaign Traffic 2,Traffic,Smart Performance Campaign,2025-02-17,Active
+CMP00189,ADV0091,Catalog Ads Catalog Sales 1,Catalog Sales,Catalog Ads,2025-03-31,Active
+CMP00190,ADV0091,Smart Performance Campaign Lead Generation 2,Lead Generation,Smart Performance Campaign,2025-03-24,Active
+CMP00191,ADV0092,App Promotion Traffic 1,Traffic,App Promotion,2025-02-10,Active
+CMP00192,ADV0093,Spark Ads Traffic 1,Traffic,Spark Ads,2025-02-10,Active
+CMP00193,ADV0093,Lead Gen Forms Lead Generation 2,Lead Generation,Lead Gen Forms,2025-03-03,Active
+CMP00194,ADV0093,Smart Performance Campaign Conversions 3,Conversions,Smart Performance Campaign,2025-02-10,Active
+CMP00195,ADV0093,Catalog Ads Catalog Sales 4,Catalog Sales,Catalog Ads,2025-02-10,Active
+CMP00196,ADV0094,Spark Ads Conversions 1,Conversions,Spark Ads,2025-02-24,Active
+CMP00197,ADV0095,Spark Ads Conversions 1,Conversions,Spark Ads,2025-03-24,Active
+CMP00198,ADV0095,Smart Performance Campaign Lead Generation 2,Lead Generation,Smart Performance Campaign,2025-02-03,Active
+CMP00199,ADV0096,Smart Performance Campaign Catalog Sales 1,Catalog Sales,Smart Performance Campaign,2025-04-07,Active
+CMP00200,ADV0096,Smart Performance Campaign Conversions 2,Conversions,Smart Performance Campaign,2025-01-13,Active
+CMP00201,ADV0096,Catalog Ads Conversions 3,Conversions,Catalog Ads,2025-02-24,Active
+CMP00202,ADV0097,Spark Ads Lead Generation 1,Lead Generation,Spark Ads,2025-02-10,Active
+CMP00203,ADV0098,Smart Performance Campaign Lead Generation 1,Lead Generation,Smart Performance Campaign,2025-03-24,Active
+CMP00204,ADV0098,Smart Performance Campaign App Installs 2,App Installs,Smart Performance Campaign,2025-03-17,Active
+CMP00205,ADV0099,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-01-20,Active
+CMP00206,ADV0099,Smart Performance Campaign Conversions 2,Conversions,Smart Performance Campaign,2025-02-17,Active
+CMP00207,ADV0099,Spark Ads App Installs 3,App Installs,Spark Ads,2025-01-13,Active
+CMP00208,ADV0100,Spark Ads App Installs 1,App Installs,Spark Ads,2025-01-13,Active
+CMP00209,ADV0100,App Promotion App Installs 2,App Installs,App Promotion,2025-02-03,Active
+CMP00210,ADV0100,App Promotion App Installs 3,App Installs,App Promotion,2025-02-10,Active
+CMP00211,ADV0101,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-03-24,Active
+CMP00212,ADV0101,Spark Ads Traffic 2,Traffic,Spark Ads,2025-01-20,Active
+CMP00213,ADV0102,Spark Ads Lead Generation 1,Lead Generation,Spark Ads,2025-03-03,Active
+CMP00214,ADV0102,Spark Ads Lead Generation 2,Lead Generation,Spark Ads,2025-03-24,Active
+CMP00215,ADV0102,App Promotion Traffic 3,Traffic,App Promotion,2025-04-07,Active
+CMP00216,ADV0103,Smart Performance Campaign Catalog Sales 1,Catalog Sales,Smart Performance Campaign,2025-02-03,Active
+CMP00217,ADV0103,Lead Gen Forms Lead Generation 2,Lead Generation,Lead Gen Forms,2025-02-03,Active
+CMP00218,ADV0103,Smart Performance Campaign Lead Generation 3,Lead Generation,Smart Performance Campaign,2025-01-20,Active
+CMP00219,ADV0104,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-03-24,Active
+CMP00220,ADV0104,Catalog Ads Catalog Sales 2,Catalog Sales,Catalog Ads,2025-01-27,Active
+CMP00221,ADV0104,App Promotion Traffic 3,Traffic,App Promotion,2025-01-27,Active
+CMP00222,ADV0105,Spark Ads Conversions 1,Conversions,Spark Ads,2025-02-24,Active
+CMP00223,ADV0105,Smart Performance Campaign Conversions 2,Conversions,Smart Performance Campaign,2025-04-07,Active
+CMP00224,ADV0106,Lead Gen Forms Lead Generation 1,Lead Generation,Lead Gen Forms,2025-01-13,Paused
+CMP00225,ADV0107,Smart Performance Campaign App Installs 1,App Installs,Smart Performance Campaign,2025-01-06,Active
+CMP00226,ADV0108,App Promotion App Installs 1,App Installs,App Promotion,2025-01-27,Active
+CMP00227,ADV0108,Catalog Ads Conversions 2,Conversions,Catalog Ads,2025-03-17,Active
+CMP00228,ADV0108,Smart Performance Campaign Conversions 3,Conversions,Smart Performance Campaign,2025-03-10,Active
+CMP00229,ADV0109,Spark Ads Lead Generation 1,Lead Generation,Spark Ads,2025-03-10,Active
+CMP00230,ADV0109,Lead Gen Forms Lead Generation 2,Lead Generation,Lead Gen Forms,2025-02-24,Active
+CMP00231,ADV0109,Smart Performance Campaign Catalog Sales 3,Catalog Sales,Smart Performance Campaign,2025-04-07,Active
+CMP00232,ADV0110,Spark Ads Conversions 1,Conversions,Spark Ads,2025-02-03,Active
+CMP00233,ADV0110,Spark Ads Conversions 2,Conversions,Spark Ads,2025-02-10,Active
+CMP00234,ADV0111,Lead Gen Forms Lead Generation 1,Lead Generation,Lead Gen Forms,2025-02-24,Active
+CMP00235,ADV0112,Lead Gen Forms Lead Generation 1,Lead Generation,Lead Gen Forms,2025-04-07,Active
+CMP00236,ADV0112,App Promotion App Installs 2,App Installs,App Promotion,2025-01-06,Active
+CMP00237,ADV0112,Lead Gen Forms Lead Generation 3,Lead Generation,Lead Gen Forms,2025-01-27,Active
+CMP00238,ADV0113,Catalog Ads Catalog Sales 1,Catalog Sales,Catalog Ads,2025-01-27,Active
+CMP00239,ADV0113,Lead Gen Forms Lead Generation 2,Lead Generation,Lead Gen Forms,2025-01-06,Active
+CMP00240,ADV0114,Spark Ads Catalog Sales 1,Catalog Sales,Spark Ads,2025-03-17,Active
+CMP00241,ADV0114,Smart Performance Campaign Conversions 2,Conversions,Smart Performance Campaign,2025-04-07,Active
+CMP00242,ADV0115,Spark Ads Traffic 1,Traffic,Spark Ads,2025-01-20,Active
+CMP00243,ADV0115,App Promotion Traffic 2,Traffic,App Promotion,2025-03-03,Active
+CMP00244,ADV0116,Spark Ads App Installs 1,App Installs,Spark Ads,2025-01-27,Active
+CMP00245,ADV0117,Spark Ads Traffic 1,Traffic,Spark Ads,2025-03-31,Paused
+CMP00246,ADV0117,Smart Performance Campaign App Installs 2,App Installs,Smart Performance Campaign,2025-03-10,Active
+CMP00247,ADV0118,App Promotion Traffic 1,Traffic,App Promotion,2025-03-24,Active
+CMP00248,ADV0119,Smart Performance Campaign App Installs 1,App Installs,Smart Performance Campaign,2025-02-24,Active
+CMP00249,ADV0119,Catalog Ads Conversions 2,Conversions,Catalog Ads,2025-03-10,Active
+CMP00250,ADV0120,Spark Ads App Installs 1,App Installs,Spark Ads,2025-03-17,Active
+CMP00251,ADV0121,Catalog Ads Catalog Sales 1,Catalog Sales,Catalog Ads,2025-01-13,Active
+CMP00252,ADV0121,Smart Performance Campaign Catalog Sales 2,Catalog Sales,Smart Performance Campaign,2025-01-13,Active
+CMP00253,ADV0122,Smart Performance Campaign Lead Generation 1,Lead Generation,Smart Performance Campaign,2025-01-27,Active
+CMP00254,ADV0122,Smart Performance Campaign Lead Generation 2,Lead Generation,Smart Performance Campaign,2025-02-24,Active
+CMP00255,ADV0123,Smart Performance Campaign Traffic 1,Traffic,Smart Performance Campaign,2025-03-10,Active
+CMP00256,ADV0123,Spark Ads Traffic 2,Traffic,Spark Ads,2025-02-24,Active
+CMP00257,ADV0123,Smart Performance Campaign Lead Generation 3,Lead Generation,Smart Performance Campaign,2025-02-10,Active
+CMP00258,ADV0124,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-01-13,Active
+CMP00259,ADV0125,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-02-17,Active
+CMP00260,ADV0125,Spark Ads Conversions 2,Conversions,Spark Ads,2025-03-03,Paused
+CMP00261,ADV0126,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-02-24,Active
+CMP00262,ADV0126,Catalog Ads Catalog Sales 2,Catalog Sales,Catalog Ads,2025-03-10,Active
+CMP00263,ADV0126,Smart Performance Campaign App Installs 3,App Installs,Smart Performance Campaign,2025-02-17,Active
+CMP00264,ADV0127,Spark Ads App Installs 1,App Installs,Spark Ads,2025-01-27,Active
+CMP00265,ADV0127,Spark Ads Catalog Sales 2,Catalog Sales,Spark Ads,2025-02-03,Active
+CMP00266,ADV0128,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-04-07,Active
+CMP00267,ADV0128,Spark Ads Traffic 2,Traffic,Spark Ads,2025-02-03,Active
+CMP00268,ADV0128,App Promotion Traffic 3,Traffic,App Promotion,2025-04-07,Active
+CMP00269,ADV0129,Spark Ads Conversions 1,Conversions,Spark Ads,2025-02-17,Active
+CMP00270,ADV0130,Catalog Ads Catalog Sales 1,Catalog Sales,Catalog Ads,2025-01-27,Active
+CMP00271,ADV0130,Smart Performance Campaign Conversions 2,Conversions,Smart Performance Campaign,2025-04-07,Active
+CMP00272,ADV0131,Spark Ads Conversions 1,Conversions,Spark Ads,2025-01-13,Active
+CMP00273,ADV0131,Spark Ads App Installs 2,App Installs,Spark Ads,2025-03-17,Active
+CMP00274,ADV0131,Catalog Ads Conversions 3,Conversions,Catalog Ads,2025-01-20,Active
+CMP00275,ADV0132,App Promotion App Installs 1,App Installs,App Promotion,2025-03-24,Active
+CMP00276,ADV0133,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-01-06,Active
+CMP00277,ADV0133,Spark Ads Catalog Sales 2,Catalog Sales,Spark Ads,2025-01-13,Active
+CMP00278,ADV0133,Smart Performance Campaign Conversions 3,Conversions,Smart Performance Campaign,2025-01-06,Active
+CMP00279,ADV0134,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-02-24,Active
+CMP00280,ADV0134,Smart Performance Campaign Catalog Sales 2,Catalog Sales,Smart Performance Campaign,2025-03-03,Active
+CMP00281,ADV0134,Spark Ads Traffic 3,Traffic,Spark Ads,2025-03-10,Active
+CMP00282,ADV0135,Spark Ads App Installs 1,App Installs,Spark Ads,2025-01-27,Active
+CMP00283,ADV0135,Catalog Ads Catalog Sales 2,Catalog Sales,Catalog Ads,2025-03-17,Paused
+CMP00284,ADV0136,Spark Ads Traffic 1,Traffic,Spark Ads,2025-02-17,Active
+CMP00285,ADV0136,Catalog Ads Conversions 2,Conversions,Catalog Ads,2025-03-24,Active
+CMP00286,ADV0137,App Promotion App Installs 1,App Installs,App Promotion,2025-01-06,Active
+CMP00287,ADV0138,Smart Performance Campaign Catalog Sales 1,Catalog Sales,Smart Performance Campaign,2025-03-03,Active
+CMP00288,ADV0139,Smart Performance Campaign Catalog Sales 1,Catalog Sales,Smart Performance Campaign,2025-01-27,Active
+CMP00289,ADV0139,Catalog Ads Conversions 2,Conversions,Catalog Ads,2025-02-10,Active
+CMP00290,ADV0139,Catalog Ads Conversions 3,Conversions,Catalog Ads,2025-03-10,Active
+CMP00291,ADV0140,Spark Ads Catalog Sales 1,Catalog Sales,Spark Ads,2025-02-10,Active
+CMP00292,ADV0141,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-01-06,Active
+CMP00293,ADV0141,Spark Ads App Installs 2,App Installs,Spark Ads,2025-02-10,Paused
+CMP00294,ADV0141,Spark Ads Lead Generation 3,Lead Generation,Spark Ads,2025-03-10,Active
+CMP00295,ADV0142,Spark Ads App Installs 1,App Installs,Spark Ads,2025-04-07,Active
+CMP00296,ADV0142,Smart Performance Campaign Lead Generation 2,Lead Generation,Smart Performance Campaign,2025-01-27,Active
+CMP00297,ADV0143,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-01-20,Active
+CMP00298,ADV0143,Smart Performance Campaign Catalog Sales 2,Catalog Sales,Smart Performance Campaign,2025-01-06,Active
+CMP00299,ADV0143,Catalog Ads Conversions 3,Conversions,Catalog Ads,2025-04-07,Paused
+CMP00300,ADV0144,Smart Performance Campaign Lead Generation 1,Lead Generation,Smart Performance Campaign,2025-01-20,Active
+CMP00301,ADV0145,Smart Performance Campaign App Installs 1,App Installs,Smart Performance Campaign,2025-03-24,Active
+CMP00302,ADV0145,Spark Ads Conversions 2,Conversions,Spark Ads,2025-03-17,Active
+CMP00303,ADV0145,Catalog Ads Conversions 3,Conversions,Catalog Ads,2025-02-03,Active
+CMP00304,ADV0146,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-03-17,Active
+CMP00305,ADV0146,App Promotion App Installs 2,App Installs,App Promotion,2025-01-20,Active
+CMP00306,ADV0146,App Promotion Traffic 3,Traffic,App Promotion,2025-03-03,Active
+CMP00307,ADV0147,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-03-10,Active
+CMP00308,ADV0147,Smart Performance Campaign Traffic 2,Traffic,Smart Performance Campaign,2025-03-03,Active
+CMP00309,ADV0147,Smart Performance Campaign App Installs 3,App Installs,Smart Performance Campaign,2025-03-03,Active
+CMP00310,ADV0148,Smart Performance Campaign Lead Generation 1,Lead Generation,Smart Performance Campaign,2025-01-06,Active
+CMP00311,ADV0149,Spark Ads Conversions 1,Conversions,Spark Ads,2025-02-03,Active
+CMP00312,ADV0149,Smart Performance Campaign Conversions 2,Conversions,Smart Performance Campaign,2025-03-31,Active
+CMP00313,ADV0150,Spark Ads Catalog Sales 1,Catalog Sales,Spark Ads,2025-02-03,Active
+CMP00314,ADV0150,Smart Performance Campaign Conversions 2,Conversions,Smart Performance Campaign,2025-02-03,Active
+CMP00315,ADV0151,Smart Performance Campaign Catalog Sales 1,Catalog Sales,Smart Performance Campaign,2025-01-13,Active
+CMP00316,ADV0151,App Promotion App Installs 2,App Installs,App Promotion,2025-02-03,Active
+CMP00317,ADV0151,App Promotion Traffic 3,Traffic,App Promotion,2025-01-27,Active
+CMP00318,ADV0152,Spark Ads Conversions 1,Conversions,Spark Ads,2025-03-17,Active
+CMP00319,ADV0153,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-03-24,Active
+CMP00320,ADV0153,Smart Performance Campaign Catalog Sales 2,Catalog Sales,Smart Performance Campaign,2025-03-03,Active
+CMP00321,ADV0154,Spark Ads Conversions 1,Conversions,Spark Ads,2025-01-06,Active
+CMP00322,ADV0155,Smart Performance Campaign Traffic 1,Traffic,Smart Performance Campaign,2025-03-03,Paused
+CMP00323,ADV0155,Spark Ads App Installs 2,App Installs,Spark Ads,2025-01-13,Active
+CMP00324,ADV0156,App Promotion App Installs 1,App Installs,App Promotion,2025-02-03,Paused
+CMP00325,ADV0157,Smart Performance Campaign Traffic 1,Traffic,Smart Performance Campaign,2025-02-03,Active
+CMP00326,ADV0158,Lead Gen Forms Lead Generation 1,Lead Generation,Lead Gen Forms,2025-01-27,Active
+CMP00327,ADV0159,Smart Performance Campaign Traffic 1,Traffic,Smart Performance Campaign,2025-02-24,Active
+CMP00328,ADV0159,App Promotion Traffic 2,Traffic,App Promotion,2025-02-10,Active
+CMP00329,ADV0160,Lead Gen Forms Lead Generation 1,Lead Generation,Lead Gen Forms,2025-03-10,Active
+CMP00330,ADV0160,App Promotion Traffic 2,Traffic,App Promotion,2025-03-24,Active
+CMP00331,ADV0160,Lead Gen Forms Lead Generation 3,Lead Generation,Lead Gen Forms,2025-02-03,Active
+CMP00332,ADV0161,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-02-10,Active
+CMP00333,ADV0162,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-01-27,Active
+CMP00334,ADV0162,Smart Performance Campaign Catalog Sales 2,Catalog Sales,Smart Performance Campaign,2025-02-17,Active
+CMP00335,ADV0162,Spark Ads Conversions 3,Conversions,Spark Ads,2025-01-06,Active
+CMP00336,ADV0163,Smart Performance Campaign Catalog Sales 1,Catalog Sales,Smart Performance Campaign,2025-02-17,Active
+CMP00337,ADV0163,App Promotion App Installs 2,App Installs,App Promotion,2025-01-27,Active
+CMP00338,ADV0164,Spark Ads Lead Generation 1,Lead Generation,Spark Ads,2025-03-17,Active
+CMP00339,ADV0165,Smart Performance Campaign App Installs 1,App Installs,Smart Performance Campaign,2025-01-20,Active
+CMP00340,ADV0165,Spark Ads Traffic 2,Traffic,Spark Ads,2025-04-07,Active
+CMP00341,ADV0165,Catalog Ads Conversions 3,Conversions,Catalog Ads,2025-04-07,Active
+CMP00342,ADV0166,Smart Performance Campaign Traffic 1,Traffic,Smart Performance Campaign,2025-02-03,Active
+CMP00343,ADV0167,App Promotion App Installs 1,App Installs,App Promotion,2025-01-13,Active
+CMP00344,ADV0167,Smart Performance Campaign Traffic 2,Traffic,Smart Performance Campaign,2025-01-13,Paused
+CMP00345,ADV0167,Smart Performance Campaign App Installs 3,App Installs,Smart Performance Campaign,2025-02-10,Paused
+CMP00346,ADV0168,Smart Performance Campaign Catalog Sales 1,Catalog Sales,Smart Performance Campaign,2025-01-13,Active
+CMP00347,ADV0168,Spark Ads Traffic 2,Traffic,Spark Ads,2025-02-24,Active
+CMP00348,ADV0168,Smart Performance Campaign App Installs 3,App Installs,Smart Performance Campaign,2025-03-24,Active
+CMP00349,ADV0169,Smart Performance Campaign Traffic 1,Traffic,Smart Performance Campaign,2025-02-17,Active
+CMP00350,ADV0169,Spark Ads Lead Generation 2,Lead Generation,Spark Ads,2025-01-13,Active
+CMP00351,ADV0169,App Promotion App Installs 3,App Installs,App Promotion,2025-01-13,Active
+CMP00352,ADV0169,Spark Ads Conversions 4,Conversions,Spark Ads,2025-03-31,Active
+CMP00353,ADV0170,Spark Ads Traffic 1,Traffic,Spark Ads,2025-02-03,Active
+CMP00354,ADV0171,Smart Performance Campaign Lead Generation 1,Lead Generation,Smart Performance Campaign,2025-03-10,Active
+CMP00355,ADV0172,Smart Performance Campaign Catalog Sales 1,Catalog Sales,Smart Performance Campaign,2025-03-31,Active
+CMP00356,ADV0172,Smart Performance Campaign App Installs 2,App Installs,Smart Performance Campaign,2025-02-10,Active
+CMP00357,ADV0172,Spark Ads App Installs 3,App Installs,Spark Ads,2025-04-07,Active
+CMP00358,ADV0173,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-01-13,Active
+CMP00359,ADV0174,Smart Performance Campaign Conversions 1,Conversions,Smart Performance Campaign,2025-01-20,Active
+CMP00360,ADV0175,Spark Ads App Installs 1,App Installs,Spark Ads,2025-03-10,Active
+CMP00361,ADV0176,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-04-07,Active
+CMP00362,ADV0176,Spark Ads Lead Generation 2,Lead Generation,Spark Ads,2025-01-27,Active
+CMP00363,ADV0176,Smart Performance Campaign Conversions 3,Conversions,Smart Performance Campaign,2025-01-27,Active
+CMP00364,ADV0177,Spark Ads Lead Generation 1,Lead Generation,Spark Ads,2025-01-20,Active
+CMP00365,ADV0178,Spark Ads Conversions 1,Conversions,Spark Ads,2025-01-20,Active
+CMP00366,ADV0178,Spark Ads App Installs 2,App Installs,Spark Ads,2025-02-24,Active
+CMP00367,ADV0178,App Promotion App Installs 3,App Installs,App Promotion,2025-03-17,Active
+CMP00368,ADV0179,Catalog Ads Conversions 1,Conversions,Catalog Ads,2025-01-20,Paused
+CMP00369,ADV0179,Spark Ads Catalog Sales 2,Catalog Sales,Spark Ads,2025-01-20,Active
+CMP00370,ADV0180,Spark Ads Catalog Sales 1,Catalog Sales,Spark Ads,2025-01-20,Active
